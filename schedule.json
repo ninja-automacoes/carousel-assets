@@ -237,7 +237,14 @@
     "dir": "workspace/2026-03-24/story-gargalo-adiado",
     "status": "ready",
     "angle": "dor-urgencia",
-    "slot_label": "manha"
+    "slot_label": "manha",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-03-24/story-gargalo-adiado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-03-24/story-gargalo-adiado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-03-24/story-gargalo-adiado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-03-24/story-gargalo-adiado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-03-24/story-gargalo-adiado/slide-05.png"
+    ]
   },
   {
     "status": "published",
@@ -623,7 +630,15 @@
     "time": "14:00",
     "title": "numero-virtual-meta",
     "dir": "workspace/2026-04-01/numero-virtual-meta",
-    "caption": "Você não precisa de chip pra ter WhatsApp Business API.\n\nNúmero virtual. Criado em 5 minutos na Meta. R$ 0 de mensalidade de operadora.\n\nA maioria acha que precisa de chip físico. Não precisa. A Meta permite criar um número virtual no painel deles. Você nunca compra um chip. O número fica vinculado ao seu App na Meta.\n\nChip: preso ao celular, cai se o celular cair. Virtual: fica no servidor da Meta, funciona de qualquer dispositivo, escala com o volume.\n\nNo API Oficial na Prática o processo de criação do número virtual está no módulo 2, passo a passo.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Você não precisa de chip pra ter WhatsApp Business API.\n\nNúmero virtual. Criado em 5 minutos na Meta. R$ 0 de mensalidade de operadora.\n\nA maioria acha que precisa de chip físico. Não precisa. A Meta permite criar um número virtual no painel deles. Você nunca compra um chip. O número fica vinculado ao seu App na Meta.\n\nChip: preso ao celular, cai se o celular cair. Virtual: fica no servidor da Meta, funciona de qualquer dispositivo, escala com o volume.\n\nNo API Oficial na Prática o processo de criação do número virtual está no módulo 2, passo a passo.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -632,7 +647,15 @@
     "time": "20:00",
     "title": "n8n-sem-pagar",
     "dir": "workspace/2026-04-01/n8n-sem-pagar",
-    "caption": "Zapier cobra R$ 250/mês. Make cobra R$ 180/mês.\n\nn8n: R$ 0/mês. Mesmo fluxo. Mesma automação.\n\nn8n é open source. Você instala no seu servidor. Sem limite de execuções. Sem custo por integração. Sem mensalidade. O único custo é o servidor que você já usa pra outras coisas.\n\nO que o n8n faz: conecta APIs, dispara mensagens no WhatsApp, atualiza CRM, envia emails, roda agentes de IA, integra com qualquer ferramenta via webhook.\n\nNo API Oficial na Prática o n8n já vem instalado na sua infraestrutura. 1 clique e está no ar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Zapier cobra R$ 250/mês. Make cobra R$ 180/mês.\n\nn8n: R$ 0/mês. Mesmo fluxo. Mesma automação.\n\nn8n é open source. Você instala no seu servidor. Sem limite de execuções. Sem custo por integração. Sem mensalidade. O único custo é o servidor que você já usa pra outras coisas.\n\nO que o n8n faz: conecta APIs, dispara mensagens no WhatsApp, atualiza CRM, envia emails, roda agentes de IA, integra com qualquer ferramenta via webhook.\n\nNo API Oficial na Prática o n8n já vem instalado na sua infraestrutura. 1 clique e está no ar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -641,7 +664,15 @@
     "time": "09:00",
     "title": "caso-uso-clinica",
     "dir": "workspace/2026-04-02/caso-uso-clinica",
-    "caption": "Clínica de 3 médicos. 80 pacientes/dia. Uma recepcionista cuidava de tudo.\n\nDepois do agente: a recepcionista cuida só do que o agente não consegue.\n\nA recepcionista gastava 4h/dia respondendo WhatsApp, confirmando consulta, ligando pra lembrar, gerindo cancelamento. O agente assumiu tudo isso.\n\nTaxa de no-show antes: 22%. Depois: 8%. O lembrete automático resolveu o que ligação não resolvia.\n\nO agente não substitui a recepcionista. Libera ela pra cuidar do que gera valor real.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Clínica de 3 médicos. 80 pacientes/dia. Uma recepcionista cuidava de tudo.\n\nDepois do agente: a recepcionista cuida só do que o agente não consegue.\n\nA recepcionista gastava 4h/dia respondendo WhatsApp, confirmando consulta, ligando pra lembrar, gerindo cancelamento. O agente assumiu tudo isso.\n\nTaxa de no-show antes: 22%. Depois: 8%. O lembrete automático resolveu o que ligação não resolvia.\n\nO agente não substitui a recepcionista. Libera ela pra cuidar do que gera valor real.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -649,7 +680,13 @@
     "date": "2026-04-02",
     "time": "11:30",
     "title": "story-mentoria-economia",
-    "dir": "workspace/2026-04-02/story-mentoria-economia"
+    "dir": "workspace/2026-04-02/story-mentoria-economia",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-04.png"
+    ]
   },
   {
     "status": "ready",
@@ -658,7 +695,15 @@
     "time": "14:00",
     "title": "warm-up-tiers",
     "dir": "workspace/2026-04-02/warm-up-tiers",
-    "caption": "Você tentou disparar 1.000 mensagens. Parou em 250.\n\nNão é bloqueio. É tier. E você não sabia que existia.\n\nA Meta tem um sistema de tiers que sobe conforme a qualidade das mensagens. Tier 1: 250/dia. Tier 2: 1.000/dia. Tier 3: 10.000/dia. Tier 4: 100.000/dia.\n\nO erro mais comum: tentar disparar 1.000 mensagens no primeiro dia. Você acha que foi bloqueado. Não foi. Só não subiu de tier ainda.\n\nA estratégia de subida de tier está documentada no API Oficial na Prática.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Você tentou disparar 1.000 mensagens. Parou em 250.\n\nNão é bloqueio. É tier. E você não sabia que existia.\n\nA Meta tem um sistema de tiers que sobe conforme a qualidade das mensagens. Tier 1: 250/dia. Tier 2: 1.000/dia. Tier 3: 10.000/dia. Tier 4: 100.000/dia.\n\nO erro mais comum: tentar disparar 1.000 mensagens no primeiro dia. Você acha que foi bloqueado. Não foi. Só não subiu de tier ainda.\n\nA estratégia de subida de tier está documentada no API Oficial na Prática.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -667,7 +712,15 @@
     "time": "20:00",
     "title": "chatwoot-como-usar",
     "dir": "workspace/2026-04-02/chatwoot-como-usar",
-    "caption": "O agente filtra. O humano fecha.\n\nChatwoot é onde os dois trabalham juntos. Uma tela. Todas as conversas.\n\nQuando o lead demonstra intenção de compra, o agente abre uma conversa no Chatwoot. O humano recebe a notificação, vê o histórico e assume a conversa. Sem perder contexto. Sem recomeçar do zero.\n\nO Chatwoot centraliza WhatsApp, Instagram e email numa tela só. Histórico completo de cada contato. Atribuição por agente. Etiquetas e estágios do funil.\n\nNo API Oficial na Prática o Chatwoot já vem instalado na infraestrutura.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "O agente filtra. O humano fecha.\n\nChatwoot é onde os dois trabalham juntos. Uma tela. Todas as conversas.\n\nQuando o lead demonstra intenção de compra, o agente abre uma conversa no Chatwoot. O humano recebe a notificação, vê o histórico e assume a conversa. Sem perder contexto. Sem recomeçar do zero.\n\nO Chatwoot centraliza WhatsApp, Instagram e email numa tela só. Histórico completo de cada contato. Atribuição por agente. Etiquetas e estágios do funil.\n\nNo API Oficial na Prática o Chatwoot já vem instalado na infraestrutura.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -676,7 +729,15 @@
     "time": "09:00",
     "title": "bofu-4-passos",
     "dir": "workspace/2026-04-03/bofu-4-passos",
-    "caption": "A infraestrutura sobe com 1 clique. Você cria o número na Meta. Conecta na API Oficial. Ativa os 3 agentes de IA.\n\nR$ 67. 40 minutos.\n\nPasso 1: N8N, banco de dados e Chatwoot sobem com 1 clique. Sem Linux.\nPasso 2 e 3: Você cria o App na Meta, registra o número virtual, conecta na API Oficial. Com tela do módulo ao lado.\nPasso 4: Agente Buscador, Agente Disparador, Agente Vendedor. Todos prontos. Você só ativa.\n\nIsso não é uma ferramenta que você baixa. É o setup que você faz uma vez. Quem faz o setup não pede reembolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "A infraestrutura sobe com 1 clique. Você cria o número na Meta. Conecta na API Oficial. Ativa os 3 agentes de IA.\n\nR$ 67. 40 minutos.\n\nPasso 1: N8N, banco de dados e Chatwoot sobem com 1 clique. Sem Linux.\nPasso 2 e 3: Você cria o App na Meta, registra o número virtual, conecta na API Oficial. Com tela do módulo ao lado.\nPasso 4: Agente Buscador, Agente Disparador, Agente Vendedor. Todos prontos. Você só ativa.\n\nIsso não é uma ferramenta que você baixa. É o setup que você faz uma vez. Quem faz o setup não pede reembolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -684,7 +745,13 @@
     "date": "2026-04-03",
     "time": "11:30",
     "title": "story-academy-cta",
-    "dir": "workspace/2026-04-03/story-academy-cta"
+    "dir": "workspace/2026-04-03/story-academy-cta",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-04.png"
+    ]
   },
   {
     "status": "ready",
@@ -693,7 +760,15 @@
     "time": "14:00",
     "title": "custo-total-infra",
     "dir": "workspace/2026-04-03/custo-total-infra",
-    "caption": "Antes de comprar, os custos reais:\n\nR$ 67 - API Oficial na Prática (único)\nR$ X/mês - infraestrutura\nTokens de IA - variável por conversa\n\nSem surpresa depois.\n\nO servidor roda n8n, Chatwoot e banco de dados. Custo mensal depende do provedor e do plano - o módulo mostra as opções reais.\n\nTokens de IA: em volume baixo (até 500 conversas/mês) o custo é irrisório. Em volume alto: proporcional ao resultado gerado.\n\nVs. SaaS similar: R$ 300-600/mês + markup + mensalidade. A diferença fica no seu bolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Antes de comprar, os custos reais:\n\nR$ 67 - API Oficial na Prática (único)\nR$ X/mês - infraestrutura\nTokens de IA - variável por conversa\n\nSem surpresa depois.\n\nO servidor roda n8n, Chatwoot e banco de dados. Custo mensal depende do provedor e do plano - o módulo mostra as opções reais.\n\nTokens de IA: em volume baixo (até 500 conversas/mês) o custo é irrisório. Em volume alto: proporcional ao resultado gerado.\n\nVs. SaaS similar: R$ 300-600/mês + markup + mensalidade. A diferença fica no seu bolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -702,7 +777,15 @@
     "time": "20:00",
     "title": "caso-uso-ecommerce",
     "dir": "workspace/2026-04-03/caso-uso-ecommerce",
-    "caption": "Loja online. 300 pedidos/dia.\n\n70% dos contatos eram só pra rastrear pedido. O agente assumiu. O suporte humano caiu 70%.\n\nCliente manda \"quero rastrear pedido\", o agente puxa o número, consulta a API dos Correios, manda o link de rastreamento com status atual. Zero interação humana. Resposta em 4 segundos.\n\nResultado após 60 dias: atendimento humano -70%, tempo de resposta de 2h pra 4 segundos, NPS subiu 18 pontos.\n\nO humano é caro demais pra ficar respondendo \"cadê meu pedido\".\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Loja online. 300 pedidos/dia.\n\n70% dos contatos eram só pra rastrear pedido. O agente assumiu. O suporte humano caiu 70%.\n\nCliente manda \"quero rastrear pedido\", o agente puxa o número, consulta a API dos Correios, manda o link de rastreamento com status atual. Zero interação humana. Resposta em 4 segundos.\n\nResultado após 60 dias: atendimento humano -70%, tempo de resposta de 2h pra 4 segundos, NPS subiu 18 pontos.\n\nO humano é caro demais pra ficar respondendo \"cadê meu pedido\".\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -711,7 +794,15 @@
     "time": "09:00",
     "title": "aluno-resultado-real",
     "dir": "workspace/2026-04-04/aluno-resultado-real",
-    "caption": "Aluno entrou no API Oficial na Prática sem saber o que era API.\n\nEm 40 minutos tinha agente respondendo cliente. Não sabia Linux. Não tinha servidor.\n\nO que ele tinha antes: Zap pessoal, respondendo manualmente um a um, perdendo lead no fim de semana.\n\nO que ele tem hoje: API Oficial, agente de IA qualificando 24h, Chatwoot, n8n. Tudo montado em 40 minutos.\n\nEm 3 meses: mais de 2.000 conversas atendidas pelo agente. Sem aumentar o time. Sem pagar mensalidade cara.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Aluno entrou no API Oficial na Prática sem saber o que era API.\n\nEm 40 minutos tinha agente respondendo cliente. Não sabia Linux. Não tinha servidor.\n\nO que ele tinha antes: Zap pessoal, respondendo manualmente um a um, perdendo lead no fim de semana.\n\nO que ele tem hoje: API Oficial, agente de IA qualificando 24h, Chatwoot, n8n. Tudo montado em 40 minutos.\n\nEm 3 meses: mais de 2.000 conversas atendidas pelo agente. Sem aumentar o time. Sem pagar mensalidade cara.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/aluno-resultado-real/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -719,7 +810,13 @@
     "date": "2026-04-04",
     "time": "11:30",
     "title": "story-waba-sexta",
-    "dir": "workspace/2026-04-04/story-waba-sexta"
+    "dir": "workspace/2026-04-04/story-waba-sexta",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-04.png"
+    ]
   },
   {
     "status": "ready",
@@ -728,7 +825,15 @@
     "time": "14:00",
     "title": "green-tick-verificado",
     "dir": "workspace/2026-04-04/green-tick-verificado",
-    "caption": "Esse símbolo verde no WhatsApp.\n\nCliente confia mais. Taxa de abertura sobe. E a maioria das empresas não tem.\n\nO green tick faz o nome da empresa aparecer no lugar do número, com badge verde ao lado. Cliente vê antes de abrir a mensagem.\n\nComo conseguir: API Oficial ativa, conta Business na Meta verificada, perfil preenchido, histórico de mensagens com boa qualidade.\n\nNo API Oficial na Prática o módulo de configuração cobre o processo de verificação da conta na Meta, incluindo o passo a passo pra pedir o green tick.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Esse símbolo verde no WhatsApp.\n\nCliente confia mais. Taxa de abertura sobe. E a maioria das empresas não tem.\n\nO green tick faz o nome da empresa aparecer no lugar do número, com badge verde ao lado. Cliente vê antes de abrir a mensagem.\n\nComo conseguir: API Oficial ativa, conta Business na Meta verificada, perfil preenchido, histórico de mensagens com boa qualidade.\n\nNo API Oficial na Prática o módulo de configuração cobre o processo de verificação da conta na Meta, incluindo o passo a passo pra pedir o green tick.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -737,7 +842,15 @@
     "time": "20:00",
     "title": "por-que-agora",
     "dir": "workspace/2026-04-04/por-que-agora",
-    "caption": "A Meta aumentou os requisitos de aprovação duas vezes nos últimos 12 meses.\n\nQuem entrou antes passou na versão fácil. Quem entra agora ainda pega a versão razoável.\n\nA tendência é clara: cada atualização da Meta torna o processo um pouco mais burocrático. Quem entrou em 2023 passou por um processo mais simples que quem entrou em 2025.\n\nInfraestrutura boa leva tempo pra construir resultado. Quem começa hoje colhe em 3 meses. Quem espera 3 meses começa em 6.\n\nO que muda em 40 minutos: infraestrutura no ar, número virtual na Meta, API Oficial conectada, 3 agentes de IA ativados. R$ 67. Uma vez.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "A Meta aumentou os requisitos de aprovação duas vezes nos últimos 12 meses.\n\nQuem entrou antes passou na versão fácil. Quem entra agora ainda pega a versão razoável.\n\nA tendência é clara: cada atualização da Meta torna o processo um pouco mais burocrático. Quem entrou em 2023 passou por um processo mais simples que quem entrou em 2025.\n\nInfraestrutura boa leva tempo pra construir resultado. Quem começa hoje colhe em 3 meses. Quem espera 3 meses começa em 6.\n\nO que muda em 40 minutos: infraestrutura no ar, número virtual na Meta, API Oficial conectada, 3 agentes de IA ativados. R$ 67. Uma vez.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -746,7 +859,15 @@
     "time": "09:00",
     "title": "sistema-trabalhando-sabado",
     "dir": "workspace/2026-04-05/sistema-trabalhando-sabado",
-    "caption": "São 8h do sábado.\n\nSeu agente já respondeu 47 mensagens. Qualificou 12 leads. Marcou 3 reuniões pra segunda. Você ainda tava dormindo.\n\nSeu concorrente acordou sábado sem nenhum lead novo. Você acordou com 3 reuniões marcadas. A diferença não foi trabalhar mais no sábado. Foi ter configurado o sistema certo.\n\nAPI Oficial. N8n. Agente de IA. Chatwoot. Uma vez configurado: trabalha de segunda a segunda. Sem falta. Sem hora extra.\n\nNo API Oficial na Prática você monta esse sistema em 40 minutos. R$ 67. Uma vez.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "São 8h do sábado.\n\nSeu agente já respondeu 47 mensagens. Qualificou 12 leads. Marcou 3 reuniões pra segunda. Você ainda tava dormindo.\n\nSeu concorrente acordou sábado sem nenhum lead novo. Você acordou com 3 reuniões marcadas. A diferença não foi trabalhar mais no sábado. Foi ter configurado o sistema certo.\n\nAPI Oficial. N8n. Agente de IA. Chatwoot. Uma vez configurado: trabalha de segunda a segunda. Sem falta. Sem hora extra.\n\nNo API Oficial na Prática você monta esse sistema em 40 minutos. R$ 67. Uma vez.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -754,7 +875,13 @@
     "date": "2026-04-05",
     "time": "11:30",
     "title": "story-academy-sabado",
-    "dir": "workspace/2026-04-05/story-academy-sabado"
+    "dir": "workspace/2026-04-05/story-academy-sabado",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-04.png"
+    ]
   },
   {
     "status": "ready",
@@ -763,7 +890,15 @@
     "time": "14:00",
     "title": "3-erros-configuracao",
     "dir": "workspace/2026-04-05/3-erros-configuracao",
-    "caption": "3 erros que travam o setup da API Oficial.\n\nO terceiro é o mais comum. E o que mais causa ban.\n\nErro 1: Template na categoria errada. A Meta rejeita. Você não sabe por quê. Template de marketing não é template de utilidade. Os critérios são diferentes.\n\nErro 2: Webhook configurado errado. A mensagem sai mas não chega no n8n. URL errada ou sem verificação de token.\n\nErro 3: Volume alto sem tier. Você está no Tier 1 (250/dia) e tenta disparar 1.000. Repetir isso derruba a qualidade da conta e leva ao ban.\n\nOs 3 estão cobertos no API Oficial na Prática com passo a passo pra não errar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "3 erros que travam o setup da API Oficial.\n\nO terceiro é o mais comum. E o que mais causa ban.\n\nErro 1: Template na categoria errada. A Meta rejeita. Você não sabe por quê. Template de marketing não é template de utilidade. Os critérios são diferentes.\n\nErro 2: Webhook configurado errado. A mensagem sai mas não chega no n8n. URL errada ou sem verificação de token.\n\nErro 3: Volume alto sem tier. Você está no Tier 1 (250/dia) e tenta disparar 1.000. Repetir isso derruba a qualidade da conta e leva ao ban.\n\nOs 3 estão cobertos no API Oficial na Prática com passo a passo pra não errar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-06.png"
+    ]
   },
   {
     "status": "ready",
@@ -772,6 +907,14 @@
     "time": "20:00",
     "title": "api-vs-chips-custo-real",
     "dir": "workspace/2026-04-05/api-vs-chips-custo-real",
-    "caption": "3 chips. 3 ferramentas não oficiais. R$ 150/mês.\n\nUm ban e você perdeu tudo.\n\nAPI Oficial: 1 número. Sem chip. Sem ban.\n\nO setup com chips: R$ 90/mês em chips + R$ 150-300/mês em ferramenta = R$ 240-390/mês. Garantia: nenhuma. A Meta detecta e bane porque a ferramenta simula celular mandando mensagem.\n\nAPI Oficial: custo similar ou menor. Sem risco de ban. Porque você usa o servidor deles.\n\nE quando bana no chip - e vai banir - você começa do zero. Contatos perdidos. Histórico perdido.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "3 chips. 3 ferramentas não oficiais. R$ 150/mês.\n\nUm ban e você perdeu tudo.\n\nAPI Oficial: 1 número. Sem chip. Sem ban.\n\nO setup com chips: R$ 90/mês em chips + R$ 150-300/mês em ferramenta = R$ 240-390/mês. Garantia: nenhuma. A Meta detecta e bane porque a ferramenta simula celular mandando mensagem.\n\nAPI Oficial: custo similar ou menor. Sem risco de ban. Porque você usa o servidor deles.\n\nE quando bana no chip - e vai banir - você começa do zero. Contatos perdidos. Histórico perdido.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-06.png"
+    ]
   }
 ]
