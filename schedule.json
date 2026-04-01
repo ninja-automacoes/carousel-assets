@@ -235,7 +235,7 @@
     "product": "EXPRESS",
     "title": "story-gargalo-adiado",
     "dir": "workspace/2026-03-24/story-gargalo-adiado",
-    "status": "ready",
+    "status": "published",
     "angle": "dor-urgencia",
     "slot_label": "manha",
     "slide_urls": [
@@ -624,7 +624,7 @@
     "media_id": "18365661088206560"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-01",
     "time": "14:00",
@@ -638,7 +638,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/numero-virtual-meta/slide-06.png"
-    ]
+    ],
+    "media_id": "17986385723958851"
   },
   {
     "status": "ready",
