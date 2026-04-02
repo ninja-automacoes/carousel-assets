@@ -708,7 +708,7 @@
     "media_id": "18023643077814485"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-02",
     "time": "20:00",
@@ -722,7 +722,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-06.png"
-    ]
+    ],
+    "media_id": "18043524344760584"
   },
   {
     "status": "ready",
