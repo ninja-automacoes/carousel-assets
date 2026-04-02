@@ -690,7 +690,7 @@
     ]
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-02",
     "time": "14:00",
@@ -704,7 +704,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-06.png"
-    ]
+    ],
+    "media_id": "18023643077814485"
   },
   {
     "status": "ready",
