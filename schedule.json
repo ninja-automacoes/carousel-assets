@@ -726,7 +726,7 @@
     "media_id": "18043524344760584"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-03",
     "time": "09:00",
@@ -740,7 +740,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-06.png"
-    ]
+    ],
+    "media_id": "18047305820733538"
   },
   {
     "status": "ready",
