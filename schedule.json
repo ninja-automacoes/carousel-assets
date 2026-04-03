@@ -776,7 +776,7 @@
     "media_id": "18091961027131789"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-03",
     "time": "20:00",
@@ -790,7 +790,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-06.png"
-    ]
+    ],
+    "media_id": "17936574228195847"
   },
   {
     "status": "ready",
