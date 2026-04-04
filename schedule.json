@@ -788,7 +788,7 @@
     "media_id": "18100529933484178"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "story",
     "date": "2026-04-04",
     "time": "11:30",
@@ -797,7 +797,8 @@
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-01.png"
     ],
-    "product": "MENTORIA"
+    "product": "MENTORIA",
+    "media_id": "17943918570159069"
   },
   {
     "status": "ready",
