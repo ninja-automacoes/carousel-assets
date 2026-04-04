@@ -744,7 +744,7 @@
     "media_id": "18047305820733538"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "story",
     "date": "2026-04-03",
     "time": "11:30",
@@ -755,7 +755,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-04.png"
-    ]
+    ],
+    "media_id": "17882901567480858"
   },
   {
     "status": "published",
