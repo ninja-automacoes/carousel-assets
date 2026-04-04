@@ -642,7 +642,7 @@
     "media_id": "17986385723958851"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-01",
     "time": "20:00",
@@ -656,7 +656,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-01/n8n-sem-pagar/slide-06.png"
-    ]
+    ],
+    "media_id": "17883809616494582"
   },
   {
     "status": "published",
@@ -673,24 +674,23 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/caso-uso-clinica/slide-06.png"
-    ]
-  },
-  {
-    "status": "ready",
-    "type": "story",
-    "date": "2026-04-02",
-    "time": "11:30",
-    "title": "story-mentoria-economia",
-    "dir": "workspace/2026-04-02/story-mentoria-economia",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/story-mentoria-economia/slide-04.png"
-    ]
+    ],
+    "media_id": "18177864982388479"
   },
   {
     "status": "published",
+    "type": "story",
+    "date": "2026-04-02",
+    "time": "11:30",
+    "title": "story-mentoria-levantada-mao",
+    "dir": "workspace/2026-04-02/story-mentoria-economia",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/workspace/2026-04-02/story-mentoria-economia/slide-01.png"
+    ],
+    "product": "MENTORIA"
+  },
+  {
+    "status": "ready",
     "type": "carousel",
     "date": "2026-04-02",
     "time": "14:00",
@@ -704,11 +704,10 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/warm-up-tiers/slide-06.png"
-    ],
-    "media_id": "18023643077814485"
+    ]
   },
   {
-    "status": "published",
+    "status": "ready",
     "type": "carousel",
     "date": "2026-04-02",
     "time": "20:00",
@@ -722,17 +721,16 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-02/chatwoot-como-usar/slide-06.png"
-    ],
-    "media_id": "18043524344760584"
+    ]
   },
   {
-    "status": "published",
+    "status": "ready",
     "type": "carousel",
     "date": "2026-04-03",
     "time": "09:00",
     "title": "bofu-4-passos",
     "dir": "workspace/2026-04-03/bofu-4-passos",
-    "caption": "A infraestrutura sobe com 1 clique. Você cria o número na Meta. Conecta na API Oficial. Ativa os 3 agentes de IA.\n\n40 minutos.\n\nPasso 1: N8N, banco de dados e Chatwoot sobem com 1 clique. Sem Linux.\nPasso 2 e 3: Você cria o App na Meta, registra o número virtual (tem custo mensal da operadora - o módulo mostra as opções), conecta na API Oficial. Com tela do módulo ao lado.\nPasso 4: Agente Buscador, Agente Disparador, Agente Vendedor. Todos prontos. Você só ativa.\n\nIsso não é uma ferramenta que você baixa. É o setup que você faz uma vez. Quem faz o setup não pede reembolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "caption": "Você já tentou configurar API Oficial. Travou na credencial da Meta. No webhook. No número que não verificou.\n\nAqui você acompanha cada passo ao vivo.\n\nPasso 1: N8N, banco de dados e Chatwoot sobem com 1 clique. Sem Linux.\nPasso 2 e 3: Você cria o App na Meta, registra o número virtual (tem custo mensal da operadora - o módulo mostra as opções), conecta na API Oficial. Com tela do módulo ao lado.\nPasso 4: Agente Buscador, Agente Disparador, Agente Vendedor. Todos prontos. Você só ativa.\n\nA infra sobe sozinha. Você conecta. Ativa os agentes. Setup que você faz uma vez. Quem faz o setup não pede reembolso.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-02.png",
@@ -740,44 +738,22 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/bofu-4-passos/slide-06.png"
-    ],
-    "media_id": "18047305820733538"
+    ]
   },
   {
-    "status": "published",
+    "status": "ready",
     "type": "story",
     "date": "2026-04-03",
     "time": "11:30",
-    "title": "story-academy-cta",
+    "title": "story-express-gargalo",
     "dir": "workspace/2026-04-03/story-academy-cta",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-04.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/story-academy-cta/slide-01.png"
     ],
-    "media_id": "17882901567480858"
+    "product": "EXPRESS"
   },
   {
-    "status": "published",
-    "type": "carousel",
-    "date": "2026-04-03",
-    "time": "14:00",
-    "title": "custo-total-infra",
-    "dir": "workspace/2026-04-03/custo-total-infra",
-    "caption": "Antes de entrar, os custos reais:\n\nTreinamento - pagamento único\nInfraestrutura - assinatura mensal\nTokens de IA - variável por conversa\n\nSem surpresa depois.\n\nO servidor roda n8n, Chatwoot e banco de dados. Custo mensal depende do provedor e do plano - o módulo mostra as opções reais.\n\nTokens de IA: em volume baixo o custo é irrisório. Em volume alto: proporcional ao resultado gerado.\n\nSaaS equivalente cobra mensalidade fixa mais markup por mensagem. Na API Oficial você paga só pelo que usa, sem markup de intermediário.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-06.png"
-    ],
-    "media_id": "18091961027131789"
-  },
-  {
-    "status": "published",
+    "status": "ready",
     "type": "carousel",
     "date": "2026-04-03",
     "time": "20:00",
@@ -791,8 +767,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/caso-uso-ecommerce/slide-06.png"
-    ],
-    "media_id": "17936574228195847"
+    ]
   },
   {
     "status": "ready",
@@ -819,28 +794,9 @@
     "title": "story-waba-sexta",
     "dir": "workspace/2026-04-04/story-waba-sexta",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-04.png"
-    ]
-  },
-  {
-    "status": "ready",
-    "type": "carousel",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "title": "green-tick-verificado",
-    "dir": "workspace/2026-04-04/green-tick-verificado",
-    "caption": "Esse símbolo verde no WhatsApp.\n\nCliente confia mais. Taxa de abertura sobe. E a maioria das empresas não tem.\n\nO green tick faz o nome da empresa aparecer no lugar do número, com badge verde ao lado. Cliente vê antes de abrir a mensagem.\n\nComo conseguir: API Oficial ativa, conta Business na Meta verificada, perfil preenchido, histórico de mensagens com boa qualidade.\n\nNo API Oficial na Prática o módulo de configuração cobre o processo de verificação da conta na Meta, incluindo o passo a passo pra pedir o green tick.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/green-tick-verificado/slide-06.png"
-    ]
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/story-waba-sexta/slide-01.png"
+    ],
+    "product": "MENTORIA"
   },
   {
     "status": "ready",
@@ -881,31 +837,12 @@
     "type": "story",
     "date": "2026-04-05",
     "time": "11:30",
-    "title": "story-academy-sabado",
+    "title": "story-mentoria-escalar",
     "dir": "workspace/2026-04-05/story-academy-sabado",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-04.png"
-    ]
-  },
-  {
-    "status": "ready",
-    "type": "carousel",
-    "date": "2026-04-05",
-    "time": "14:00",
-    "title": "3-erros-configuracao",
-    "dir": "workspace/2026-04-05/3-erros-configuracao",
-    "caption": "3 erros que travam o setup da API Oficial.\n\nO terceiro é o mais comum. E o que mais causa ban.\n\nErro 1: Template na categoria errada. A Meta rejeita. Você não sabe por quê. Template de marketing não é template de utilidade. Os critérios são diferentes.\n\nErro 2: Webhook configurado errado. A mensagem sai mas não chega no n8n. URL errada ou sem verificação de token.\n\nErro 3: Volume alto sem tier. Você está no Tier 1 (250/dia) e tenta disparar 1.000. Repetir isso derruba a qualidade da conta e leva ao ban.\n\nOs 3 estão cobertos no API Oficial na Prática com passo a passo pra não errar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-06.png"
-    ]
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-01.png"
+    ],
+    "product": "EXPRESS"
   },
   {
     "status": "ready",
@@ -922,6 +859,73 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-06.png"
+    ]
+  },
+  {
+    "status": "ready",
+    "type": "carousel",
+    "date": "2026-04-06",
+    "time": "09:00",
+    "title": "custo-total-infra",
+    "dir": "workspace/2026-04-03/custo-total-infra",
+    "caption": "Antes de entrar, os custos reais:\n\nTreinamento - pagamento único\nInfraestrutura - assinatura mensal\nTokens de IA - variável por conversa\n\nSem surpresa depois.\n\nO servidor roda n8n, Chatwoot e banco de dados. Custo mensal depende do provedor e do plano - o módulo mostra as opções reais.\n\nTokens de IA: em volume baixo, custo irrisório. Em volume alto: proporcional ao resultado gerado.\n\nSaaS equivalente cobra mensalidade fixa mais markup por mensagem. Na API Oficial você paga só pelo que usa, sem markup de intermediário.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-06.png"
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "dir": "workspace/2026-04-06/story-levantada-mentoria",
+    "product": "MENTORIA",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/story-levantada-mentoria/slide-01.png"
+    ]
+  },
+  {
+    "status": "ready",
+    "type": "carousel",
+    "date": "2026-04-07",
+    "time": "09:00",
+    "title": "3-erros-configuracao",
+    "dir": "workspace/2026-04-05/3-erros-configuracao",
+    "caption": "3 erros que travam o setup da API Oficial.\n\nO terceiro é o mais comum. E o que mais causa ban.\n\nErro 1: Template na categoria errada. A Meta rejeita. Você não sabe por quê. Template de marketing não é template de utilidade. Os critérios são diferentes.\n\nErro 2: Webhook configurado errado. A mensagem sai mas não chega no n8n. URL errada ou sem verificação de token.\n\nErro 3: Volume alto sem tier. Você está no Tier 1 (250/dia) e tenta disparar 1.000. Repetir isso derruba a qualidade da conta e leva ao ban.\n\nOs 3 estão cobertos no API Oficial na Prática com passo a passo pra não errar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-06.png"
+    ]
+  },
+  {
+    "date": "2026-04-07",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "dir": "workspace/2026-04-07/story-levantada-express",
+    "product": "EXPRESS",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/story-levantada-express/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-04-08",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "dir": "workspace/2026-04-08/story-levantada-close",
+    "product": "MENTORIA",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/story-levantada-close/slide-01.png"
     ]
   }
 ]
