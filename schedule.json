@@ -870,15 +870,15 @@
     "date": "2026-04-06",
     "time": "09:00",
     "title": "custo-total-infra",
-    "dir": "workspace/2026-04-03/custo-total-infra",
+    "dir": "workspace/2026-04-06/custo-total-infra",
     "caption": "Antes de entrar, os custos reais:\n\nTreinamento - pagamento único\nInfraestrutura - assinatura mensal\nTokens de IA - variável por conversa\n\nSem surpresa depois.\n\nO servidor roda n8n, Chatwoot e banco de dados. Custo mensal depende do provedor e do plano - o módulo mostra as opções reais.\n\nTokens de IA: em volume baixo, custo irrisório. Em volume alto: proporcional ao resultado gerado.\n\nSaaS equivalente cobra mensalidade fixa mais markup por mensagem. Na API Oficial você paga só pelo que usa, sem markup de intermediário.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/custo-total-infra/slide-06.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-06.png"
     ]
   },
   {
@@ -895,18 +895,35 @@
   {
     "status": "ready",
     "type": "carousel",
+    "date": "2026-04-06",
+    "time": "20:00",
+    "title": "green-tick-verificado",
+    "dir": "workspace/2026-04-06/green-tick-verificado",
+    "caption": "A maioria das empresas manda mensagem de um número desconhecido.\n\nO cliente não sabe quem é. Abre com desconfiança. Taxa de bloqueio sobe.\n\nCom o green tick, o nome da empresa aparece antes de abrir. Badge verde ao lado. Reconhecimento imediato.\n\nPara conseguir: API Oficial ativa, conta Business verificada na Meta, histórico de mensagens com qualidade.\n\nO processo de solicitação tá coberto no API Oficial na Prática.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-06.png"
+    ]
+  },
+  {
+    "status": "ready",
+    "type": "carousel",
     "date": "2026-04-07",
     "time": "09:00",
     "title": "3-erros-configuracao",
-    "dir": "workspace/2026-04-05/3-erros-configuracao",
+    "dir": "workspace/2026-04-07/3-erros-configuracao",
     "caption": "3 erros que travam o setup da API Oficial.\n\nO terceiro é o mais comum. E o que mais causa ban.\n\nErro 1: Template na categoria errada. A Meta rejeita. Você não sabe por quê. Template de marketing não é template de utilidade. Os critérios são diferentes.\n\nErro 2: Webhook configurado errado. A mensagem sai mas não chega no n8n. URL errada ou sem verificação de token.\n\nErro 3: Volume alto sem tier. Você está no Tier 1 (250/dia) e tenta disparar 1.000. Repetir isso derruba a qualidade da conta e leva ao ban.\n\nOs 3 estão cobertos no API Oficial na Prática com passo a passo pra não errar.\n\nComenta WABA aqui embaixo.\n\nSe quiser mais sobre API Oficial na prática, segue o perfil.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/3-erros-configuracao/slide-06.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-06.png"
     ]
   },
   {
