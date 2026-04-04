@@ -801,7 +801,7 @@
     "media_id": "17943918570159069"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-04",
     "time": "20:00",
@@ -815,7 +815,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/por-que-agora/slide-06.png"
-    ]
+    ],
+    "media_id": "18082122524075957"
   },
   {
     "status": "ready",
