@@ -819,7 +819,7 @@
     "media_id": "18082122524075957"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-05",
     "time": "09:00",
@@ -833,7 +833,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/sistema-trabalhando-sabado/slide-06.png"
-    ]
+    ],
+    "media_id": "18003516806910292"
   },
   {
     "status": "published",
