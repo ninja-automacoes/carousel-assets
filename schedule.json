@@ -836,7 +836,7 @@
     ]
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "story",
     "date": "2026-04-05",
     "time": "11:30",
@@ -845,7 +845,8 @@
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/story-academy-sabado/slide-01.png"
     ],
-    "product": "EXPRESS"
+    "product": "EXPRESS",
+    "media_id": "18124575064599890"
   },
   {
     "status": "ready",
