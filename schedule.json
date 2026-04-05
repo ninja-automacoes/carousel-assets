@@ -850,7 +850,7 @@
     "media_id": "18124575064599890"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-05",
     "time": "20:00",
@@ -864,7 +864,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/api-vs-chips-custo-real/slide-06.png"
-    ]
+    ],
+    "media_id": "18071854943259541"
   },
   {
     "status": "ready",
