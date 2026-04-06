@@ -868,7 +868,7 @@
     "media_id": "18071854943259541"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-06",
     "time": "09:00",
@@ -882,7 +882,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/custo-total-infra/slide-06.png"
-    ]
+    ],
+    "media_id": "18084666605595591"
   },
   {
     "date": "2026-04-06",
