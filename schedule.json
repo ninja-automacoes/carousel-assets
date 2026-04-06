@@ -897,7 +897,7 @@
     ]
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-06",
     "time": "20:00",
@@ -911,7 +911,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/green-tick-verificado/slide-06.png"
-    ]
+    ],
+    "media_id": "18004679537906466"
   },
   {
     "status": "ready",
