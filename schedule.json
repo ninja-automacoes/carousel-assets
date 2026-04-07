@@ -915,7 +915,7 @@
     "media_id": "18004679537906466"
   },
   {
-    "status": "ready",
+    "status": "published",
     "type": "carousel",
     "date": "2026-04-07",
     "time": "09:00",
@@ -929,7 +929,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/3-erros-configuracao/slide-06.png"
-    ]
+    ],
+    "media_id": "17907446226383439"
   },
   {
     "date": "2026-04-07",
