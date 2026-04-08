@@ -753,6 +753,23 @@
     "product": "EXPRESS"
   },
   {
+    "date": "2026-04-03",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "resposta-que-fecha-venda",
+    "dir": "workspace/2026-04-03/resposta-que-fecha-venda",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-03/resposta-que-fecha-venda/slide-06.png"
+    ],
+    "caption": "Ele pediu orçamento às 10h.\n\nVocê viu às 14h.\n\nEle já comprou de outro.\n\n78% dos clientes fecham com o primeiro vendedor que responde. Não com o mais barato. Não com o melhor produto. Com o mais rápido.\n\nCom API Oficial + n8n, a primeira resposta vai automática em segundos. O fluxo qualifica o lead, manda o link de reunião e confirma o horário. Você entra só pra fechar.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
     "status": "ready",
     "type": "carousel",
     "date": "2026-04-03",
@@ -799,6 +816,23 @@
     ],
     "product": "MENTORIA",
     "media_id": "17943918570159069"
+  },
+  {
+    "date": "2026-04-04",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "lead-frio-reativado",
+    "dir": "workspace/2026-04-04/lead-frio-reativado",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-04/lead-frio-reativado/slide-06.png"
+    ],
+    "caption": "Você tem 400 contatos no CRM.\n\nA maioria não respondeu à segunda mensagem.\n\nLead frio não é lead perdido. É lead que chegou na hora errada.\n\nCom API Oficial, você manda uma sequência de reativação em massa sem chip, sem ferramenta não oficial, sem risco de ban. O fluxo identifica quem responde e passa pro atendimento humano. Os outros continuam até engajar ou sair da lista.\n\n400 contatos que você já pagou pra adquirir. Nenhum custo adicional pra tentar de novo.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
   },
   {
     "status": "published",
@@ -850,6 +884,23 @@
     "media_id": "18124575064599890"
   },
   {
+    "date": "2026-04-05",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "integracao-qualquer-sistema",
+    "dir": "workspace/2026-04-05/integracao-qualquer-sistema",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-05/integracao-qualquer-sistema/slide-06.png"
+    ],
+    "caption": "Seu CRM não fala com seu WhatsApp.\n\nVocê copia e cola mensagem. Marca status na mão. Perde lead no meio do funil.\n\nAPI Oficial + n8n conecta com qualquer sistema que tenha webhook. HubSpot. RD Station. Google Sheets. Notion. Airtable. ActiveCampaign.\n\nQuando o lead avança no funil, o n8n manda a mensagem certa automaticamente. A ferramenta que você já paga pode finalmente trabalhar sozinha.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
     "status": "published",
     "type": "carousel",
     "date": "2026-04-05",
@@ -895,6 +946,23 @@
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/story-levantada-mentoria/slide-01.png"
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "webhook-que-nao-funciona",
+    "dir": "workspace/2026-04-06/webhook-que-nao-funciona",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-06/webhook-que-nao-funciona/slide-06.png"
+    ],
+    "caption": "Você configurou o webhook.\nMandou mensagem de teste.\n\nNada chegou no n8n.\n\nÉ o erro mais comum em quem tá configurando a API Oficial pela primeira vez. São 3 pontos de falha: URL sem HTTPS, token de verificação diferente, eventos não selecionados no painel da Meta.\n\nO terceiro é o mais silencioso. A Meta aceita o webhook. O n8n fica esperando. Mas você nunca marcou 'messages' na lista de eventos.\n\nNo API Oficial na Prática, cada passo de setup é mostrado em vídeo com o erro que aparece na tela.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
   },
   {
     "status": "published",
@@ -944,6 +1012,57 @@
     ]
   },
   {
+    "date": "2026-04-07",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "whatsapp-99-por-cento",
+    "dir": "workspace/2026-04-07/whatsapp-99-por-cento",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/whatsapp-99-por-cento/slide-06.png"
+    ],
+    "caption": "99% dos brasileiros com smartphone usam WhatsApp.\n97% abrem o app pelo menos 1 vez por dia.\n28 vezes por dia em média.\n\nNenhum canal tem esse número.\n\nE 67% das empresas de comércio e serviços já vendem por lá. Quase nenhuma tem automação de verdade.\n\nEsse gap é o seu mercado.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #automacao #waba #whatsappapi #marketingdigital #whatsappbusiness #n8n #empreendedorismo"
+  },
+  {
+    "date": "2026-04-07",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "automacao-que-fecha-sozinha",
+    "dir": "workspace/2026-04-07/automacao-que-fecha-sozinha",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-07/automacao-que-fecha-sozinha/slide-06.png"
+    ],
+    "caption": "Sábado, 23h.\n\nAlguém mandou mensagem perguntando sobre o serviço.\n\nO fluxo respondeu. Fez as perguntas de qualificação. Mandou o link. A pessoa pagou.\n\nSegunda de manhã, você acordou com uma venda nova. Sem abrir o celular. Sem perder o fim de semana.\n\nAPI Oficial + n8n + uma sequência bem montada fecha sozinha enquanto você dorme. A única coisa que você precisa fazer é configurar uma vez.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-08",
+    "time": "09:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "empresas-sem-automacao",
+    "dir": "workspace/2026-04-08/empresas-sem-automacao",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/empresas-sem-automacao/slide-06.png"
+    ],
+    "caption": "Um estudo da McKinsey disse algo que a maioria dos gestores ainda não viu.\n\n67% das empresas que não adotarem IA estrategicamente vão perder competitividade. E 78% das empresas brasileiras já investiram em automação.\n\nOs outros 22% estão perdendo clientes pro concorrente agora.\n\nAinda dá tempo de ser quem oferece isso pro mercado. Mas cada semana que passa, menos espaço disponível.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#automacao #ia #inteligenciaartificial #whatsapp #waba #n8n #empreendedorismo #marketingdigital #automacaocomercial"
+  },
+  {
     "date": "2026-04-08",
     "time": "11:30",
     "type": "story",
@@ -953,5 +1072,293 @@
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/story-levantada-close/slide-01.png"
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "agente-vs-chatbot-diferenca",
+    "dir": "workspace/2026-04-08/agente-vs-chatbot-diferenca",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/agente-vs-chatbot-diferenca/slide-06.png"
+    ],
+    "caption": "Você colocou um chatbot no WhatsApp.\n\nEle responde 'Olá! Como posso ajudar?'.\nAí o cliente sai do fluxo. E para tudo.\n\nChatbot é árvore de decisão. Agente com IA entende contexto, responde pergunta fora do script e continua a conversa.\n\nA diferença não é visual. É o LLM que processa a mensagem antes de responder.\n\nNo API Oficial na Prática você aprende a configurar agentes com IA no n8n, conectado ao WhatsApp oficial da Meta.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-08",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "mercado-ia-97-porcento",
+    "dir": "workspace/2026-04-08/mercado-ia-97-porcento",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-08/mercado-ia-97-porcento/slide-06.png"
+    ],
+    "caption": "A demanda por profissionais de automação e IA cresceu 97% em 3 anos no Brasil. E ainda falta mão de obra qualificada.\n\nSalários entre R$ 6.000 e R$ 32.000+ por mês pra quem domina o setor.\n\nVocê não precisa ser engenheiro. Precisa saber configurar o que o mercado mais quer: automação de WhatsApp com API Oficial.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#automacao #ia #waba #whatsappapi #mercadodetrabalho #n8n #whatsapp #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-09",
+    "time": "09:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "whatsapp-porta-de-entrada",
+    "dir": "workspace/2026-04-09/whatsapp-porta-de-entrada",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/whatsapp-porta-de-entrada/slide-06.png"
+    ],
+    "caption": "67% das empresas brasileiras vendem pelo WhatsApp como canal principal.\n\nO salão. A clínica. A loja. O pet shop. Toda cidade do Brasil tem dezenas delas. Nenhuma tem automação de verdade.\n\nVocê pode ser o cara que resolve isso. Setup único, manutenção mensal. Mesmo esforço que um freela de site. Resultado muito diferente.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #waba #automacao #prestadordeservico #whatsappapi #n8n #freelancer #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-09",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "title": "story-waba-demanda",
+    "dir": "workspace/2026-04-09/story-waba-demanda",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-04-09",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "template-categoria-errada",
+    "dir": "workspace/2026-04-09/template-categoria-errada",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/template-categoria-errada/slide-06.png"
+    ],
+    "caption": "Você criou o template. A Meta rejeitou.\n\nSem explicação clara.\n\nNa maioria dos casos, é categoria errada. Template de marketing enviado como utilidade. A Meta bloqueia silenciosamente.\n\nA regra simples: se você inicia a conversa sem o cliente ter pedido, é marketing. Se é resposta a algo que ele fez, é utilidade.\n\nEscolher errado não é erro de criativo. É erro de categoria que atrasa o setup inteiro e derruba a qualidade da conta.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-09",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "meta-ai-whatsapp",
+    "dir": "workspace/2026-04-09/meta-ai-whatsapp",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/meta-ai-whatsapp/slide-06.png"
+    ],
+    "caption": "O WhatsApp mudou semana passada. E a maioria das pessoas ainda não entendeu o que isso significa.\n\nA Meta integrou IA diretamente no WhatsApp. No Brasil, ela não pode ser desativada. Aparece pra todo usuário automaticamente.\n\nWhatsApp vai ser o canal de IA mais usado do mundo. Quem já domina a API Oficial tem vantagem estrutural. O melhor momento de entrar foi há 2 anos. O segundo melhor é agora.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#metaai #whatsapp #ia #automacao #waba #whatsappapi #inteligenciaartificial #n8n #marketingdigital"
+  },
+  {
+    "date": "2026-04-10",
+    "time": "09:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "janela-fechando",
+    "dir": "workspace/2026-04-10/janela-fechando",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/janela-fechando/slide-06.png"
+    ],
+    "caption": "99% dos brasileiros usam WhatsApp. Converte 6x mais que e-commerce. Demanda por automação cresceu 97%. E quase ninguém ainda oferece isso direito.\n\nMercados com gap entre demanda e oferta não ficam assim pra sempre. Quando o mainstream descobre, entra competidor. Essa janela não vai ficar aberta.\n\n78% das empresas já investiram em automação. Os outros 22% vão investir. Questão é quem vai ser o especialista que eles vão contratar.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #automacao #waba #ia #n8n #whatsappapi #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-10",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "title": "story-stats-choque",
+    "dir": "workspace/2026-04-10/story-stats-choque",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-04-10",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "primeiro-disparo-com-api",
+    "dir": "workspace/2026-04-10/primeiro-disparo-com-api",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/primeiro-disparo-com-api/slide-06.png"
+    ],
+    "caption": "Você quer mandar 500 mensagens.\n\nMas já tomou ban antes. E não quer repetir.\n\nCom API Oficial, o risco não é zero. Mas é controlável. A Meta dá tiers: 250/dia, 1.000, 10.000, 100.000. A progressão é automática quando a qualidade da conta fica alta.\n\nQualidade depende de: opt-in claro, template na categoria certa, baixa taxa de report.\n\nO ban não vem de volume. Vem de qualidade baixa no momento em que você ainda não tem crédito com a Meta.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-10",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "atendimento-que-some",
+    "dir": "workspace/2026-04-10/atendimento-que-some",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-06.png"
+    ],
+    "caption": "O cliente mandou mensagem às 22h. Você viu às 8h do dia seguinte. Ele já tinha contratado o concorrente.\n\nIsso não é falta de dedicação. É falta de infraestrutura.\n\n97% dos brasileiros abrem o WhatsApp pelo menos 1 vez por dia. O lead não espera horário comercial.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #automacao #waba #atendimento #whatsappapi #n8n #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "09:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "prestador-waba-oportunidade",
+    "dir": "workspace/2026-04-11/prestador-waba-oportunidade",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-06.png"
+    ],
+    "caption": "Enquanto outros prestadores brigam por freela de baixo valor, existe um nicho específico pagando setup mais recorrência mensal.\n\nO especialista em WABA: cobra por solução, tem poucos concorrentes, gera recorrência automática.\n\n67% das empresas usam WhatsApp como canal principal. Ela já usa. Já depende. Já sente a dor. Você aparece com a solução que ela já precisava.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#waba #whatsappapi #automacao #prestadordeservico #freelancer #n8n #whatsapp #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "de-vendedor-para-especialista",
+    "dir": "workspace/2026-04-11/de-vendedor-para-especialista",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/de-vendedor-para-especialista/slide-06.png"
+    ],
+    "caption": "Você não precisa ter empresa.\nNão precisa ter carteira de clientes.\n\nPrecisa saber configurar a API Oficial melhor do que a maioria.\n\nPrestador de serviço que configura WABA pra outros negócios está num mercado com mais demanda do que oferta. Cada cliente paga pelo setup, ou paga mensalidade de manutenção.\n\n5 clientes fixos a R$ 500/mês são R$ 2.500 recorrentes. Sem produto próprio. Sem estoque. Sem depender de tráfego.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "custo-de-nao-automatizar",
+    "dir": "workspace/2026-04-11/custo-de-nao-automatizar",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/custo-de-nao-automatizar/slide-06.png"
+    ],
+    "caption": "Ninguém calcula o custo de não automatizar. Só o custo de automatizar.\n\nO que você perde por dia: leads fora do horário, tempo respondendo mesma pergunta, vendas que morreram por falta de follow-up, dados que nunca foram registrados.\n\nEsse custo é invisível. Não aparece no DRE. Mas está lá todo mês.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#automacao #waba #whatsapp #n8n #custooperacional #marketingdigital #empreendedorismo #whatsappapi"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "09:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "whatsapp-vende-6x-mais",
+    "dir": "workspace/2026-04-12/whatsapp-vende-6x-mais",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/whatsapp-vende-6x-mais/slide-06.png"
+    ],
+    "caption": "WhatsApp converte 6x mais do que e-commerce. E a empresa do seu cliente ainda manda mensagem manual.\n\nDados do Chat Commerce Report 2025. Não é marketing, é pesquisa real.\n\n147 milhões de brasileiros no WhatsApp. 6x mais conversão. E a maioria das empresas ainda sem automação. O canal já existe. O cliente já está lá. Falta a infraestrutura.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #waba #automacao #conversao #whatsappapi #n8n #ecommerce #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "title": "story-domingo-cta",
+    "dir": "workspace/2026-04-12/story-domingo-cta",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-04-12",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "conversa-iniciada-pelo-negocio",
+    "dir": "workspace/2026-04-12/conversa-iniciada-pelo-negocio",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/conversa-iniciada-pelo-negocio/slide-06.png"
+    ],
+    "caption": "Você só consegue mandar mensagem depois que o cliente falar primeiro.\n\nFica esperando. Nunca prospecta.\n\nIsso é limitação do WhatsApp Business App. Não da API Oficial.\n\nCom a API Oficial, você inicia a conversa com template aprovado pela Meta. Sem esperar o cliente chegar. Sem depender de tráfego pago pra gerar o primeiro contato.\n\nProspecção ativa no WhatsApp. De forma legítima. Sem ferramenta não oficial. Sem risco de ban.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "sistema-de-segunda-a-segunda",
+    "dir": "workspace/2026-04-12/sistema-de-segunda-a-segunda",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/sistema-de-segunda-a-segunda/slide-06.png"
+    ],
+    "caption": "Uma vez configurado, trabalha pra sempre. Sem falta. Sem hora extra. Sem esquecimento.\n\nIsso não é chatbot de FAQ. É um agente de IA conectado à API Oficial que entende contexto, qualifica lead e passa pro humano só quando precisa.\n\n147 milhões de brasileiros no WhatsApp. 97% abrem todo dia. Se seu sistema não está lá de segunda a segunda, você está perdendo toda hora que não está acordado.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #waba #automacao #agenteia #whatsappapi #n8n #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-13",
+    "time": "14:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "numero-virtual-sem-chip",
+    "dir": "workspace/2026-04-13/numero-virtual-sem-chip",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-06.png"
+    ],
+    "caption": "Você não precisa de chip pra ter WhatsApp Business API.\n\nA Meta criou o número virtual. Você cria no portal deles, sem comprar chip, sem linha física, sem operadora.\n\nEm 5 minutos você tem um número WABA ativo, conectado ao n8n, pronto pra mandar e receber.\n\nSem mensalidade de ferramenta. Sem custo de chip por mês. Só o custo por mensagem que a Meta cobra.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
   }
 ]
