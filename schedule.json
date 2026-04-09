@@ -1132,7 +1132,7 @@
     "date": "2026-04-09",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "title": "story-waba-demanda",
     "dir": "workspace/2026-04-09/story-waba-demanda",
     "slide_urls": [
@@ -1140,7 +1140,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-04.png"
-    ]
+    ],
+    "media_id": "18415248538134208"
   },
   {
     "date": "2026-04-09",
