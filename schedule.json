@@ -1134,7 +1134,10 @@
     "title": "story-waba-demanda",
     "dir": "workspace/2026-04-09/story-waba-demanda",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-01.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-09/story-waba-demanda/slide-04.png"
     ]
   },
   {
@@ -1196,7 +1199,11 @@
     "title": "story-stats-choque",
     "dir": "workspace/2026-04-10/story-stats-choque",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-01.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/story-stats-choque/slide-05.png"
     ]
   },
   {
@@ -1249,6 +1256,18 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/prestador-waba-oportunidade/slide-06.png"
     ],
     "caption": "Enquanto outros prestadores brigam por freela de baixo valor, existe um nicho específico pagando setup mais recorrência mensal.\n\nO especialista em WABA: cobra por solução, tem poucos concorrentes, gera recorrência automática.\n\n67% das empresas usam WhatsApp como canal principal. Ela já usa. Já depende. Já sente a dor. Você aparece com a solução que ela já precisava.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#waba #whatsappapi #automacao #prestadordeservico #freelancer #n8n #whatsapp #marketingdigital #empreendedorismo"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "title": "story-levantada-mensal",
+    "dir": "workspace/2026-04-11/story-levantada-mensal",
+    "product": "MENTORIA",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/story-levantada-mensal/slide-01.png"
+    ]
   },
   {
     "date": "2026-04-11",
@@ -1309,7 +1328,10 @@
     "title": "story-domingo-cta",
     "dir": "workspace/2026-04-12/story-domingo-cta",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-01.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-04.png"
     ]
   },
   {
