@@ -1235,7 +1235,7 @@
     "date": "2026-04-10",
     "time": "20:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "atendimento-que-some",
     "dir": "workspace/2026-04-10/atendimento-que-some",
     "slide_urls": [
@@ -1246,7 +1246,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-10/atendimento-que-some/slide-06.png"
     ],
-    "caption": "O cliente mandou mensagem às 22h. Você viu às 8h do dia seguinte. Ele já tinha contratado o concorrente.\n\nIsso não é falta de dedicação. É falta de infraestrutura.\n\n97% dos brasileiros abrem o WhatsApp pelo menos 1 vez por dia. O lead não espera horário comercial.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #automacao #waba #atendimento #whatsappapi #n8n #marketingdigital #empreendedorismo"
+    "caption": "O cliente mandou mensagem às 22h. Você viu às 8h do dia seguinte. Ele já tinha contratado o concorrente.\n\nIsso não é falta de dedicação. É falta de infraestrutura.\n\n97% dos brasileiros abrem o WhatsApp pelo menos 1 vez por dia. O lead não espera horário comercial.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #automacao #waba #atendimento #whatsappapi #n8n #marketingdigital #empreendedorismo",
+    "media_id": "18079728371381323"
   },
   {
     "date": "2026-04-11",
