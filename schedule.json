@@ -1271,13 +1271,14 @@
     "date": "2026-04-11",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "title": "story-levantada-mensal",
     "dir": "workspace/2026-04-11/story-levantada-mensal",
     "product": "MENTORIA",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-11/story-levantada-mensal/slide-01.png"
-    ]
+    ],
+    "media_id": "18043668596755237"
   },
   {
     "date": "2026-04-11",
