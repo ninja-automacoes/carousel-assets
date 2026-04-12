@@ -1338,7 +1338,7 @@
     "date": "2026-04-12",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "title": "story-domingo-cta",
     "dir": "workspace/2026-04-12/story-domingo-cta",
     "slide_urls": [
@@ -1346,7 +1346,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-12/story-domingo-cta/slide-04.png"
-    ]
+    ],
+    "media_id": "17877415509560966"
   },
   {
     "date": "2026-04-12",
