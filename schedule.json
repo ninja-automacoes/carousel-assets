@@ -1389,7 +1389,7 @@
     "date": "2026-04-13",
     "time": "14:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "numero-virtual-sem-chip",
     "dir": "workspace/2026-04-13/numero-virtual-sem-chip",
     "slide_urls": [
@@ -1400,6 +1400,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/numero-virtual-sem-chip/slide-06.png"
     ],
-    "caption": "Você não precisa de chip pra ter WhatsApp Business API.\n\nA Meta criou o número virtual. Você cria no portal deles, sem comprar chip, sem linha física, sem operadora.\n\nEm 5 minutos você tem um número WABA ativo, conectado ao n8n, pronto pra mandar e receber.\n\nSem mensalidade de ferramenta. Sem custo de chip por mês. Só o custo por mensagem que a Meta cobra.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba"
+    "caption": "Você não precisa de chip pra ter WhatsApp Business API.\n\nA Meta criou o número virtual. Você cria no portal deles, sem comprar chip, sem linha física, sem operadora.\n\nEm 5 minutos você tem um número WABA ativo, conectado ao n8n, pronto pra mandar e receber.\n\nSem mensalidade de ferramenta. Sem custo de chip por mês. Só o custo por mensagem que a Meta cobra.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "media_id": "18098629433064510"
   }
 ]
