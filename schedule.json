@@ -1443,7 +1443,7 @@
     "date": "2026-04-14",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "slug": "story-waba-conteudo",
     "angle": "waba-content",
     "persona": "Frustrado",
@@ -1453,7 +1453,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/story-waba-conteudo/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/story-waba-conteudo/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/story-waba-conteudo/slide-04.png"
-    ]
+    ],
+    "media_id": "17995653290930174"
   },
   {
     "date": "2026-04-14",
