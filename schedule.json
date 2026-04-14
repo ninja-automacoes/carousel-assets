@@ -1423,7 +1423,7 @@
     "date": "2026-04-14",
     "time": "09:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "chatbot-que-atrapalha-venda",
     "dir": "workspace/2026-04-14/chatbot-que-atrapalha-venda",
     "angle": "chatbot-pain",
@@ -1437,7 +1437,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/chatbot-que-atrapalha-venda/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/chatbot-que-atrapalha-venda/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/chatbot-que-atrapalha-venda/slide-06.png"
-    ]
+    ],
+    "media_id": "18104502544743336"
   },
   {
     "date": "2026-04-14",
