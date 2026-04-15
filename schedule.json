@@ -1502,14 +1502,15 @@
     "date": "2026-04-15",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "slug": "story-levantada-mentoria",
     "angle": "levantada-mao",
     "persona": "Desenvolvido",
     "funnel": "BOFU",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/story-levantada-mentoria/slide-01.png"
-    ]
+    ],
+    "media_id": "17970773447882371"
   },
   {
     "date": "2026-04-15",
