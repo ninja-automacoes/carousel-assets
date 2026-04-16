@@ -1536,7 +1536,7 @@
     "date": "2026-04-16",
     "time": "09:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "lead-30-dias-janela-fechada",
     "dir": "workspace/2026-04-16/lead-30-dias-janela-fechada",
     "angle": "conversion-pain",
@@ -1550,7 +1550,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/lead-30-dias-janela-fechada/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/lead-30-dias-janela-fechada/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/lead-30-dias-janela-fechada/slide-06.png"
-    ]
+    ],
+    "media_id": "18073876337555003"
   },
   {
     "date": "2026-04-16",
