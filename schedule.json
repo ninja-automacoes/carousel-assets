@@ -1594,7 +1594,7 @@
     "date": "2026-04-17",
     "time": "09:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "grandes-empresas-nao-usam-chip",
     "dir": "workspace/2026-04-17/grandes-empresas-nao-usam-chip",
     "angle": "social-proof",
@@ -1608,7 +1608,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/grandes-empresas-nao-usam-chip/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/grandes-empresas-nao-usam-chip/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/grandes-empresas-nao-usam-chip/slide-06.png"
-    ]
+    ],
+    "media_id": "18164055451425495"
   },
   {
     "date": "2026-04-17",
