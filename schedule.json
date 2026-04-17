@@ -1615,14 +1615,15 @@
     "date": "2026-04-17",
     "time": "11:30",
     "type": "story",
-    "status": "ready",
+    "status": "published",
     "slug": "story-levantada-express",
     "angle": "levantada-mao",
     "persona": "Desenvolvido",
     "funnel": "BOFU",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/story-levantada-express/slide-01.png"
-    ]
+    ],
+    "media_id": "17882517513540064"
   },
   {
     "date": "2026-04-17",
