@@ -1706,7 +1706,7 @@
     "date": "2026-04-19",
     "time": "09:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "n8n-sem-linux",
     "dir": "workspace/2026-04-19/n8n-sem-linux",
     "angle": "setup-simplicity",
@@ -1720,7 +1720,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/n8n-sem-linux/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/n8n-sem-linux/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/n8n-sem-linux/slide-06.png"
-    ]
+    ],
+    "media_id": "18335815414223319"
   },
   {
     "date": "2026-04-19",
