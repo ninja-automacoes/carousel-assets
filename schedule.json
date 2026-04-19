@@ -1870,7 +1870,7 @@
     "date": "2026-04-19",
     "time": "19:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "tiers-meta-como-subir",
     "dir": "workspace/2026-04-19/tiers-meta-como-subir",
     "angle": "scaling",
@@ -1882,6 +1882,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/tiers-meta-como-subir/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/tiers-meta-como-subir/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/tiers-meta-como-subir/slide-06.png"
-    ]
+    ],
+    "media_id": "17928667638254115"
   }
 ]
