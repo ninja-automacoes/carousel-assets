@@ -1740,7 +1740,7 @@
     "date": "2026-04-19",
     "time": "14:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "agente-buscador-google-maps",
     "dir": "workspace/2026-04-19/agente-buscador-google-maps",
     "angle": "product-feature",
@@ -1754,7 +1754,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/agente-buscador-google-maps/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/agente-buscador-google-maps/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-19/agente-buscador-google-maps/slide-06.png"
-    ]
+    ],
+    "media_id": "17865625680614358"
   },
   {
     "date": "2026-04-13",
