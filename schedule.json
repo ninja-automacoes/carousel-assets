@@ -1849,7 +1849,7 @@
     "date": "2026-04-18",
     "time": "19:00",
     "type": "carousel",
-    "status": "ready",
+    "status": "published",
     "title": "3-coisas-nada-obvias-waba",
     "dir": "workspace/2026-04-18/3-coisas-nada-obvias-waba",
     "angle": "educational",
@@ -1861,7 +1861,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-06.png"
-    ]
+    ],
+    "media_id": "18579764368044496"
   },
   {
     "date": "2026-04-19",
