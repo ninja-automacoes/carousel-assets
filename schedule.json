@@ -1886,9 +1886,9 @@
     "media_id": "17928667638254115"
   },
   {
-    "date": "2026-04-26",
-    "slot": "evening",
-    "time": "20:25",
+    "date": "2026-04-27",
+    "slot": "morning",
+    "time": "09:00",
     "funnel": "topo",
     "title": "lead-que-sumiu",
     "topic": "O lead que pediu orçamento, leu, e nunca mais respondeu",
@@ -1896,13 +1896,13 @@
     "status": "ready",
     "caption": "7 de cada 10 vendas no WhatsApp morrem no silêncio depois do orçamento.\n\nNão é o produto. Não é o preço. É o follow-up que ninguém faz porque ninguém tem tempo de abrir 80 conversas por dia e lembrar quem ficou parado em qual etapa.\n\nA Meta abre uma janela de 24 horas depois que o cliente responde a última mensagem. Dentro dessa janela, você manda quantas mensagens quiser de graça. Fora dela, precisa de template Utility (R$ 0,04) ou Marketing (R$ 0,34). Quem automatiza essa janela mantém o lead quente. Quem não automatiza descobre 30 dias depois que o cliente comprou do concorrente.\n\nA virada não tá em vender melhor. Tá em parar de perder no silêncio.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita sobre API Oficial - mostro o setup completo dos 3 agentes que cuidam disso no automático.\n\n—\ncarrossel feito em 4 minutos no @krosssel.app (sim, eu uso pra mim mesmo)\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba #vendaspelowhatsapp #followup #krosssel",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-26/lead-que-sumiu/slide_07.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/lead-que-sumiu/slide_07.png"
     ]
   }
 ]
