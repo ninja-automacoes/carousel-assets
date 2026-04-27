@@ -2107,13 +2107,14 @@
     "product": "WABA",
     "title": "story-ferramenta-caiu",
     "dir": "workspace/2026-04-27/story",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-04.png"
-    ]
+    ],
+    "media_id": "18114108391801226"
   },
   {
     "date": "2026-04-28",
