@@ -1906,5 +1906,271 @@
     ],
     "type": "carousel",
     "media_id": "18083954972577992"
+  },
+  {
+    "date": "2026-04-27",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "reativar-lead-frio",
+    "topic": "Como template Marketing de R$ 0,34 reativa lead frio",
+    "dir": "workspace/2026-04-27/reativar-lead-frio",
+    "status": "ready",
+    "caption": "A janela de 24 horas do WhatsApp fechou. Você acha que perdeu o lead. Não perdeu.\n\nToda conversa do WhatsApp Business roda dentro de uma janela de 24h aberta pela última resposta do cliente. Dentro dela, mensagem livre, de graça. Fora dela, só template aprovado pela Meta.\n\nA maioria dos negócios não sabe que existem 12+ categorias de template Marketing prontas pra reativação - \"lead recovery\", \"abandoned cart\", \"follow-up after quote\". R$ 0,34 por disparo. Mais barato que tráfego pago em 95% dos nichos.\n\nO follow-up não morreu. Quem desistiu dele tá perdendo 30% do faturamento pra quem ainda dispara.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro os 12 templates Marketing prontos do API Oficial na Prática + os 3 agentes que disparam automático pra cada lead frio da sua lista.\n\n—\ncarrossel feito no @krosssel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #vendaspelowhatsapp #followup #leadrecovery #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/reativar-lead-frio/slide_06.png"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "grandes-marcas-whatsapp",
+    "topic": "Magalu, iFood e Nubank deixaram WhatsApp Business em 2024",
+    "dir": "workspace/2026-04-28/grandes-marcas-whatsapp",
+    "status": "ready",
+    "caption": "Magalu, iFood e Nubank pararam de usar WhatsApp Business em 2024. A escolha não tem nada a ver com tamanho.\n\nToda empresa que opera no WhatsApp em volume migrou pra API Oficial pelo mesmo motivo: o app verde roda em chip. Atende um cliente por vez. A API roda no servidor da Meta. Atende cem mil simultâneos.\n\nA diferença não tá na função. Tá em onde o sistema vive. Quem tá em chip cai junto com o chip. Quem tá no servidor da Meta segue rodando enquanto a operadora estiver no ar.\n\nO que essas três marcas entenderam: a infraestrutura virou diferencial competitivo. Não dá pra escalar atendimento com o mesmo aplicativo que sua tia usa pra mandar bom dia.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro a mesma stack base que Magalu, iFood e Nubank usam, montada do zero em 40 minutos.\n\n—\ncarrossel feito no @krosssel.app · template Industrial · pair Barlow Condensed\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #magalu #ifood #nubank #infraestrutura #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_07.png"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "setup-40-minutos",
+    "topic": "40 minutos. 4 etapas. Setup do API Oficial completo",
+    "dir": "workspace/2026-04-28/setup-40-minutos",
+    "status": "ready",
+    "caption": "40 minutos. 4 etapas. Esse é o setup completo do API Oficial - o que ninguém te mostra antes de você comprar treinamento.\n\nA maior parte dos infoprodutos sobre WhatsApp vende a promessa \"configure em 1 clique\". Não é assim. Tem 4 etapas. E saber quais são, antes de pagar, é o que separa quem termina o setup de quem desiste no meio.\n\nEtapa 1 (8min): subir n8n + Postgres + Chatwoot via Cloudfy. Etapa 2 (12min): criar app na Meta + número virtual + WABA business profile. Etapa 3 (10min): conectar API Oficial - token, webhook, número aprovado. Etapa 4 (10min): ativar os 3 agentes IA prontos.\n\nTotal: 40 minutos sem terminal, sem Linux, sem comando shell. O que vem pronto: 12 templates Marketing aprovados pela Meta, agentes treinados, webhooks funcionando.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup completo dessas 4 etapas ao vivo, sem corte.\n\n—\ncarrossel feito no @krosssel.app · template Data-Heavy\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #setup #infraestrutura #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_08.png"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "custo-saas-vs-meta",
+    "topic": "SaaS R$ 300/mês vs Meta direto R$ 0,04/msg",
+    "dir": "workspace/2026-04-29/custo-saas-vs-meta",
+    "status": "ready",
+    "caption": "SaaS de WhatsApp cobra R$ 300/mês pelo que a Meta cobra R$ 0,04 por mensagem. A diferença é 7.500x.\n\nQuando você paga mensalidade fixa pra mandar mensagem no WhatsApp, você não tá pagando pela mensagem. Tá pagando pra não aprender o setup. SaaS é uma empresa no meio cobrando em cima do que a Meta já oferece direto.\n\nA tabela oficial da Meta tem 4 categorias. Service (dentro da janela de 24h): R$ 0,00. Utility (lembretes, status de pedido): R$ 0,04. Authentication (códigos de login): R$ 0,04. Marketing (promoção, oferta): R$ 0,34.\n\nConta rápida: 10.000 mensagens Utility direto na Meta = R$ 400. Mesmas 10.000 mensagens via SaaS = R$ 300 mensalidade + R$ 1.500 de mensagens extras = R$ 1.800. Diferença anual: R$ 16.800.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro como conectar direto na Meta Cloud API sem passar por nenhum SaaS no meio.\n\n—\ncarrossel feito no @krosssel.app · template Industrial Data\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #custo #meta #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_08.png"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "agentes-prontos",
+    "topic": "3 agentes IA prontos: Buscador, Disparador, SDR Vendedor",
+    "dir": "workspace/2026-04-29/agentes-prontos",
+    "status": "ready",
+    "caption": "3 agentes IA prontos vendem enquanto você dorme. Não é promessa - é o stack que vem montado no API Oficial na Prática.\n\nBuscador encontra 200 leads no Google Maps em 3 minutos. Só passa o nicho. Disparador aplica template Marketing aprovado pela Meta nos 200 em 8 minutos, respeitando tier sem ban. SDR Vendedor conversa, qualifica BANT, marca reunião na agenda. Quando o lead pede humano, transfere pro Chatwoot com histórico completo.\n\nConta real do fluxo: 200 leads buscados, 200 disparados, 36 reuniões marcadas. Taxa de marcação de reunião: 18% dos respondidos. Nenhum atendimento feito por humano durante a operação.\n\nOs 3 agentes não são treinamento que você monta. Já vêm prontos no n8n - você conecta o número e roda.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro os 3 agentes rodando ao vivo, cada um operando sequencialmente.\n\n—\ncarrossel feito no @krosssel.app · template Completo (9 slides)\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #agenteia #sdr #waba #prospeccao #automacaocomercial #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_09.png"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "template-reprovado",
+    "topic": "Template Meta reprovado: erro está na categoria, não no texto",
+    "dir": "workspace/2026-04-30/template-reprovado",
+    "status": "ready",
+    "caption": "Você criou o template. A Meta reprovou. Trocou uma palavra, mandou de novo, rejeitado. O erro não tá no texto - tá na categoria.\n\nA Meta tem 3 categorias e cada uma aprova um tipo diferente de mensagem. Marketing aceita promo, oferta, lançamento - custa R$ 0,34 por conversa. Utility aceita lembrete, status, confirmação de pedido - texto neutro, sem call to action de venda - custa R$ 0,04. Authentication aceita só código de verificação, mesmo R$ 0,04.\n\nEm 80% das rejeições, o problema é colocar mensagem de venda na categoria Utility. A Meta espera que Utility pareça mensagem de banco: frase neutra, sem emoji, sem \"oferta limitada\".\n\nEm 10 mil disparos por mês, escolher a categoria errada custa R$ 3.000 a mais. Por engano de 30 segundos no setup do template.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Mestre dos Templates: agente que analisa sua mensagem e te diz qual categoria escolher pra aprovar de primeira.\n\n—\ncarrossel feito no @krosssel.app · template Bold Cultural\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #templates #meta #aprovacao #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_06.png"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "cloudfy-1-clique",
+    "topic": "Cloudfy: n8n + Postgres + Chatwoot no ar com 1 clique",
+    "dir": "workspace/2026-04-30/cloudfy-1-clique",
+    "status": "ready",
+    "caption": "A barreira da automação nunca foi a ferramenta. Foi sempre o setup do servidor.\n\nVocê abre tutorial de n8n, primeiro passo é \"acesse o terminal\". Você fecha. Já tinha tentado uma vez, travou no SSH, no docker compose, ficou 3 horas pra subir um servidor de um projeto de 2 dias. A automação morreu antes de começar - na linha de comando.\n\nCloudfy é uma plataforma brasileira que hospeda n8n + Postgres + Chatwoot na nuvem. Você abre o painel, escolhe o pacote API Oficial na Prática, clica em deploy. 3 minutos depois, n8n no ar com URL própria. Sem Linux, sem SSH, sem docker compose.\n\nTradeoff honesto: VPS DigitalOcean cru custa R$ 30/mês mas exige 3-8 horas de setup. Cloudfy custa R$ 89/mês e roda em 3 minutos. R$ 60 a mais pra você nunca abrir terminal. Pra quem não é dev, vale.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o deploy do Cloudfy ao vivo, do clique até o n8n rodando.\n\n—\ncarrossel feito no @krosssel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudfy #infraestrutura #devops #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_07.png"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "feriado-concorrente",
+    "topic": "Feriado: concorrente atendendo automático, você refém do chip",
+    "dir": "workspace/2026-05-01/feriado-concorrente",
+    "status": "ready",
+    "caption": "Hoje é primeiro de maio. Sua loja tá fechada. Seu concorrente atendeu 47 leads.\n\nCada feriado nacional, sua operação para. O número de WhatsApp fica parado. Toda terça depois de feriado, vendedor passa a manhã pegando o atraso. 60 mensagens acumuladas, 3 leads quentes que esfriaram, 2 que já compraram do concorrente. Você só vê isso quando abre o WhatsApp.\n\nSeu concorrente configurou o agente SDR no API Oficial uma vez. Hoje, enquanto a família tava no almoço, o agente respondeu 47 conversas, qualificou 11 leads, marcou 4 reuniões pra terça. Custo do dia: R$ 8 em mensagens Marketing.\n\nSão 12 feriados nacionais por ano. Mais sábado e domingo, dá 110 dias com negócio fechado. Quem deixa o número parado nesses 110 dias perde 30% das oportunidades. Quem deixa o agente rodando, fatura nelas.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o SDR Vendedor configurado uma vez, atendendo 24/7 sem precisar de você.\n\n—\ncarrossel feito no @krosssel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #feriado #atendimento24h #sdr #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_06.png"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "300-pedidos-manual",
+    "topic": "Operação 300 pedidos/dia: 70% manual = R$ 156k/ano",
+    "dir": "workspace/2026-05-01/300-pedidos-manual",
+    "status": "ready",
+    "caption": "Loja online faturando bem, 300 pedidos por dia, 4 atendentes no WhatsApp 12h por dia. 70% do que eles fazem é confirmação, endereço, código de rastreio, dúvida básica. Trabalho que IA faz melhor.\n\nCusto atual desse setup: R$ 13.000/mês. Folha de 4 atendentes + encargos. Anual: R$ 156.000.\n\nReorganização: 3 agentes IA fazem 70% do volume. Sobra 30% pros humanos: troca, devolução, problema fora do roteiro. 4 atendentes viram 1 sênior + 3 que migram pra venda ativa, prospecção e fidelização. Custo cai pra R$ 4.300/mês. Economia anual: R$ 104.400.\n\nReorganização leva 2 semanas, não 6 meses. Setup do API Oficial: 40 minutos. Mapear fluxos atuais: 1 semana. Treinar IA com seu catálogo: 3 dias. Acompanhar primeira semana ao vivo: 5 dias.\n\n300 pedidos hoje, 600 amanhã sem contratar ninguém, 1.000 daqui 3 meses sem multiplicar custo. A diferença é arquitetura - não esforço.\n\n💬 Comenta EXPRESS aqui embaixo e te mando o link da aula gratuita - mostro o setup feito comigo em 1 semana, com seu catálogo e fluxos integrados.\n\n—\ncarrossel feito no @krosssel.app · template Industrial Completo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #escala #operacao #ecommerce #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_09.png"
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-ferramenta-caiu",
+    "dir": "workspace/2026-04-27/story",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-04.png"
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "MENTORIA",
+    "title": "story-levantada-mentoria",
+    "dir": "workspace/2026-04-28/story",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/story-levantada-mentoria/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-tier-system",
+    "dir": "workspace/2026-04-29/story",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-04.png"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "EXPRESS",
+    "title": "story-levantada-express",
+    "dir": "workspace/2026-04-30/story",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/story-levantada-express/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-feriado-uso-case",
+    "dir": "workspace/2026-05-01/story",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-04.png"
+    ]
   }
 ]
