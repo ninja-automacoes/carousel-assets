@@ -2172,5 +2172,26 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-04.png"
     ]
+  },
+  {
+    "date": "2026-04-27",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "api-oficial-liberada",
+    "topic": "A API Oficial tá aberta há 4 anos. BSP ainda finge que é a porta única.",
+    "dir": "workspace/2026-04-27/api-oficial-liberada",
+    "status": "ready",
+    "caption": "A Meta liberou a Cloud API direto pra qualquer empresa em maio de 2022. Sem BSP no meio, sem mensalidade de plataforma. Você não sabia porque ninguém te contou.\n\nBSP era exigido até 2021 - empresa intermediária que conectava você na API On-Premise. Em 2022 a Meta lançou a Cloud API hospedada nos servidores deles. Qualquer CNPJ ativa direto. BSP virou opcional, mas continua cobrando como se fosse obrigatório - quem ganha com BSP precisa que você não saiba que existe um caminho mais curto e mais barato.\n\nConta fria: R$ 300/mês × 48 meses desde 2022 = R$ 14.400 só de mensalidade. Mais o custo por mensagem extra que o BSP cobra em cima do preço da Meta. Fácil R$ 25.000 jogados fora pra ter acesso a uma API que tava aberta direto.\n\nMagalu, iFood e Nubank consolidaram Cloud API em 2024 e abandonaram BSP. Quem entrou cedo já tá no tier 4 (100k msg/dia). Quem ainda paga mensalidade tá 4 anos atrás.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup direto na Cloud API da Meta, sem passar por BSP. 40 minutos do zero ao primeiro disparo.\n\n—\ncarrossel feito no @krosssel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudapi #meta #bsp #krosssel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_07.png"
+    ]
   }
 ]
