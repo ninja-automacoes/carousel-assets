@@ -1937,7 +1937,7 @@
     "title": "grandes-marcas-whatsapp",
     "topic": "Magalu, iFood e Nubank deixaram WhatsApp Business em 2024",
     "dir": "workspace/2026-04-28/grandes-marcas-whatsapp",
-    "status": "ready",
+    "status": "published",
     "caption": "Magalu, iFood e Nubank pararam de usar WhatsApp Business em 2024. A escolha não tem nada a ver com tamanho.\n\nToda empresa que opera no WhatsApp em volume migrou pra API Oficial pelo mesmo motivo: o app verde roda em chip. Atende um cliente por vez. A API roda no servidor da Meta. Atende cem mil simultâneos.\n\nA diferença não tá na função. Tá em onde o sistema vive. Quem tá em chip cai junto com o chip. Quem tá no servidor da Meta segue rodando enquanto a operadora estiver no ar.\n\nO que essas três marcas entenderam: a infraestrutura virou diferencial competitivo. Não dá pra escalar atendimento com o mesmo aplicativo que sua tia usa pra mandar bom dia.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro a mesma stack base que Magalu, iFood e Nubank usam, montada do zero em 40 minutos.\n\n—\ncarrossel feito no @krossel.app · template Industrial · pair Barlow Condensed\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #magalu #ifood #nubank #infraestrutura #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_01.png",
@@ -1947,7 +1947,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/grandes-marcas-whatsapp/slide_07.png"
-    ]
+    ],
+    "media_id": "18117349759677393"
   },
   {
     "date": "2026-04-28",
