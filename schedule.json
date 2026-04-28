@@ -2209,7 +2209,7 @@
     "title": "tier-meta-como-subir",
     "topic": "Como subir do tier 1 (250) pro tier 4 (100k) sem ban",
     "dir": "workspace/2026-04-28/tier-meta-como-subir",
-    "status": "ready",
+    "status": "published",
     "caption": "Você abriu o número novo. Tier 1. 250 mensagens por dia. Travado.\n\nA Meta tem 4 tiers de disparo: 250 → 1.000 → 10.000 → 100.000 mensagens iniciadas por dia. O sistema sobe sozinho - mas só pra quem joga pelas regras dele. Quem dispara torto fica preso no tier 1 pra sempre. Quem dispara certo sobe em 14 dias.\n\nA Meta avalia 3 sinais 24h/dia: clientes não bloqueando, taxa de resposta acima de 5%, mensagens não marcadas como spam. Quality rating high = sobe. Quality rating low = trava ou cai. Não é negociação. É algoritmo automático rodando o tempo todo.\n\n3 regras pra subir em 14 dias: usar template Marketing certificado pela Meta (aprovação em 2h, zero bloqueio); manter taxa de resposta acima de 8% disparando só pra base que conhece sua marca; aquecer com base pequena 3 dias antes de aumentar volume.\n\nTier não se compra. Se constrói. Quem trava no tier 1 não precisa de outra ferramenta. Precisa parar de disparar lista comprada e começar a disparar pra base que pediu pra receber.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Disparador inteligente que aplica as 3 regras automático: aquece, escolhe template, controla volume.\n\n—\ncarrossel feito no @krossel.app · template Industrial Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #tier #disparoseguro #meta #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_01.png",
@@ -2219,7 +2219,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_07.png"
-    ]
+    ],
+    "media_id": "17885768355509943"
   },
   {
     "date": "2026-04-29",
