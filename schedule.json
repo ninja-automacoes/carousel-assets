@@ -1959,7 +1959,7 @@
     "title": "setup-40-minutos",
     "topic": "40 minutos. 4 etapas. Setup do API Oficial completo",
     "dir": "workspace/2026-04-28/setup-40-minutos",
-    "status": "ready",
+    "status": "published",
     "caption": "40 minutos. 4 etapas. Esse é o setup completo do API Oficial - o que ninguém te mostra antes de você comprar treinamento.\n\nA maior parte dos infoprodutos sobre WhatsApp vende a promessa \"configure em 1 clique\". Não é assim. Tem 4 etapas. E saber quais são, antes de pagar, é o que separa quem termina o setup de quem desiste no meio.\n\nEtapa 1 (8min): subir n8n + Postgres + Chatwoot via Cloudfy. Etapa 2 (12min): criar app na Meta + número virtual + WABA business profile. Etapa 3 (10min): conectar API Oficial - token, webhook, número aprovado. Etapa 4 (10min): ativar os 3 agentes IA prontos.\n\nTotal: 40 minutos sem terminal, sem Linux, sem comando shell. O que vem pronto: 12 templates Marketing aprovados pela Meta, agentes treinados, webhooks funcionando.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup completo dessas 4 etapas ao vivo, sem corte.\n\n—\ncarrossel feito no @krossel.app · template Data-Heavy\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #setup #infraestrutura #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_01.png",
@@ -1970,7 +1970,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_08.png"
-    ]
+    ],
+    "media_id": "18117510820733345"
   },
   {
     "date": "2026-04-29",
