@@ -2199,5 +2199,92 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_07.png"
     ],
     "media_id": "17998090328761317"
+  },
+  {
+    "date": "2026-04-28",
+    "slot": "evening",
+    "time": "19:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "tier-meta-como-subir",
+    "topic": "Como subir do tier 1 (250) pro tier 4 (100k) sem ban",
+    "dir": "workspace/2026-04-28/tier-meta-como-subir",
+    "status": "ready",
+    "caption": "Você abriu o número novo. Tier 1. 250 mensagens por dia. Travado.\n\nA Meta tem 4 tiers de disparo: 250 → 1.000 → 10.000 → 100.000 mensagens iniciadas por dia. O sistema sobe sozinho - mas só pra quem joga pelas regras dele. Quem dispara torto fica preso no tier 1 pra sempre. Quem dispara certo sobe em 14 dias.\n\nA Meta avalia 3 sinais 24h/dia: clientes não bloqueando, taxa de resposta acima de 5%, mensagens não marcadas como spam. Quality rating high = sobe. Quality rating low = trava ou cai. Não é negociação. É algoritmo automático rodando o tempo todo.\n\n3 regras pra subir em 14 dias: usar template Marketing certificado pela Meta (aprovação em 2h, zero bloqueio); manter taxa de resposta acima de 8% disparando só pra base que conhece sua marca; aquecer com base pequena 3 dias antes de aumentar volume.\n\nTier não se compra. Se constrói. Quem trava no tier 1 não precisa de outra ferramenta. Precisa parar de disparar lista comprada e começar a disparar pra base que pediu pra receber.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Disparador inteligente que aplica as 3 regras automático: aquece, escolhe template, controla volume.\n\n—\ncarrossel feito no @krossel.app · template Industrial Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #tier #disparoseguro #meta #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_07.png"
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slot": "evening",
+    "time": "19:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "bant-sdr-funcionamento",
+    "topic": "Como o agente SDR qualifica lead BANT em 6 mensagens",
+    "dir": "workspace/2026-04-29/bant-sdr-funcionamento",
+    "status": "ready",
+    "caption": "18% dos respondidos viram reunião marcada. Sem você fazer nada. Sem qualificar na mão. Cada conversa começa BANT, termina agendamento.\n\nBANT é a régua que vendedor sênior usa há 50 anos: Budget (tem orçamento aprovado?), Authority (é quem decide?), Need (o problema dói o suficiente?), Timing (quando precisa estar resolvido?). Vendedor humano sênior aplica em 30 minutos de reunião. Agente SDR aplica em 6 mensagens, em background, sem você abrir o WhatsApp.\n\nCapacidade humana: 8 conversas BANT por dia. Capacidade do agente: 200. Mesmo framework, escala 25x.\n\nAs 6 mensagens do agente: apresentação + dor (Need), aprofundamento (Need++), tamanho da operação (Budget), confirmação de decisor (Authority), prazo (Timing), proposta de reunião + link de calendário. Quando o lead chega no humano, já tá qualificado.\n\nQualificação não é arte. É algoritmo. Pergunta certa, ordem certa, resposta esperada. Quando você só fecha o que já tá qualificado, fecha mais e melhor.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o SDR Vendedor com BANT já programado, ajustando as perguntas pro seu nicho.\n\n—\ncarrossel feito no @krossel.app · template Data-Heavy\n\n#whatsapp #whatsappapi #automacao #n8n #sdr #bant #vendas #waba #qualificacao #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_08.png"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "evening",
+    "time": "19:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "aluno-transformacao-case",
+    "topic": "De 0 vendas a 50/dia em 3 semanas - case real Lucas",
+    "dir": "workspace/2026-04-30/aluno-transformacao-case",
+    "status": "ready",
+    "caption": "Lucas tinha um curso digital. Lista de 2.400 leads esfriando há 8 meses. Tinha tentado 3 ferramentas BSP, tomou ban em todas. Lista parada, vendas paradas, fé na automação acabando.\n\nEm 21 dias saiu de 0 vendas no mês pra 50 vendas por dia automático. Não foi sorte. Foi estrutura.\n\nA virada técnica: trocou ferramenta por infraestrutura. Migrou os 2.400 contatos pra Cloud API direto da Meta. Subiu n8n no Cloudfy. Configurou os 3 agentes - Buscador, Disparador, SDR Vendedor. Tudo em 40 minutos no domingo. Segunda já tava disparando template Marketing aprovado pra base inteira.\n\nLinha do tempo. Semana 0: 2.400 leads frios, 0 vendas, último ban no dia 2. Semana 1: setup completo dia 1, primeiras 12 vendas dia 7. Semana 2: tier 2, 110 vendas, R$ 38k. Semana 3: tier 3, SDR fechando 50 vendas/dia automático.\n\nConta final: R$ 142 mil em receita nova em 3 semanas. Lucas tinha gasto R$ 4.800 em 8 meses pagando BSP que nunca entregaram resultado. A diferença entre 0 e 50 vendas/dia tava em 4 nós no n8n e 1 número virtual ativado direto na Meta.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup que o Lucas usou: Cloud API direto, n8n no Cloudfy, 3 agentes prontos.\n\n—\ncarrossel feito no @krossel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #waba #case #aluno #vendaspelowhatsapp #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_07.png"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "evening",
+    "time": "19:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "dentro-curso-waba",
+    "topic": "O que tem dentro do API Oficial na Prática",
+    "dir": "workspace/2026-05-01/dentro-curso-waba",
+    "status": "ready",
+    "caption": "O API Oficial na Prática não é curso teórico. É manual técnico com infra inclusa.\n\nVocê não compra horas de aula. Compra a stack completa pra rodar API Oficial: a documentação técnica, os fluxos n8n prontos, os agentes IA configurados, os templates Marketing aprovados, o acesso ao Cloudfy. Aula é só pra você instalar e operar a infra que já existe.\n\n4 módulos. Módulo 1 (Fundação): setup da Cloud API direto na Meta - app, número virtual, WABA business profile, webhook. 40 minutos. Módulo 2 (Infraestrutura): n8n + Postgres + Chatwoot via Cloudfy em 1 clique. Módulo 3 (Agentes IA): Buscador, Disparador, SDR Vendedor. Configura prompts pro seu nicho. Módulo 4 (Bônus): Mestre dos Templates analisa sua mensagem e diz a categoria certa, mais biblioteca de 12 templates Marketing certificados.\n\nAcesso vitalício + atualizações sem custo extra. Você compra uma vez. Recebe acesso imediato pelo Telegram + email. Toda nova versão do n8n, atualização da Meta, template novo - você recebe sem pagar de novo. Sem mensalidade. Sem upsell escondido.\n\nVocê não aprende automação. Você recebe automação. Aqui você não monta do zero. Você instala o que já tá pronto.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro os 4 módulos rodando ao vivo.\n\n—\ncarrossel feito no @krossel.app · template Completo (9 slides)\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #curso #treinamento #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_09.png"
+    ]
   }
 ]
