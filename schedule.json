@@ -1982,7 +1982,7 @@
     "title": "custo-saas-vs-meta",
     "topic": "SaaS R$ 300/mês vs Meta direto R$ 0,04/msg",
     "dir": "workspace/2026-04-29/custo-saas-vs-meta",
-    "status": "ready",
+    "status": "published",
     "caption": "SaaS de WhatsApp cobra R$ 300/mês pelo que a Meta cobra R$ 0,04 por mensagem. A diferença é 7.500x.\n\nQuando você paga mensalidade fixa pra mandar mensagem no WhatsApp, você não tá pagando pela mensagem. Tá pagando pra não aprender o setup. SaaS é uma empresa no meio cobrando em cima do que a Meta já oferece direto.\n\nA tabela oficial da Meta tem 4 categorias. Service (dentro da janela de 24h): R$ 0,00. Utility (lembretes, status de pedido): R$ 0,04. Authentication (códigos de login): R$ 0,04. Marketing (promoção, oferta): R$ 0,34.\n\nConta rápida: 10.000 mensagens Utility direto na Meta = R$ 400. Mesmas 10.000 mensagens via SaaS = R$ 300 mensalidade + R$ 1.500 de mensagens extras = R$ 1.800. Diferença anual: R$ 16.800.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro como conectar direto na Meta Cloud API sem passar por nenhum SaaS no meio.\n\n—\ncarrossel feito no @krossel.app · template Industrial Data\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #waba #custo #meta #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_01.png",
@@ -1993,7 +1993,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/custo-saas-vs-meta/slide_08.png"
-    ]
+    ],
+    "media_id": "18588471661022995"
   },
   {
     "date": "2026-04-29",
