@@ -2142,13 +2142,14 @@
     "product": "WABA",
     "title": "story-tier-system",
     "dir": "workspace/2026-04-29/story",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-04.png"
-    ]
+    ],
+    "media_id": "18101855446796199"
   },
   {
     "date": "2026-04-30",
