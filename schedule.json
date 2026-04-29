@@ -2005,7 +2005,7 @@
     "title": "agentes-prontos",
     "topic": "3 agentes IA prontos: Buscador, Disparador, SDR Vendedor",
     "dir": "workspace/2026-04-29/agentes-prontos",
-    "status": "ready",
+    "status": "published",
     "caption": "3 agentes IA prontos vendem enquanto você dorme. Não é promessa - é o stack que vem montado no API Oficial na Prática.\n\nBuscador encontra 200 leads no Google Maps em 3 minutos. Só passa o nicho. Disparador aplica template Marketing aprovado pela Meta nos 200 em 8 minutos, respeitando tier sem ban. SDR Vendedor conversa, qualifica BANT, marca reunião na agenda. Quando o lead pede humano, transfere pro Chatwoot com histórico completo.\n\nConta real do fluxo: 200 leads buscados, 200 disparados, 36 reuniões marcadas. Taxa de marcação de reunião: 18% dos respondidos. Nenhum atendimento feito por humano durante a operação.\n\nOs 3 agentes não são treinamento que você monta. Já vêm prontos no n8n - você conecta o número e roda.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro os 3 agentes rodando ao vivo, cada um operando sequencialmente.\n\n—\ncarrossel feito no @krossel.app · template Completo (9 slides)\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #agenteia #sdr #waba #prospeccao #automacaocomercial #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_01.png",
@@ -2017,7 +2017,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_09.png"
-    ]
+    ],
+    "media_id": "18105795116313219"
   },
   {
     "date": "2026-04-30",
