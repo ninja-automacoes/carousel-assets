@@ -2234,7 +2234,7 @@
     "title": "bant-sdr-funcionamento",
     "topic": "Como o agente SDR qualifica lead BANT em 6 mensagens",
     "dir": "workspace/2026-04-29/bant-sdr-funcionamento",
-    "status": "ready",
+    "status": "published",
     "caption": "18% dos respondidos viram reunião marcada. Sem você fazer nada. Sem qualificar na mão. Cada conversa começa BANT, termina agendamento.\n\nBANT é a régua que vendedor sênior usa há 50 anos: Budget (tem orçamento aprovado?), Authority (é quem decide?), Need (o problema dói o suficiente?), Timing (quando precisa estar resolvido?). Vendedor humano sênior aplica em 30 minutos de reunião. Agente SDR aplica em 6 mensagens, em background, sem você abrir o WhatsApp.\n\nCapacidade humana: 8 conversas BANT por dia. Capacidade do agente: 200. Mesmo framework, escala 25x.\n\nAs 6 mensagens do agente: apresentação + dor (Need), aprofundamento (Need++), tamanho da operação (Budget), confirmação de decisor (Authority), prazo (Timing), proposta de reunião + link de calendário. Quando o lead chega no humano, já tá qualificado.\n\nQualificação não é arte. É algoritmo. Pergunta certa, ordem certa, resposta esperada. Quando você só fecha o que já tá qualificado, fecha mais e melhor.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o SDR Vendedor com BANT já programado, ajustando as perguntas pro seu nicho.\n\n—\ncarrossel feito no @krossel.app · template Data-Heavy\n\n#whatsapp #whatsappapi #automacao #n8n #sdr #bant #vendas #waba #qualificacao #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_01.png",
@@ -2245,7 +2245,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/bant-sdr-funcionamento/slide_08.png"
-    ]
+    ],
+    "media_id": "17926000629294492"
   },
   {
     "date": "2026-04-30",
