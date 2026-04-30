@@ -2029,7 +2029,7 @@
     "title": "template-reprovado",
     "topic": "Template Meta reprovado: erro está na categoria, não no texto",
     "dir": "workspace/2026-04-30/template-reprovado",
-    "status": "ready",
+    "status": "published",
     "caption": "Você criou o template. A Meta reprovou. Trocou uma palavra, mandou de novo, rejeitado. O erro não tá no texto - tá na categoria.\n\nA Meta tem 3 categorias e cada uma aprova um tipo diferente de mensagem. Marketing aceita promo, oferta, lançamento - custa R$ 0,34 por conversa. Utility aceita lembrete, status, confirmação de pedido - texto neutro, sem call to action de venda - custa R$ 0,04. Authentication aceita só código de verificação, mesmo R$ 0,04.\n\nEm 80% das rejeições, o problema é colocar mensagem de venda na categoria Utility. A Meta espera que Utility pareça mensagem de banco: frase neutra, sem emoji, sem \"oferta limitada\".\n\nEm 10 mil disparos por mês, escolher a categoria errada custa R$ 3.000 a mais. Por engano de 30 segundos no setup do template.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Mestre dos Templates: agente que analisa sua mensagem e te diz qual categoria escolher pra aprovar de primeira.\n\n—\ncarrossel feito no @krossel.app · template Bold Cultural\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #templates #meta #aprovacao #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_01.png",
@@ -2038,7 +2038,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_06.png"
-    ]
+    ],
+    "media_id": "17916552264360312"
   },
   {
     "date": "2026-04-30",
