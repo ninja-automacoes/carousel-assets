@@ -2161,10 +2161,11 @@
     "product": "EXPRESS",
     "title": "story-levantada-express",
     "dir": "workspace/2026-04-30/story",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/story-levantada-express/slide-01.png"
-    ]
+    ],
+    "media_id": "18017939261674120"
   },
   {
     "date": "2026-05-01",
