@@ -2050,7 +2050,7 @@
     "title": "cloudfy-1-clique",
     "topic": "Cloudfy: n8n + Postgres + Chatwoot no ar com 1 clique",
     "dir": "workspace/2026-04-30/cloudfy-1-clique",
-    "status": "ready",
+    "status": "published",
     "caption": "A barreira da automação nunca foi a ferramenta. Foi sempre o setup do servidor.\n\nVocê abre tutorial de n8n, primeiro passo é \"acesse o terminal\". Você fecha. Já tinha tentado uma vez, travou no SSH, no docker compose, ficou 3 horas pra subir um servidor de um projeto de 2 dias. A automação morreu antes de começar - na linha de comando.\n\nCloudfy é uma plataforma brasileira que hospeda n8n + Postgres + Chatwoot na nuvem. Você abre o painel, escolhe o pacote API Oficial na Prática, clica em deploy. 3 minutos depois, n8n no ar com URL própria. Sem Linux, sem SSH, sem docker compose.\n\nTradeoff honesto: VPS DigitalOcean cru custa R$ 30/mês mas exige 3-8 horas de setup. Cloudfy custa R$ 89/mês e roda em 3 minutos. R$ 60 a mais pra você nunca abrir terminal. Pra quem não é dev, vale.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o deploy do Cloudfy ao vivo, do clique até o n8n rodando.\n\n—\ncarrossel feito no @krossel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudfy #infraestrutura #devops #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_01.png",
@@ -2060,7 +2060,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_07.png"
-    ]
+    ],
+    "media_id": "17889872721356298"
   },
   {
     "date": "2026-05-01",
