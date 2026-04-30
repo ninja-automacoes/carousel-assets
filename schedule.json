@@ -2260,7 +2260,7 @@
     "title": "aluno-transformacao-case",
     "topic": "De 0 vendas a 50/dia em 3 semanas - case real Lucas",
     "dir": "workspace/2026-04-30/aluno-transformacao-case",
-    "status": "ready",
+    "status": "published",
     "caption": "Lucas tinha um curso digital. Lista de 2.400 leads esfriando há 8 meses. Tinha tentado 3 ferramentas BSP, tomou ban em todas. Lista parada, vendas paradas, fé na automação acabando.\n\nEm 21 dias saiu de 0 vendas no mês pra 50 vendas por dia automático. Não foi sorte. Foi estrutura.\n\nA virada técnica: trocou ferramenta por infraestrutura. Migrou os 2.400 contatos pra Cloud API direto da Meta. Subiu n8n no Cloudfy. Configurou os 3 agentes - Buscador, Disparador, SDR Vendedor. Tudo em 40 minutos no domingo. Segunda já tava disparando template Marketing aprovado pra base inteira.\n\nLinha do tempo. Semana 0: 2.400 leads frios, 0 vendas, último ban no dia 2. Semana 1: setup completo dia 1, primeiras 12 vendas dia 7. Semana 2: tier 2, 110 vendas, R$ 38k. Semana 3: tier 3, SDR fechando 50 vendas/dia automático.\n\nConta final: R$ 142 mil em receita nova em 3 semanas. Lucas tinha gasto R$ 4.800 em 8 meses pagando BSP que nunca entregaram resultado. A diferença entre 0 e 50 vendas/dia tava em 4 nós no n8n e 1 número virtual ativado direto na Meta.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup que o Lucas usou: Cloud API direto, n8n no Cloudfy, 3 agentes prontos.\n\n—\ncarrossel feito no @krossel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #waba #case #aluno #vendaspelowhatsapp #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_01.png",
@@ -2270,7 +2270,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_07.png"
-    ]
+    ],
+    "media_id": "18093205588931276"
   },
   {
     "date": "2026-05-01",
