@@ -2177,13 +2177,14 @@
     "product": "WABA",
     "title": "story-feriado-uso-case",
     "dir": "workspace/2026-05-01/story",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-02.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-03.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-04.png"
-    ]
+    ],
+    "media_id": "18086042765358464"
   },
   {
     "date": "2026-04-27",
