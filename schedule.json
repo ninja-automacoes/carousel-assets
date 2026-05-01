@@ -2093,7 +2093,7 @@
     "title": "300-pedidos-manual",
     "topic": "Operação 300 pedidos/dia: 70% manual = R$ 156k/ano",
     "dir": "workspace/2026-05-01/300-pedidos-manual",
-    "status": "ready",
+    "status": "published",
     "caption": "Loja online faturando bem, 300 pedidos por dia, 4 atendentes no WhatsApp 12h por dia. 70% do que eles fazem é confirmação, endereço, código de rastreio, dúvida básica. Trabalho que IA faz melhor.\n\nCusto atual desse setup: R$ 13.000/mês. Folha de 4 atendentes + encargos. Anual: R$ 156.000.\n\nReorganização: 3 agentes IA fazem 70% do volume. Sobra 30% pros humanos: troca, devolução, problema fora do roteiro. 4 atendentes viram 1 sênior + 3 que migram pra venda ativa, prospecção e fidelização. Custo cai pra R$ 4.300/mês. Economia anual: R$ 104.400.\n\nReorganização leva 2 semanas, não 6 meses. Setup do API Oficial: 40 minutos. Mapear fluxos atuais: 1 semana. Treinar IA com seu catálogo: 3 dias. Acompanhar primeira semana ao vivo: 5 dias.\n\n300 pedidos hoje, 600 amanhã sem contratar ninguém, 1.000 daqui 3 meses sem multiplicar custo. A diferença é arquitetura - não esforço.\n\n💬 Comenta EXPRESS aqui embaixo e te mando o link da aula gratuita - mostro o setup feito comigo em 1 semana, com seu catálogo e fluxos integrados.\n\n—\ncarrossel feito no @krossel.app · template Industrial Completo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #escala #operacao #ecommerce #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_01.png",
@@ -2105,7 +2105,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_09.png"
-    ]
+    ],
+    "media_id": "17973378969012934"
   },
   {
     "date": "2026-04-27",
