@@ -2285,7 +2285,7 @@
     "title": "dentro-curso-waba",
     "topic": "O que tem dentro do API Oficial na Prática",
     "dir": "workspace/2026-05-01/dentro-curso-waba",
-    "status": "ready",
+    "status": "published",
     "caption": "O API Oficial na Prática não é curso teórico. É manual técnico com infra inclusa.\n\nVocê não compra horas de aula. Compra a stack completa pra rodar API Oficial: a documentação técnica, os fluxos n8n prontos, os agentes IA configurados, os templates Marketing aprovados, o acesso ao Cloudfy. Aula é só pra você instalar e operar a infra que já existe.\n\n4 módulos. Módulo 1 (Fundação): setup da Cloud API direto na Meta - app, número virtual, WABA business profile, webhook. 40 minutos. Módulo 2 (Infraestrutura): n8n + Postgres + Chatwoot via Cloudfy em 1 clique. Módulo 3 (Agentes IA): Buscador, Disparador, SDR Vendedor. Configura prompts pro seu nicho. Módulo 4 (Bônus): Mestre dos Templates analisa sua mensagem e diz a categoria certa, mais biblioteca de 12 templates Marketing certificados.\n\nAcesso vitalício + atualizações sem custo extra. Você compra uma vez. Recebe acesso imediato pelo Telegram + email. Toda nova versão do n8n, atualização da Meta, template novo - você recebe sem pagar de novo. Sem mensalidade. Sem upsell escondido.\n\nVocê não aprende automação. Você recebe automação. Aqui você não monta do zero. Você instala o que já tá pronto.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro os 4 módulos rodando ao vivo.\n\n—\ncarrossel feito no @krossel.app · template Completo (9 slides)\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #curso #treinamento #krossel",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_01.png",
@@ -2297,6 +2297,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/dentro-curso-waba/slide_09.png"
-    ]
+    ],
+    "media_id": "17886113352536351"
   }
 ]
