@@ -2329,7 +2329,7 @@
     "product": "ACADEMY",
     "title": "impeccable-skill",
     "dir": "workspace/2026-05-20/impeccable-skill",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-02.png",
@@ -2341,7 +2341,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-09.png"
     ],
-    "caption": "Você coda a interface. Funciona. Feia.\n\n/impeccable muda isso.\n\nSkills de design pra Claude Code que ensinam o modelo a pensar como designer sênior.\n\nSem contratar designer. Sem aprender design do zero.\n\nComenta ACADEMY."
+    "caption": "Você coda a interface. Funciona. Feia.\n\n/impeccable muda isso.\n\nSkills de design pra Claude Code que ensinam o modelo a pensar como designer sênior.\n\nSem contratar designer. Sem aprender design do zero.\n\nComenta ACADEMY.",
+    "media_id": "17952322820984259"
   },
   {
     "date": "2026-05-22",
