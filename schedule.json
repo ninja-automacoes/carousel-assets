@@ -2351,7 +2351,7 @@
     "product": "ACADEMY",
     "title": "superpowers-skills",
     "dir": "workspace/2026-05-22/superpowers-skills",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-02.png",
@@ -2363,7 +2363,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-09.png"
     ],
-    "caption": "Claude Code sem skills é o modelo padrão.\n\nCom superpowers é engenharia com disciplina. Planejamento antes de código. Hipótese antes de fix. Review antes de merge.\n\n10 minutos de plano = 2 horas salvas.\n\nComenta ACADEMY."
+    "caption": "Claude Code sem skills é o modelo padrão.\n\nCom superpowers é engenharia com disciplina. Planejamento antes de código. Hipótese antes de fix. Review antes de merge.\n\n10 minutos de plano = 2 horas salvas.\n\nComenta ACADEMY.",
+    "media_id": "18099317690514400"
   },
   {
     "date": "2026-05-22",
