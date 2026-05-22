@@ -2395,7 +2395,7 @@
     "product": "ACADEMY",
     "title": "como-escrever-skill",
     "dir": "workspace/2026-05-24/como-escrever-skill",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-02.png",
@@ -2407,7 +2407,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-09.png"
     ],
-    "caption": "Skill não é plugin. Não é SDK. Não é extensão.\n\nÉ um arquivo .md com frontmatter + instruções. O Claude Code lê e segue.\n\nQualquer pessoa que escreve texto pode programar o Claude.\n\nComenta ACADEMY."
+    "caption": "Skill não é plugin. Não é SDK. Não é extensão.\n\nÉ um arquivo .md com frontmatter + instruções. O Claude Code lê e segue.\n\nQualquer pessoa que escreve texto pode programar o Claude.\n\nComenta ACADEMY.",
+    "media_id": "17965692744070044"
   },
   {
     "date": "2026-05-23",
