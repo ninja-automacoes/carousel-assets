@@ -2373,7 +2373,7 @@
     "product": "ACADEMY",
     "title": "n8n-mcp-skills",
     "dir": "workspace/2026-05-23/n8n-mcp-skills",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-02.png",
@@ -2385,7 +2385,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-09.png"
     ],
-    "caption": "Você abre o n8n. Copia JSON. Cola no Claude. Copia de volta.\n\nVocê virou o intermediário entre duas ferramentas que podiam falar diretamente.\n\nClaude Code + n8n MCP: você descreve a automação. Claude escreve, publica e testa. Em menos de 2 minutos.\n\nComenta ACADEMY."
+    "caption": "Você abre o n8n. Copia JSON. Cola no Claude. Copia de volta.\n\nVocê virou o intermediário entre duas ferramentas que podiam falar diretamente.\n\nClaude Code + n8n MCP: você descreve a automação. Claude escreve, publica e testa. Em menos de 2 minutos.\n\nComenta ACADEMY.",
+    "media_id": "18111438508917199"
   },
   {
     "date": "2026-05-22",
