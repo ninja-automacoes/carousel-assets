@@ -2439,7 +2439,7 @@
     "product": "ACADEMY",
     "title": "context-mode",
     "dir": "workspace/2026-05-26/context-mode",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-02.png",
@@ -2451,7 +2451,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-09.png"
     ],
-    "caption": "Janela de contexto enchendo. Cada comando que retorna 100 linhas consome 100 linhas de contexto.\n\nctx_batch_execute muda isso. Uma chamada substitui 30+ chamadas individuais. Os resultados ficam indexados. A janela fica livre.\n\n60-90% menos tokens por sessão.\n\nSkill open source criada por Mert Koseoğlu (github.com/mksglu/context-mode).\n\nNo Ninja Academy você aprende a configurar e usar nos seus projetos. Comenta ACADEMY.",
+    "caption": "Janela de contexto enchendo. Cada comando que retorna 100 linhas consome 100 linhas de contexto.\n\nctx_batch_execute muda isso. Uma chamada substitui 30+ chamadas individuais. Os resultados ficam indexados. A janela fica livre.\n\n60-90% menos tokens por sessão.\n\nSkill open source criada por Mert Koseoğlu (github.com/mksglu/context-mode).\n\nNo Claude Code na Prática você aprende a configurar e usar nos seus projetos. Comenta CLAUDE.",
     "media_id": "17876394144602586",
     "permalink": "https://www.instagram.com/p/DYsPaTaEj4R/"
   },
