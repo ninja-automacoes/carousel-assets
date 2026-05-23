@@ -2417,7 +2417,7 @@
     "product": "ACADEMY",
     "title": "claude-runtime",
     "dir": "workspace/2026-05-25/claude-runtime",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-02.png",
@@ -2430,7 +2430,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-09.png"
     ],
     "caption": "Claude Code não é chat. É runtime.\n\nChat responde. Runtime executa.\n\nSkills + Hooks + MCP = operação autônoma. Você define uma vez. O runtime executa sozinho. Sem você na loop de cada decisão.\n\nSkills, Hooks e MCP são nativos do Claude Code (Anthropic).\n\nNo Ninja Academy você aprende a montar a operação. Comenta ACADEMY.",
-    "media_id": "18008762678724257"
+    "media_id": "18111404690496587"
   },
   {
     "date": "2026-05-23",
