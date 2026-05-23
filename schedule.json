@@ -2307,7 +2307,7 @@
     "product": "ACADEMY",
     "title": "caveman-mode",
     "dir": "workspace/2026-05-21/caveman-mode",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-21/caveman-mode/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-21/caveman-mode/slide-02.png",
@@ -2319,7 +2319,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-21/caveman-mode/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-21/caveman-mode/slide-09.png"
     ],
-    "caption": "Você gasta 10x mais tokens do que precisa.\n\nArtigos. Gentileza. Hedge. Palavras que não carregam informação.\n\nCaveman mode elimina tudo isso. 75% menos tokens. 0% menos substância.\n\nUma skill. Instala uma vez. Roda em todo projeto.\n\nComenta ACADEMY e te mando o link.",
+    "caption": "Você gasta 10x mais tokens do que precisa.\n\nArtigos. Gentileza. Hedge. Palavras que não carregam informação.\n\nCaveman mode elimina tudo isso. 75% menos tokens. 0% menos substância.\n\nSkill open source criada por Julius Brussee (github.com/JuliusBrussee).\n\nNo Ninja Academy você aprende a instalar e configurar o nível certo. Comenta ACADEMY e te mando o link.",
     "media_id": "18108385183919080"
   },
   {
@@ -2329,7 +2329,7 @@
     "product": "ACADEMY",
     "title": "impeccable-skill",
     "dir": "workspace/2026-05-20/impeccable-skill",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-02.png",
@@ -2341,7 +2341,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-20/impeccable-skill/slide-09.png"
     ],
-    "caption": "Você coda a interface. Funciona. Feia.\n\n/impeccable muda isso.\n\nSkills de design pra Claude Code que ensinam o modelo a pensar como designer sênior.\n\nSem contratar designer. Sem aprender design do zero.\n\nComenta ACADEMY.",
+    "caption": "Você coda a interface. Funciona. Feia.\n\nImpeccable muda isso. Skills de design que ensinam o Claude Code a pensar como designer sênior.\n\nSkill open source criada por Paul Bakaus (impeccable.style).\n\nNo Ninja Academy você aprende a aplicar nos seus projetos. Comenta ACADEMY.",
     "media_id": "17952322820984259"
   },
   {
@@ -2351,7 +2351,7 @@
     "product": "ACADEMY",
     "title": "superpowers-skills",
     "dir": "workspace/2026-05-22/superpowers-skills",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-02.png",
@@ -2363,7 +2363,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-22/superpowers-skills/slide-09.png"
     ],
-    "caption": "Claude Code sem skills é o modelo padrão.\n\nCom superpowers é engenharia com disciplina. Planejamento antes de código. Hipótese antes de fix. Review antes de merge.\n\n10 minutos de plano = 2 horas salvas.\n\nComenta ACADEMY.",
+    "caption": "Claude Code sem skills é o modelo padrão.\n\nCom superpowers é engenharia com disciplina. Planejamento antes de código. Hipótese antes de fix. Review antes de merge.\n\n10 minutos de plano = 2 horas salvas.\n\nSkill open source criada por Jesse Vincent (github.com/obra/superpowers).\n\nNo Ninja Academy você aprende a usar cada skill no fluxo certo. Comenta ACADEMY.",
     "media_id": "18099317690514400"
   },
   {
@@ -2373,7 +2373,7 @@
     "product": "ACADEMY",
     "title": "n8n-mcp-skills",
     "dir": "workspace/2026-05-23/n8n-mcp-skills",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-02.png",
@@ -2385,7 +2385,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-23/n8n-mcp-skills/slide-09.png"
     ],
-    "caption": "Você abre o n8n. Copia JSON. Cola no Claude. Copia de volta.\n\nVocê virou o intermediário entre duas ferramentas que podiam falar diretamente.\n\nClaude Code + n8n MCP: você descreve a automação. Claude escreve, publica e testa. Em menos de 2 minutos.\n\nComenta ACADEMY.",
+    "caption": "Você abre o n8n. Copia JSON. Cola no Claude. Copia de volta.\n\nVocê virou o intermediário entre duas ferramentas que podiam falar diretamente.\n\nClaude Code + n8n MCP: você descreve a automação. Claude escreve, publica e testa. Em menos de 2 minutos.\n\nSkills open source criadas por Romuald Członkowski (github.com/czlonkowski/n8n-skills).\n\nNo Ninja Academy você aprende a integrar com sua instância n8n. Comenta ACADEMY.",
     "media_id": "18111438508917199"
   },
   {
@@ -2395,7 +2395,7 @@
     "product": "ACADEMY",
     "title": "como-escrever-skill",
     "dir": "workspace/2026-05-24/como-escrever-skill",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-02.png",
@@ -2407,7 +2407,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-24/como-escrever-skill/slide-09.png"
     ],
-    "caption": "Skill não é plugin. Não é SDK. Não é extensão.\n\nÉ um arquivo .md com frontmatter + instruções. O Claude Code lê e segue.\n\nQualquer pessoa que escreve texto pode programar o Claude.\n\nComenta ACADEMY.",
+    "caption": "Skill não é plugin. Não é SDK. Não é extensão.\n\nÉ um arquivo .md com frontmatter + instruções. O Claude Code lê e segue.\n\nQualquer pessoa que escreve texto pode programar o Claude.\n\nSkills são parte do Claude Code (framework da Anthropic — docs.anthropic.com).\n\nNo Ninja Academy você aprende a escrever as suas. Comenta ACADEMY.",
     "media_id": "17965692744070044"
   },
   {
@@ -2417,7 +2417,7 @@
     "product": "ACADEMY",
     "title": "claude-runtime",
     "dir": "workspace/2026-05-25/claude-runtime",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-02.png",
@@ -2429,7 +2429,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/claude-runtime/slide-09.png"
     ],
-    "caption": "Claude Code não é chat. É runtime.\n\nChat responde. Runtime executa.\n\nSkills + Hooks + MCP = operação autônoma. Você define uma vez. O runtime executa sozinho. Sem você na loop de cada decisão.\n\nComenta ACADEMY.",
+    "caption": "Claude Code não é chat. É runtime.\n\nChat responde. Runtime executa.\n\nSkills + Hooks + MCP = operação autônoma. Você define uma vez. O runtime executa sozinho. Sem você na loop de cada decisão.\n\nSkills, Hooks e MCP são nativos do Claude Code (Anthropic).\n\nNo Ninja Academy você aprende a montar a operação. Comenta ACADEMY.",
     "media_id": "18008762678724257"
   },
   {
@@ -2439,7 +2439,7 @@
     "product": "ACADEMY",
     "title": "context-mode",
     "dir": "workspace/2026-05-26/context-mode",
-    "status": "published",
+    "status": "ready",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-02.png",
@@ -2451,7 +2451,154 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/context-mode/slide-09.png"
     ],
-    "caption": "Janela de contexto enchendo. Cada comando que retorna 100 linhas consome 100 linhas de contexto.\n\nctx_batch_execute muda isso. Uma chamada substitui 30+ chamadas individuais. Os resultados ficam indexados. A janela fica livre.\n\n60-90% menos tokens por sessão.\n\nSkill open source criada por Mert Koseoğlu (github.com/mksglu/context-mode).\n\nNo Claude Code na Prática você aprende a configurar e usar nos seus projetos. Comenta CLAUDE.",
+    "caption": "Janela de contexto enchendo. Cada comando que retorna 100 linhas consome 100 linhas de contexto.\n\nctx_batch_execute muda isso. Uma chamada substitui 30+ chamadas individuais. Os resultados ficam indexados. A janela fica livre.\n\n60-90% menos tokens por sessão.\n\nSkill open source criada por Mert Koseoğlu (github.com/mksglu/context-mode).\n\nNo Ninja Academy você aprende a configurar e usar nos seus projetos. Comenta ACADEMY.",
     "media_id": "17977728575858166"
+  },
+  {
+    "date": "2026-05-25",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "o-que-e-claude-code",
+    "dir": "workspace/2026-05-25/o-que-e-claude-code",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-09.png"
+    ],
+    "caption": "Você copia do ChatGPT pro VS Code. Volta pro ChatGPT. Cola o erro. Repete 50 vezes por dia.\n\nClaude Code elimina esse fluxo. É um terminal de IA dentro do VS Code que lê seus arquivos, edita, roda comandos, faz commits e deploya.\n\nChat não tem ferramentas. Runtime tem.\n\nClaude Code é da Anthropic.\n\nNo Claude Code na Prática você aprende a usar do zero: instalação, .claude/, skills, MCP e agendamentos. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-26",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "tarefas-agendadas",
+    "dir": "workspace/2026-05-26/tarefas-agendadas",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-09.png"
+    ],
+    "caption": "Você esquece. O algoritmo não.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompts no horário que você definir. Cron jobs com inteligência.\n\nToda segunda 9h: resumo do que comitei. Todo dia 18h: 3 ideias de carrossel. Todo primeiro do mês: relatório de tokens.\n\nFeature nativa do Claude Code (Anthropic). Disponível na versão desktop.\n\nNo Claude Code na Prática você aprende a montar agendamentos pros seus loops recorrentes. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-27",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "youtube-thumbnails",
+    "dir": "workspace/2026-05-27/youtube-thumbnails",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-09.png"
+    ],
+    "caption": "Designer cobra R$ 200 por thumbnail. Demora 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails skill gera 4 thumbnails em grid 2x2 em 30 segundos. Psicologia de clique embutida. Você passa sua foto como reference e mantém o rosto.\n\nPra criador subindo 3 vídeos/semana: R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source na curadoria do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e customizar pro seu canal. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-28",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "debugando-n8n",
+    "dir": "workspace/2026-05-28/debugando-n8n",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-09.png"
+    ],
+    "caption": "Workflow tava funcionando. Você ajustou uma coisa. Agora tá vermelho. Refaz do zero. Mesma coisa. Era um caractere errado na expressão.\n\nn8n-MCP + Claude Code lê o workflow inteiro, identifica o erro, propõe o fix, aplica e re-testa. Sem você abrir o editor.\n\n6 padrões de erro categorizados (CRED, EXPR, STRUCT, TIME). Claude já viu cada um 1000 vezes.\n\nSkills open source criadas por Romuald Członkowski (github.com/czlonkowski/n8n-skills).\n\nNo Claude Code na Prática você aprende a debugar todos os tipos. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-29",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "obsidian-cerebro",
+    "dir": "workspace/2026-05-29/obsidian-cerebro",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-09.png"
+    ],
+    "caption": "Você tem 200 notas no Notion, 50 PDFs salvos, 800 emails marcados. Tudo na sua cabeça. Nada no Claude. Cada conversa começa do zero.\n\nObsidian + skills certas viram um cérebro persistente pro Claude. Vault + skills + importers de Notion/Gmail/Drive/Twitter.\n\nVocê pergunta: 'o que decidi sobre pricing no Q3?' O Claude faz query no vault, encontra a nota, responde com fonte.\n\nObsidian é open source (Erica & Shida Xu, obsidian.md).\n\nNo Claude Code na Prática você recebe brain-template + 4 importers prontos. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-30",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "composio-10-apis",
+    "dir": "workspace/2026-05-30/composio-10-apis",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-09.png"
+    ],
+    "caption": "Integrar 10 APIs = 10 infernos. Cada auth diferente, cada rate limit, cada docs ruim de jeito diferente. Você passa 3 semanas configurando antes de escrever uma linha de lógica.\n\nComposio é uma camada que conecta 250+ ferramentas via um único MCP. Gmail, Slack, Notion, GitHub, Stripe - todas falando com o Claude.\n\ncomposio add gmail e pronto. Claude já fala com Gmail.\n\nComposio é open source (composio.dev).\n\nNo Claude Code na Prática você aprende setup, link e os 4 workflows de criador. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-05-31",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "claude-studio-vercel",
+    "dir": "workspace/2026-05-31/claude-studio-vercel",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/claude-studio-vercel/slide-09.png"
+    ],
+    "caption": "Você tem a ideia. Não tem o código. Quer um SaaS pequeno, um app interno, um dashboard. Mas agência cobra R$ 30k pra começar.\n\nClaude Studio é um template Next.js completo (auth, banco, dashboard, cron) que você customiza com Claude Code e deploya na Vercel. 3 horas do clone ao primeiro user logado.\n\nOperador vira fundador. Você tem produto antes de ter time.\n\nClaude Studio é open source licença CC BY-NC. Stack: Next.js + Supabase + Tailwind + shadcn.\n\nNo Claude Code na Prática você aprende setup, deploy e personalização completa. Comenta CLAUDE."
   }
 ]
