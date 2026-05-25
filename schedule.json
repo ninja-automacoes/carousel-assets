@@ -2462,7 +2462,7 @@
     "product": "ACADEMY",
     "title": "o-que-e-claude-code",
     "dir": "workspace/2026-05-25/o-que-e-claude-code",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-02.png",
@@ -2474,7 +2474,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-25/o-que-e-claude-code/slide-09.png"
     ],
-    "caption": "Você copia do ChatGPT pro VS Code. Volta pro ChatGPT. Cola o erro. Repete 50 vezes por dia.\n\nClaude Code elimina esse fluxo. É um terminal de IA dentro do VS Code que lê seus arquivos, edita, roda comandos, faz commits e deploya.\n\nChat não tem ferramentas. Runtime tem.\n\nClaude Code é da Anthropic.\n\nNo Claude Code na Prática você aprende a usar do zero: instalação, .claude/, skills, MCP e agendamentos. Comenta CLAUDE."
+    "caption": "Você copia do ChatGPT pro VS Code. Volta pro ChatGPT. Cola o erro. Repete 50 vezes por dia.\n\nClaude Code elimina esse fluxo. É um terminal de IA dentro do VS Code que lê seus arquivos, edita, roda comandos, faz commits e deploya.\n\nChat não tem ferramentas. Runtime tem.\n\nClaude Code é da Anthropic.\n\nNo Claude Code na Prática você aprende a usar do zero: instalação, .claude/, skills, MCP e agendamentos. Comenta CLAUDE.",
+    "media_id": "17874977544669092"
   },
   {
     "date": "2026-05-26",
