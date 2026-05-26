@@ -2484,7 +2484,7 @@
     "product": "ACADEMY",
     "title": "tarefas-agendadas",
     "dir": "workspace/2026-05-26/tarefas-agendadas",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-02.png",
@@ -2496,7 +2496,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-09.png"
     ],
-    "caption": "Você esquece. O algoritmo não.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompts no horário que você definir. Cron jobs com inteligência.\n\nToda segunda 9h: resumo do que comitei. Todo dia 18h: 3 ideias de carrossel. Todo primeiro do mês: relatório de tokens.\n\nFeature nativa do Claude Code (Anthropic). Disponível na versão desktop.\n\nNo Claude Code na Prática você aprende a montar agendamentos pros seus loops recorrentes. Comenta CLAUDE."
+    "caption": "Você esquece. O algoritmo não.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompts no horário que você definir. Cron jobs com inteligência.\n\nToda segunda 9h: resumo do que comitei. Todo dia 18h: 3 ideias de carrossel. Todo primeiro do mês: relatório de tokens.\n\nFeature nativa do Claude Code (Anthropic). Disponível na versão desktop.\n\nNo Claude Code na Prática você aprende a montar agendamentos pros seus loops recorrentes. Comenta CLAUDE.",
+    "media_id": "18433881439139268"
   },
   {
     "date": "2026-05-27",
