@@ -2506,7 +2506,7 @@
     "product": "ACADEMY",
     "title": "youtube-thumbnails",
     "dir": "workspace/2026-05-27/youtube-thumbnails",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-02.png",
@@ -2518,7 +2518,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-09.png"
     ],
-    "caption": "Designer cobra R$ 200 por thumbnail. Demora 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails skill gera 4 thumbnails em grid 2x2 em 30 segundos. Psicologia de clique embutida. Você passa sua foto como reference e mantém o rosto.\n\nPra criador subindo 3 vídeos/semana: R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source na curadoria do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e customizar pro seu canal. Comenta CLAUDE."
+    "caption": "Designer cobra R$ 200 por thumbnail. Demora 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails skill gera 4 thumbnails em grid 2x2 em 30 segundos. Psicologia de clique embutida. Você passa sua foto como reference e mantém o rosto.\n\nPra criador subindo 3 vídeos/semana: R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source na curadoria do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e customizar pro seu canal. Comenta CLAUDE.",
+    "media_id": "18092281163461415"
   },
   {
     "date": "2026-05-28",
