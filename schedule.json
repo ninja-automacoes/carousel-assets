@@ -2528,7 +2528,7 @@
     "product": "ACADEMY",
     "title": "debugando-n8n",
     "dir": "workspace/2026-05-28/debugando-n8n",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-02.png",
@@ -2540,7 +2540,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-28/debugando-n8n/slide-09.png"
     ],
-    "caption": "Workflow tava funcionando. Você ajustou uma coisa. Agora tá vermelho. Refaz do zero. Mesma coisa. Era um caractere errado na expressão.\n\nn8n-MCP + Claude Code lê o workflow inteiro, identifica o erro, propõe o fix, aplica e re-testa. Sem você abrir o editor.\n\n6 padrões de erro categorizados (CRED, EXPR, STRUCT, TIME). Claude já viu cada um 1000 vezes.\n\nSkills open source criadas por Romuald Członkowski (github.com/czlonkowski/n8n-skills).\n\nNo Claude Code na Prática você aprende a debugar todos os tipos. Comenta CLAUDE."
+    "caption": "Workflow tava funcionando. Você ajustou uma coisa. Agora tá vermelho. Refaz do zero. Mesma coisa. Era um caractere errado na expressão.\n\nn8n-MCP + Claude Code lê o workflow inteiro, identifica o erro, propõe o fix, aplica e re-testa. Sem você abrir o editor.\n\n6 padrões de erro categorizados (CRED, EXPR, STRUCT, TIME). Claude já viu cada um 1000 vezes.\n\nSkills open source criadas por Romuald Członkowski (github.com/czlonkowski/n8n-skills).\n\nNo Claude Code na Prática você aprende a debugar todos os tipos. Comenta CLAUDE.",
+    "media_id": "17892488670354292"
   },
   {
     "date": "2026-05-29",
