@@ -2550,7 +2550,7 @@
     "product": "ACADEMY",
     "title": "obsidian-cerebro",
     "dir": "workspace/2026-05-29/obsidian-cerebro",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-02.png",
@@ -2562,7 +2562,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-29/obsidian-cerebro/slide-09.png"
     ],
-    "caption": "Você tem 200 notas no Notion, 50 PDFs salvos, 800 emails marcados. Tudo na sua cabeça. Nada no Claude. Cada conversa começa do zero.\n\nObsidian + skills certas viram um cérebro persistente pro Claude. Vault + skills + importers de Notion/Gmail/Drive/Twitter.\n\nVocê pergunta: 'o que decidi sobre pricing no Q3?' O Claude faz query no vault, encontra a nota, responde com fonte.\n\nObsidian é open source (Erica & Shida Xu, obsidian.md).\n\nNo Claude Code na Prática você recebe brain-template + 4 importers prontos. Comenta CLAUDE."
+    "caption": "Você tem 200 notas no Notion, 50 PDFs salvos, 800 emails marcados. Tudo na sua cabeça. Nada no Claude. Cada conversa começa do zero.\n\nObsidian + skills certas viram um cérebro persistente pro Claude. Vault + skills + importers de Notion/Gmail/Drive/Twitter.\n\nVocê pergunta: 'o que decidi sobre pricing no Q3?' O Claude faz query no vault, encontra a nota, responde com fonte.\n\nObsidian é open source (Erica & Shida Xu, obsidian.md).\n\nNo Claude Code na Prática você recebe brain-template + 4 importers prontos. Comenta CLAUDE.",
+    "media_id": "18126888439714236"
   },
   {
     "date": "2026-05-30",
