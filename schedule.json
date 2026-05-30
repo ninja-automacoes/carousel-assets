@@ -2572,7 +2572,7 @@
     "product": "ACADEMY",
     "title": "composio-10-apis",
     "dir": "workspace/2026-05-30/composio-10-apis",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-02.png",
@@ -2584,7 +2584,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/composio-10-apis/slide-09.png"
     ],
-    "caption": "Integrar 10 APIs = 10 infernos. Cada auth diferente, cada rate limit, cada docs ruim de jeito diferente. Você passa 3 semanas configurando antes de escrever uma linha de lógica.\n\nComposio é uma camada que conecta 250+ ferramentas via um único MCP. Gmail, Slack, Notion, GitHub, Stripe - todas falando com o Claude.\n\ncomposio add gmail e pronto. Claude já fala com Gmail.\n\nComposio é open source (composio.dev).\n\nNo Claude Code na Prática você aprende setup, link e os 4 workflows de criador. Comenta CLAUDE."
+    "caption": "Integrar 10 APIs = 10 infernos. Cada auth diferente, cada rate limit, cada docs ruim de jeito diferente. Você passa 3 semanas configurando antes de escrever uma linha de lógica.\n\nComposio é uma camada que conecta 250+ ferramentas via um único MCP. Gmail, Slack, Notion, GitHub, Stripe - todas falando com o Claude.\n\ncomposio add gmail e pronto. Claude já fala com Gmail.\n\nComposio é open source (composio.dev).\n\nNo Claude Code na Prática você aprende setup, link e os 4 workflows de criador. Comenta CLAUDE.",
+    "media_id": "18138084430542637"
   },
   {
     "date": "2026-05-31",
