@@ -2608,5 +2608,26 @@
     ],
     "caption": "Você tem a ideia. Não tem o código. Quer um SaaS pequeno, um app interno, um dashboard. Mas agência cobra R$ 30k pra começar.\n\nClaude Studio é um template Next.js completo (auth, banco, dashboard, cron) que você customiza com Claude Code e deploya na Vercel. 3 horas do clone ao primeiro user logado.\n\nOperador vira fundador. Você tem produto antes de ter time.\n\nClaude Studio é open source licença CC BY-NC. Stack: Next.js + Supabase + Tailwind + shadcn.\n\nNo Claude Code na Prática você aprende setup, deploy e personalização completa. Comenta CLAUDE.",
     "media_id": "18106304804003731"
+  },
+  {
+    "date": "2026-06-01",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "opus-4-8",
+    "dir": "workspace/2026-06-01/opus-4-8",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-09.png"
+    ],
+    "caption": "Anthropic lançou Claude Opus 4.8 quinta passada (28/05).\n\nMesmo preço do 4.7 ($5/M input, $25/M output). 4x menos provável de deixar bug passar despercebido. Fast mode 3x mais barato. Dynamic workflows com centenas de subagents paralelos.\n\nCursor diz: \"exceeds prior Opus across every effort level\". Cognition (Devin): \"fixes comment-verbosity and tool-calling issues we saw with Opus 4.7\".\n\nModelo: claude-opus-4-8. Disponível em todos os planos hoje.\n\nNo Claude Code na Prática você aprende a usar o novo Opus em fluxos reais. Comenta CLAUDE."
   }
 ]
