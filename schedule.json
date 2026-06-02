@@ -2616,7 +2616,7 @@
     "product": "ACADEMY",
     "title": "opus-4-8",
     "dir": "workspace/2026-06-01/opus-4-8",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-02.png",
@@ -2628,6 +2628,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/opus-4-8/slide-09.png"
     ],
-    "caption": "Anthropic lançou Opus 4.8 quinta passada (28/05). Mesmo preço do 4.7 ($5/M input, $25/M output). Erra 4x menos quando você roda Claude Code.\n\nFast mode caiu pra $10/$50 por milhão. E dynamic workflows agora roda centenas de subagents em paralelo na mesma sessão.\n\nCursor: \"exceeds prior Opus across every effort level\". Cognition (Devin): \"fixes comment-verbosity and tool-calling issues we saw with Opus 4.7\".\n\nModelo: claude-opus-4-8. Disponível em todos os planos.\n\nNo Claude Code na Prática você monta fluxos com Opus 4.8 que rodam sozinhos. Comenta CLAUDE."
+    "caption": "Anthropic lançou Opus 4.8 quinta passada (28/05). Mesmo preço do 4.7 ($5/M input, $25/M output). Erra 4x menos quando você roda Claude Code.\n\nFast mode caiu pra $10/$50 por milhão. E dynamic workflows agora roda centenas de subagents em paralelo na mesma sessão.\n\nCursor: \"exceeds prior Opus across every effort level\". Cognition (Devin): \"fixes comment-verbosity and tool-calling issues we saw with Opus 4.7\".\n\nModelo: claude-opus-4-8. Disponível em todos os planos.\n\nNo Claude Code na Prática você monta fluxos com Opus 4.8 que rodam sozinhos. Comenta CLAUDE.",
+    "media_id": "18091645514622212",
+    "permalink": "https://www.instagram.com/p/DZGFMMmkl5V/"
   }
 ]
