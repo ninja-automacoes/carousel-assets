@@ -2673,5 +2673,194 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-09.png"
     ],
     "caption": "Você paga R$ 200 por thumbnail. Espera 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails é uma Claude Skill que gera 4 thumbs em grid 2x2 a partir da sua descrição. Psicologia de clique embutida. /youtube-thumbnail abre o fluxo, você descreve, pode passar foto como reference, em 30 segundos tem 4 variações.\n\nPra criador subindo 3 vídeos por semana, é R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source no marketplace do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e adaptar pro seu canal. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-04",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "vps-twenty-crm",
+    "dir": "workspace/2026-05-30/vps-twenty-crm",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-09.png"
+    ],
+    "caption": "Você paga centenas todo mês pra mexer num pipeline. HubSpot Starter cobra R$500, Salesforce Essentials R$450.\n\nTwenty é um CRM open source que roda no seu servidor. Interface tipo Notion, pipeline, contatos, deals, automações por webhook e API GraphQL/REST.\n\nVPS Hostinger KVM 2 a R$60/mês roda Twenty pra até 10 usuários. Setup do servidor é Claude Code instalando Docker, firewall, Nginx e SSL em cinco minutos.\n\nSeu CRM passa a ser seu de verdade. Dados no servidor, domínio próprio, zero licença mensal.\n\nNo Claude Code na Prática você aprende contratar, deploy e personalizar. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-04",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "crm-proprio",
+    "dir": "workspace/2026-05-31/crm-proprio",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-09.png"
+    ],
+    "caption": "HubSpot, Pipedrive, Salesforce. Todo CRM SaaS prende seus dados num servidor que não é teu. Cancelar mensalidade vira chantagem.\n\nTwenty CRM open source na sua VPS, com seu domínio na frente. Cloudflare aponta pra VPS, gera SSL automático, cacheia estáticos. Os dados ficam no Postgres que você administra.\n\npg_dump em qualquer momento. Backup automático com restore validado todo domingo.\n\nAntes self-hosting precisava de devops. Agora é Claude Code instalando tudo numa VPS de R$60.\n\nNo Claude Code na Prática você aprende o setup completo. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-05",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "cicd-github",
+    "dir": "workspace/2026-06-01/cicd-github",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-09.png"
+    ],
+    "caption": "Toda vez que você muda código, abre o terminal, dá ssh no servidor, git pull, restart pm2. Esquece um passo, o site cai.\n\nGitHub Actions roda o deploy quando você dá push no main. Build, teste e deploy viram um workflow YAML no repo. Você empurra, o resto acontece.\n\npush em main vai pra produção. push em staging pro ambiente de teste. PR aberto roda só os testes.\n\nSSH key e env var ficam em GitHub Secrets. Workflow consome via secrets.X sem expor nada no diff.\n\nNo Claude Code na Prática você aprende a montar o YAML do zero. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-05",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "workflows-composio",
+    "dir": "workspace/2026-06-02/workflows-composio",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-09.png"
+    ],
+    "caption": "Criador gasta hora fazendo o mesmo loop todo dia. Posta cinco plataformas na mão, responde DM, olha analytics.\n\nComposio liga o Claude a 250+ apps por MCP. Quatro workflows prontos cobrem o grosso da rotina.\n\nSOCIAL: cola roteiro do vídeo, Claude gera versão pra IG, LinkedIn, X, YouTube Community e Threads. MONITOR: domingo 8h gera relatório semanal com 3 recomendações. RESEARCH: segunda 9h busca tendências e devolve 5 pautas. REPURPOSE: vídeo do YouTube vira thread, artigo e legenda.\n\nCombina com Tarefas Agendadas. Roda sozinho.\n\nNo Claude Code na Prática você aprende setup, link e cada workflow. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-06",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "claude-mem",
+    "dir": "workspace/2026-06-03/claude-mem",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-09.png"
+    ],
+    "caption": "Você decide algo importante numa conversa hoje. Amanhã abre o Claude pra continuar. Ele não lembra de nada. Você cola contexto de novo, toda vez.\n\nclaude-mem indexa cada sessão num banco persistente via hook PostToolUse. Próxima conversa começa com a memória das anteriores carregada como contexto.\n\nDecisões tomadas, bugs resolvidos, arquivos editados. Tudo recuperável por busca semântica.\n\nVocê pergunta \"o que decidi sobre X?\" em linguagem natural. Resposta vem com fonte e data.\n\nPlugin criado por Alex Newman (github.com/thedotmack/claude-mem). Open source.\n\nNo Claude Code na Prática você aprende a instalar e usar pra trabalho longo. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-06",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "book-to-skill",
+    "dir": "workspace/2026-06-04/book-to-skill",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-09.png"
+    ],
+    "caption": "Você baixa livro, paper, ebook. Empilha em DOWNLOADS. Nunca abre. O conhecimento fica preso no PDF e não vira ferramenta.\n\nbook-to-skill lê o PDF, identifica o método central, escreve o SKILL.md e instala em .claude/skills/. O conhecimento vira ferramenta invocável.\n\nAtomic Habits virou /habits que diagnostica por que você não conseguiu manter um hábito. Hooked virou /hooked que audita teu produto. The Mom Test virou /mom-test que questiona se sua pesquisa de cliente é viesada.\n\nSua estante de PDFs vira pasta de skills. Cada livro que valeu a leitura vira comando.\n\nNo Claude Code na Prática você aprende a usar pros livros que você quer transformar. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-07",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "browser-harness",
+    "dir": "workspace/2026-06-05/browser-harness",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-09.png"
+    ],
+    "caption": "Você precisa puxar dado de site. Cobra acesso JS, tem captcha, site muda layout. Cada scraping vira projeto de fim de semana.\n\nbrowser-harness deixa o Claude controlar um Chrome headless via Playwright. Você descreve o que quer extrair em português. Ele clica, espera, rola, lê e devolve o JSON.\n\nMonitorar preço de concorrente, coletar contato de prospect, auditar Open Graph, validar formulário antes de demo, capturar screenshot pra documentação.\n\nHeadless renderiza JS, espera componentes hidratarem. Captcha simples ele resolve, complexo ele pede pra você resolver.\n\nNo Claude Code na Prática você aprende a usar pra cada caso. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-07",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "grill-me",
+    "dir": "workspace/2026-06-06/grill-me",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-09.png"
+    ],
+    "caption": "Você sobe carrossel, post, artigo. Alguém comenta apontando erro técnico que você releu três vezes e não viu. Custo: reputação.\n\ngrill-me cruza seu rascunho com a documentação oficial e questiona cada afirmação. Acha contradições, dados desatualizados e inferências sem fonte.\n\nPra cada claim técnico, o Claude pergunta: a docs confirma? a versão citada existe? o dado vem de fonte primária? Quem não responde, vira marca pra revisar.\n\nPega versão de API errada, função renomeada, métrica sem fonte, comparação com produto que mudou.\n\nA skill é hostil de propósito. Não te elogia. Aponta o que não sustenta.\n\nNo Claude Code na Prática você aprende a usar pro tipo de conteúdo que você publica. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-08",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "design-md",
+    "dir": "workspace/2026-06-07/design-md",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-09.png"
+    ],
+    "caption": "Você pede UI pro Claude. Volta com cores fora do brand, fonte genérica, espaçamento descalibrado. Toda iteração você cola seus tokens de novo.\n\ndesign-md é um arquivo .md que descreve seu sistema visual em texto: cores hex, escalas tipográficas, espaçamento, raio, sombra, animação. O Claude lê uma vez e respeita em cada componente.\n\nBrand primary #D4683A, fonte heading Barlow Condensed 900, raio padrão 12px. Tudo navegável pra IA e legível pra humano.\n\nVocê pede botão, card, navbar. Vem nos hex certos. A primeira tentativa passa no critério visual da marca.\n\nNo Claude Code na Prática você aprende a montar o design.md pra sua marca. Comenta CLAUDE."
   }
 ]
