@@ -2631,5 +2631,47 @@
     "caption": "Anthropic lançou Opus 4.8 quinta passada (28/05). Mesmo preço do 4.7 ($5/M input, $25/M output). Erra 4x menos quando você roda Claude Code.\n\nFast mode caiu pra $10/$50 por milhão. E dynamic workflows agora roda centenas de subagents em paralelo na mesma sessão.\n\nCursor: \"exceeds prior Opus across every effort level\". Cognition (Devin): \"fixes comment-verbosity and tool-calling issues we saw with Opus 4.7\".\n\nModelo: claude-opus-4-8. Disponível em todos os planos.\n\nNo Claude Code na Prática você monta fluxos com Opus 4.8 que rodam sozinhos. Comenta CLAUDE.",
     "media_id": "18091645514622212",
     "permalink": "https://www.instagram.com/p/DZGFMMmkl5V/"
+  },
+  {
+    "date": "2026-06-03",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "tarefas-agendadas",
+    "dir": "workspace/2026-05-26/tarefas-agendadas",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-09.png"
+    ],
+    "caption": "Toda terça 14h você lembra de mandar update pro cliente. Exceto metade das vezes.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompt no horário que você definir. Cron com cérebro embutido. Você define uma vez e ele roda toda semana sem você lembrar.\n\n/schedule abre a aba Scheduled Tasks. Escreve o prompt, define o horário, pronto. Catch-up de 7 dias se o app tava fechado.\n\nConteúdo recorrente, relatório de fim de mês, outreach periódico. Tarefa que você faz toda semana e detesta lembrar — vira agendado uma vez.\n\nNo Claude Code na Prática você aprende a montar os agendamentos que rodam seu trabalho recorrente. Comenta CLAUDE."
+  },
+  {
+    "date": "2026-06-03",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "youtube-thumbnails",
+    "dir": "workspace/2026-05-27/youtube-thumbnails",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-09.png"
+    ],
+    "caption": "Você paga R$ 200 por thumbnail. Espera 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails é uma Claude Skill que gera 4 thumbs em grid 2x2 a partir da sua descrição. Psicologia de clique embutida. /youtube-thumbnail abre o fluxo, você descreve, pode passar foto como reference, em 30 segundos tem 4 variações.\n\nPra criador subindo 3 vídeos por semana, é R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source no marketplace do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e adaptar pro seu canal. Comenta CLAUDE."
   }
 ]
