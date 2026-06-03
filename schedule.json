@@ -2661,7 +2661,7 @@
     "product": "ACADEMY",
     "title": "youtube-thumbnails",
     "dir": "workspace/2026-05-27/youtube-thumbnails",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-02.png",
@@ -2673,7 +2673,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-27/youtube-thumbnails/slide-09.png"
     ],
-    "caption": "Você paga R$ 200 por thumbnail. Espera 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails é uma Claude Skill que gera 4 thumbs em grid 2x2 a partir da sua descrição. Psicologia de clique embutida. /youtube-thumbnail abre o fluxo, você descreve, pode passar foto como reference, em 30 segundos tem 4 variações.\n\nPra criador subindo 3 vídeos por semana, é R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source no marketplace do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e adaptar pro seu canal. Comenta CLAUDE."
+    "caption": "Você paga R$ 200 por thumbnail. Espera 4 dias. Volta com 2 opções, ambas medíocres.\n\nYouTube Thumbnails é uma Claude Skill que gera 4 thumbs em grid 2x2 a partir da sua descrição. Psicologia de clique embutida. /youtube-thumbnail abre o fluxo, você descreve, pode passar foto como reference, em 30 segundos tem 4 variações.\n\nPra criador subindo 3 vídeos por semana, é R$ 2.400/mês economizados. Plus o tempo.\n\nSkill open source no marketplace do Claude Code.\n\nNo Claude Code na Prática você aprende a instalar e adaptar pro seu canal. Comenta CLAUDE.",
+    "media_id": "18154425754474859"
   },
   {
     "date": "2026-06-04",
