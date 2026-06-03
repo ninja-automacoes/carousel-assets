@@ -2639,7 +2639,7 @@
     "product": "ACADEMY",
     "title": "tarefas-agendadas",
     "dir": "workspace/2026-05-26/tarefas-agendadas",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-02.png",
@@ -2651,7 +2651,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-26/tarefas-agendadas/slide-09.png"
     ],
-    "caption": "Toda terça 14h você lembra de mandar update pro cliente. Exceto metade das vezes.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompt no horário que você definir. Cron com cérebro embutido. Você define uma vez e ele roda toda semana sem você lembrar.\n\n/schedule abre a aba Scheduled Tasks. Escreve o prompt, define o horário, pronto. Catch-up de 7 dias se o app tava fechado.\n\nConteúdo recorrente, relatório de fim de mês, outreach periódico. Tarefa que você faz toda semana e detesta lembrar — vira agendado uma vez.\n\nNo Claude Code na Prática você aprende a montar os agendamentos que rodam seu trabalho recorrente. Comenta CLAUDE."
+    "caption": "Toda terça 14h você lembra de mandar update pro cliente. Exceto metade das vezes.\n\nTarefas Agendadas é uma feature nativa do Claude Code que roda prompt no horário que você definir. Cron com cérebro embutido. Você define uma vez e ele roda toda semana sem você lembrar.\n\n/schedule abre a aba Scheduled Tasks. Escreve o prompt, define o horário, pronto. Catch-up de 7 dias se o app tava fechado.\n\nConteúdo recorrente, relatório de fim de mês, outreach periódico. Tarefa que você faz toda semana e detesta lembrar — vira agendado uma vez.\n\nNo Claude Code na Prática você aprende a montar os agendamentos que rodam seu trabalho recorrente. Comenta CLAUDE.",
+    "media_id": "18596638969008833"
   },
   {
     "date": "2026-06-03",
