@@ -2705,7 +2705,7 @@
     "product": "ACADEMY",
     "title": "crm-proprio",
     "dir": "workspace/2026-05-31/crm-proprio",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-02.png",
@@ -2717,7 +2717,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-31/crm-proprio/slide-09.png"
     ],
-    "caption": "HubSpot, Pipedrive, Salesforce. Todo CRM SaaS prende seus dados num servidor que não é teu. Cancelar mensalidade vira chantagem.\n\nTwenty CRM open source na sua VPS, com seu domínio na frente. Cloudflare aponta pra VPS, gera SSL automático, cacheia estáticos. Os dados ficam no Postgres que você administra.\n\npg_dump em qualquer momento. Backup automático com restore validado todo domingo.\n\nAntes self-hosting precisava de devops. Agora é Claude Code instalando tudo numa VPS de R$60.\n\nNo Claude Code na Prática você aprende o setup completo. Comenta CLAUDE."
+    "caption": "HubSpot, Pipedrive, Salesforce. Todo CRM SaaS prende seus dados num servidor que não é teu. Cancelar mensalidade vira chantagem.\n\nTwenty CRM open source na sua VPS, com seu domínio na frente. Cloudflare aponta pra VPS, gera SSL automático, cacheia estáticos. Os dados ficam no Postgres que você administra.\n\npg_dump em qualquer momento. Backup automático com restore validado todo domingo.\n\nAntes self-hosting precisava de devops. Agora é Claude Code instalando tudo numa VPS de R$60.\n\nNo Claude Code na Prática você aprende o setup completo. Comenta CLAUDE.",
+    "media_id": "18029124848816990"
   },
   {
     "date": "2026-06-05",
