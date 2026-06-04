@@ -2683,7 +2683,7 @@
     "product": "ACADEMY",
     "title": "vps-twenty-crm",
     "dir": "workspace/2026-05-30/vps-twenty-crm",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-02.png",
@@ -2695,7 +2695,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-30/vps-twenty-crm/slide-09.png"
     ],
-    "caption": "Você paga centenas todo mês pra mexer num pipeline. HubSpot Starter cobra R$500, Salesforce Essentials R$450.\n\nTwenty é um CRM open source que roda no seu servidor. Interface tipo Notion, pipeline, contatos, deals, automações por webhook e API GraphQL/REST.\n\nVPS Hostinger KVM 2 a R$60/mês roda Twenty pra até 10 usuários. Setup do servidor é Claude Code instalando Docker, firewall, Nginx e SSL em cinco minutos.\n\nSeu CRM passa a ser seu de verdade. Dados no servidor, domínio próprio, zero licença mensal.\n\nNo Claude Code na Prática você aprende contratar, deploy e personalizar. Comenta CLAUDE."
+    "caption": "Você paga centenas todo mês pra mexer num pipeline. HubSpot Starter cobra R$500, Salesforce Essentials R$450.\n\nTwenty é um CRM open source que roda no seu servidor. Interface tipo Notion, pipeline, contatos, deals, automações por webhook e API GraphQL/REST.\n\nVPS Hostinger KVM 2 a R$60/mês roda Twenty pra até 10 usuários. Setup do servidor é Claude Code instalando Docker, firewall, Nginx e SSL em cinco minutos.\n\nSeu CRM passa a ser seu de verdade. Dados no servidor, domínio próprio, zero licença mensal.\n\nNo Claude Code na Prática você aprende contratar, deploy e personalizar. Comenta CLAUDE.",
+    "media_id": "17970161238064047"
   },
   {
     "date": "2026-06-04",
