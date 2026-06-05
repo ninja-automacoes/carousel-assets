@@ -2749,7 +2749,7 @@
     "product": "ACADEMY",
     "title": "workflows-composio",
     "dir": "workspace/2026-06-02/workflows-composio",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-02.png",
@@ -2761,7 +2761,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-02/workflows-composio/slide-09.png"
     ],
-    "caption": "Criador gasta hora fazendo o mesmo loop todo dia. Posta cinco plataformas na mão, responde DM, olha analytics.\n\nComposio liga o Claude a 250+ apps por MCP. Quatro workflows prontos cobrem o grosso da rotina.\n\nSOCIAL: cola roteiro do vídeo, Claude gera versão pra IG, LinkedIn, X, YouTube Community e Threads. MONITOR: domingo 8h gera relatório semanal com 3 recomendações. RESEARCH: segunda 9h busca tendências e devolve 5 pautas. REPURPOSE: vídeo do YouTube vira thread, artigo e legenda.\n\nCombina com Tarefas Agendadas. Roda sozinho.\n\nNo Claude Code na Prática você aprende setup, link e cada workflow. Comenta CLAUDE."
+    "caption": "Criador gasta hora fazendo o mesmo loop todo dia. Posta cinco plataformas na mão, responde DM, olha analytics.\n\nComposio liga o Claude a 250+ apps por MCP. Quatro workflows prontos cobrem o grosso da rotina.\n\nSOCIAL: cola roteiro do vídeo, Claude gera versão pra IG, LinkedIn, X, YouTube Community e Threads. MONITOR: domingo 8h gera relatório semanal com 3 recomendações. RESEARCH: segunda 9h busca tendências e devolve 5 pautas. REPURPOSE: vídeo do YouTube vira thread, artigo e legenda.\n\nCombina com Tarefas Agendadas. Roda sozinho.\n\nNo Claude Code na Prática você aprende setup, link e cada workflow. Comenta CLAUDE.",
+    "media_id": "18112037977904958"
   },
   {
     "date": "2026-06-06",
