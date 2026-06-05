@@ -2727,7 +2727,7 @@
     "product": "ACADEMY",
     "title": "cicd-github",
     "dir": "workspace/2026-06-01/cicd-github",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-02.png",
@@ -2739,7 +2739,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-01/cicd-github/slide-09.png"
     ],
-    "caption": "Toda vez que você muda código, abre o terminal, dá ssh no servidor, git pull, restart pm2. Esquece um passo, o site cai.\n\nGitHub Actions roda o deploy quando você dá push no main. Build, teste e deploy viram um workflow YAML no repo. Você empurra, o resto acontece.\n\npush em main vai pra produção. push em staging pro ambiente de teste. PR aberto roda só os testes.\n\nSSH key e env var ficam em GitHub Secrets. Workflow consome via secrets.X sem expor nada no diff.\n\nNo Claude Code na Prática você aprende a montar o YAML do zero. Comenta CLAUDE."
+    "caption": "Toda vez que você muda código, abre o terminal, dá ssh no servidor, git pull, restart pm2. Esquece um passo, o site cai.\n\nGitHub Actions roda o deploy quando você dá push no main. Build, teste e deploy viram um workflow YAML no repo. Você empurra, o resto acontece.\n\npush em main vai pra produção. push em staging pro ambiente de teste. PR aberto roda só os testes.\n\nSSH key e env var ficam em GitHub Secrets. Workflow consome via secrets.X sem expor nada no diff.\n\nNo Claude Code na Prática você aprende a montar o YAML do zero. Comenta CLAUDE.",
+    "media_id": "17893252809472077"
   },
   {
     "date": "2026-06-05",
