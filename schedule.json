@@ -2793,7 +2793,7 @@
     "product": "ACADEMY",
     "title": "book-to-skill",
     "dir": "workspace/2026-06-04/book-to-skill",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-02.png",
@@ -2805,7 +2805,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-04/book-to-skill/slide-09.png"
     ],
-    "caption": "Você baixa livro, paper, ebook. Empilha em DOWNLOADS. Nunca abre. O conhecimento fica preso no PDF e não vira ferramenta.\n\nbook-to-skill lê o PDF, identifica o método central, escreve o SKILL.md e instala em .claude/skills/. O conhecimento vira ferramenta invocável.\n\nAtomic Habits virou /habits que diagnostica por que você não conseguiu manter um hábito. Hooked virou /hooked que audita teu produto. The Mom Test virou /mom-test que questiona se sua pesquisa de cliente é viesada.\n\nSua estante de PDFs vira pasta de skills. Cada livro que valeu a leitura vira comando.\n\nNo Claude Code na Prática você aprende a usar pros livros que você quer transformar. Comenta CLAUDE."
+    "caption": "Você baixa livro, paper, ebook. Empilha em DOWNLOADS. Nunca abre. O conhecimento fica preso no PDF e não vira ferramenta.\n\nbook-to-skill lê o PDF, identifica o método central, escreve o SKILL.md e instala em .claude/skills/. O conhecimento vira ferramenta invocável.\n\nAtomic Habits virou /habits que diagnostica por que você não conseguiu manter um hábito. Hooked virou /hooked que audita teu produto. The Mom Test virou /mom-test que questiona se sua pesquisa de cliente é viesada.\n\nSua estante de PDFs vira pasta de skills. Cada livro que valeu a leitura vira comando.\n\nNo Claude Code na Prática você aprende a usar pros livros que você quer transformar. Comenta CLAUDE.",
+    "media_id": "18397663714084524"
   },
   {
     "date": "2026-06-07",
