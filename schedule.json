@@ -2771,7 +2771,7 @@
     "product": "ACADEMY",
     "title": "claude-mem",
     "dir": "workspace/2026-06-03/claude-mem",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-02.png",
@@ -2783,7 +2783,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-03/claude-mem/slide-09.png"
     ],
-    "caption": "Você decide algo importante numa conversa hoje. Amanhã abre o Claude pra continuar. Ele não lembra de nada. Você cola contexto de novo, toda vez.\n\nclaude-mem indexa cada sessão num banco persistente via hook PostToolUse. Próxima conversa começa com a memória das anteriores carregada como contexto.\n\nDecisões tomadas, bugs resolvidos, arquivos editados. Tudo recuperável por busca semântica.\n\nVocê pergunta \"o que decidi sobre X?\" em linguagem natural. Resposta vem com fonte e data.\n\nPlugin criado por Alex Newman (github.com/thedotmack/claude-mem). Open source.\n\nNo Claude Code na Prática você aprende a instalar e usar pra trabalho longo. Comenta CLAUDE."
+    "caption": "Você decide algo importante numa conversa hoje. Amanhã abre o Claude pra continuar. Ele não lembra de nada. Você cola contexto de novo, toda vez.\n\nclaude-mem indexa cada sessão num banco persistente via hook PostToolUse. Próxima conversa começa com a memória das anteriores carregada como contexto.\n\nDecisões tomadas, bugs resolvidos, arquivos editados. Tudo recuperável por busca semântica.\n\nVocê pergunta \"o que decidi sobre X?\" em linguagem natural. Resposta vem com fonte e data.\n\nPlugin criado por Alex Newman (github.com/thedotmack/claude-mem). Open source.\n\nNo Claude Code na Prática você aprende a instalar e usar pra trabalho longo. Comenta CLAUDE.",
+    "media_id": "18007840580735113"
   },
   {
     "date": "2026-06-06",
