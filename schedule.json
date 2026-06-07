@@ -2815,7 +2815,7 @@
     "product": "ACADEMY",
     "title": "browser-harness",
     "dir": "workspace/2026-06-05/browser-harness",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-02.png",
@@ -2827,7 +2827,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-05/browser-harness/slide-09.png"
     ],
-    "caption": "Você precisa puxar dado de site. Cobra acesso JS, tem captcha, site muda layout. Cada scraping vira projeto de fim de semana.\n\nbrowser-harness deixa o Claude controlar um Chrome headless via Playwright. Você descreve o que quer extrair em português. Ele clica, espera, rola, lê e devolve o JSON.\n\nMonitorar preço de concorrente, coletar contato de prospect, auditar Open Graph, validar formulário antes de demo, capturar screenshot pra documentação.\n\nHeadless renderiza JS, espera componentes hidratarem. Captcha simples ele resolve, complexo ele pede pra você resolver.\n\nNo Claude Code na Prática você aprende a usar pra cada caso. Comenta CLAUDE."
+    "caption": "Você precisa puxar dado de site. Cobra acesso JS, tem captcha, site muda layout. Cada scraping vira projeto de fim de semana.\n\nbrowser-harness deixa o Claude controlar um Chrome headless via Playwright. Você descreve o que quer extrair em português. Ele clica, espera, rola, lê e devolve o JSON.\n\nMonitorar preço de concorrente, coletar contato de prospect, auditar Open Graph, validar formulário antes de demo, capturar screenshot pra documentação.\n\nHeadless renderiza JS, espera componentes hidratarem. Captcha simples ele resolve, complexo ele pede pra você resolver.\n\nNo Claude Code na Prática você aprende a usar pra cada caso. Comenta CLAUDE.",
+    "media_id": "18083652611447133"
   },
   {
     "date": "2026-06-07",
