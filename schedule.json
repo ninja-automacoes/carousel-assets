@@ -2837,7 +2837,7 @@
     "product": "ACADEMY",
     "title": "grill-me",
     "dir": "workspace/2026-06-06/grill-me",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-02.png",
@@ -2849,7 +2849,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-06/grill-me/slide-09.png"
     ],
-    "caption": "Você sobe carrossel, post, artigo. Alguém comenta apontando erro técnico que você releu três vezes e não viu. Custo: reputação.\n\ngrill-me cruza seu rascunho com a documentação oficial e questiona cada afirmação. Acha contradições, dados desatualizados e inferências sem fonte.\n\nPra cada claim técnico, o Claude pergunta: a docs confirma? a versão citada existe? o dado vem de fonte primária? Quem não responde, vira marca pra revisar.\n\nPega versão de API errada, função renomeada, métrica sem fonte, comparação com produto que mudou.\n\nA skill é hostil de propósito. Não te elogia. Aponta o que não sustenta.\n\nNo Claude Code na Prática você aprende a usar pro tipo de conteúdo que você publica. Comenta CLAUDE."
+    "caption": "Você sobe carrossel, post, artigo. Alguém comenta apontando erro técnico que você releu três vezes e não viu. Custo: reputação.\n\ngrill-me cruza seu rascunho com a documentação oficial e questiona cada afirmação. Acha contradições, dados desatualizados e inferências sem fonte.\n\nPra cada claim técnico, o Claude pergunta: a docs confirma? a versão citada existe? o dado vem de fonte primária? Quem não responde, vira marca pra revisar.\n\nPega versão de API errada, função renomeada, métrica sem fonte, comparação com produto que mudou.\n\nA skill é hostil de propósito. Não te elogia. Aponta o que não sustenta.\n\nNo Claude Code na Prática você aprende a usar pro tipo de conteúdo que você publica. Comenta CLAUDE.",
+    "media_id": "18023955122664055"
   },
   {
     "date": "2026-06-08",
