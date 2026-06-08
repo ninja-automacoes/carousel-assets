@@ -2859,7 +2859,7 @@
     "product": "ACADEMY",
     "title": "design-md",
     "dir": "workspace/2026-06-07/design-md",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-02.png",
@@ -2871,6 +2871,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-07/design-md/slide-09.png"
     ],
-    "caption": "Você pede UI pro Claude. Volta com cores fora do brand, fonte genérica, espaçamento descalibrado. Toda iteração você cola seus tokens de novo.\n\ndesign-md é um arquivo .md que descreve seu sistema visual em texto: cores hex, escalas tipográficas, espaçamento, raio, sombra, animação. O Claude lê uma vez e respeita em cada componente.\n\nBrand primary #D4683A, fonte heading Barlow Condensed 900, raio padrão 12px. Tudo navegável pra IA e legível pra humano.\n\nVocê pede botão, card, navbar. Vem nos hex certos. A primeira tentativa passa no critério visual da marca.\n\nNo Claude Code na Prática você aprende a montar o design.md pra sua marca. Comenta CLAUDE."
+    "caption": "Você pede UI pro Claude. Volta com cores fora do brand, fonte genérica, espaçamento descalibrado. Toda iteração você cola seus tokens de novo.\n\ndesign-md é um arquivo .md que descreve seu sistema visual em texto: cores hex, escalas tipográficas, espaçamento, raio, sombra, animação. O Claude lê uma vez e respeita em cada componente.\n\nBrand primary #D4683A, fonte heading Barlow Condensed 900, raio padrão 12px. Tudo navegável pra IA e legível pra humano.\n\nVocê pede botão, card, navbar. Vem nos hex certos. A primeira tentativa passa no critério visual da marca.\n\nNo Claude Code na Prática você aprende a montar o design.md pra sua marca. Comenta CLAUDE.",
+    "media_id": "17867210055686316"
   }
 ]
