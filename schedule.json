@@ -2881,7 +2881,7 @@
     "product": "ACADEMY",
     "title": "fable-5",
     "dir": "workspace/2026-06-09/fable-5",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-02.png",
@@ -2893,6 +2893,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-09.png"
     ],
-    "caption": "A Anthropic lançou hoje o Claude Fable 5. Primeiro modelo Mythos-class liberado pro público geral. A capacidade passa qualquer modelo que eles já disponibilizaram.\n\nFable 5 sustenta projetos de dias inteiros. Planeja em estágios e delega pra subagents. Antes de entregar, valida o que fez. No Claude Code, aguenta sessões autônomas de vários dias e migra codebase inteira escrevendo os próprios testes.\n\nCursor: state of the art no CursorBench. Replit: melhor modelo já testado no ViBench. Em física de fronteira, chegou em 36 horas perto de onde o GPT-5.5 levou 4 dias.\n\nQuery de cybersecurity ou biologia roteia automático pro Opus 4.8, sem cobrar preço de Fable.\n\n$10/M input, $50/M output, 90% de desconto com prompt caching. Modelo: claude-fable-5.\n\nNo Claude Code na Prática você aprende a montar os fluxos que aproveitam a nova geração. Comenta CLAUDE."
+    "caption": "A Anthropic lançou hoje o Claude Fable 5. Primeiro modelo Mythos-class liberado pro público geral. A capacidade passa qualquer modelo que eles já disponibilizaram.\n\nFable 5 sustenta projetos de dias inteiros. Planeja em estágios e delega pra subagents. Antes de entregar, valida o que fez. No Claude Code, aguenta sessões autônomas de vários dias e migra codebase inteira escrevendo os próprios testes.\n\nCursor: state of the art no CursorBench. Replit: melhor modelo já testado no ViBench. Em física de fronteira, chegou em 36 horas perto de onde o GPT-5.5 levou 4 dias.\n\nQuery de cybersecurity ou biologia roteia automático pro Opus 4.8, sem cobrar preço de Fable.\n\n$10/M input, $50/M output, 90% de desconto com prompt caching. Modelo: claude-fable-5.\n\nNo Claude Code na Prática você aprende a montar os fluxos que aproveitam a nova geração. Comenta CLAUDE.",
+    "media_id": "18111652307308608"
   }
 ]
