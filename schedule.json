@@ -2873,5 +2873,26 @@
     ],
     "caption": "Você pede UI pro Claude. Volta com cores fora do brand, fonte genérica, espaçamento descalibrado. Toda iteração você cola seus tokens de novo.\n\ndesign-md é um arquivo .md que descreve seu sistema visual em texto: cores hex, escalas tipográficas, espaçamento, raio, sombra, animação. O Claude lê uma vez e respeita em cada componente.\n\nBrand primary #D4683A, fonte heading Barlow Condensed 900, raio padrão 12px. Tudo navegável pra IA e legível pra humano.\n\nVocê pede botão, card, navbar. Vem nos hex certos. A primeira tentativa passa no critério visual da marca.\n\nNo Claude Code na Prática você aprende a montar o design.md pra sua marca. Comenta CLAUDE.",
     "media_id": "17867210055686316"
+  },
+  {
+    "date": "2026-06-09",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "fable-5",
+    "dir": "workspace/2026-06-09/fable-5",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-09/fable-5/slide-09.png"
+    ],
+    "caption": "A Anthropic lançou hoje o Claude Fable 5. Primeiro modelo Mythos-class liberado pro público geral. A capacidade passa qualquer modelo que eles já disponibilizaram.\n\nFable 5 sustenta projetos de dias inteiros. Planeja em estágios, delega pra subagents e valida o próprio trabalho antes de entregar. No Claude Code, aguenta sessões autônomas de vários dias, migra codebase inteira e usa visão pra conferir o output.\n\nCursor: state of the art no CursorBench. Replit: melhor modelo já testado no ViBench. Em física de fronteira, chegou em 36 horas perto de onde o GPT-5.5 levou 4 dias.\n\nQuery de cybersecurity ou biologia roteia automático pro Opus 4.8, sem cobrar preço de Fable.\n\n$10/M input, $50/M output, 90% de desconto com prompt caching. Modelo: claude-fable-5.\n\nNo Claude Code na Prática você aprende a montar os fluxos que aproveitam a nova geração. Comenta CLAUDE."
   }
 ]
