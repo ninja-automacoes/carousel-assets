@@ -2895,5 +2895,25 @@
     ],
     "caption": "A Anthropic lançou hoje o Claude Fable 5. Primeiro modelo Mythos-class liberado pro público geral. A capacidade passa qualquer modelo que eles já disponibilizaram.\n\nFable 5 sustenta projetos de dias inteiros. Planeja em estágios e delega pra subagents. Antes de entregar, valida o que fez. No Claude Code, aguenta sessões autônomas de vários dias e migra codebase inteira escrevendo os próprios testes.\n\nCursor: state of the art no CursorBench. Replit: melhor modelo já testado no ViBench. Em física de fronteira, chegou em 36 horas perto de onde o GPT-5.5 levou 4 dias.\n\nQuery de cybersecurity ou biologia roteia automático pro Opus 4.8, sem cobrar preço de Fable.\n\n$10/M input, $50/M output, 90% de desconto com prompt caching. Modelo: claude-fable-5.\n\nNo Claude Code na Prática você aprende a montar os fluxos que aproveitam a nova geração. Comenta CLAUDE.",
     "media_id": "18111652307308608"
+  },
+  {
+    "date": "2026-06-11",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "posta-sozinho",
+    "dir": "workspace/2026-06-10/posta-sozinho",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-08.png"
+    ],
+    "caption": "meu perfil postou 3x hoje. eu tava em reunião.\n\nsão 2 carrosséis e 1 reel por dia, no automático. o Claude Code escreve os slides e gera as imagens. o n8n publica nos horários. os reels saem de outro agente, que corta as minhas lives com Claude Code e Hyperframes.\n\n141 posts em 82 dias só de carrossel e story. o painel marcou 655 mil visualizações nos últimos 30 dias.\n\na única parte que continua comigo é aprovar a copy. o resto roda num VPS barato que eu já pagava.\n\nquer montar um sistema desses pro teu negócio? comenta CLAUDE que eu te mando o link.\n\n#claudecode #automacao"
   }
 ]
