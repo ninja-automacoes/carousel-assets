@@ -2936,5 +2936,27 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-09.png"
     ],
     "caption": "a Anthropic lançou dois modelos iguais essa semana. o Fable 5 qualquer assinante usa. o Mythos 5 só roda dentro do governo americano.\n\npor dentro são o mesmo modelo. o que muda é a trava de cibersegurança. a Anthropic diz que é o modelo mais forte do mundo em cyber, e um negócio desses acha brecha em qualquer rede. então a versão sem trava ficou no Project Glasswing, grupo fechado de cyber defenders nos EUA.\n\npra gente sobrou o Fable 5, que mesmo travado é o modelo público mais forte já lançado. tá incluso na assinatura do Claude até 22 de junho. depois sai dos planos e vira crédito pago por token, a 2x o preço do Opus.\n\nse quiser sentir a diferença, testa nos próximos 11 dias. joga nele a tarefa mais difícil que você tem, tarefa fácil não mostra salto de modelo.\n\nquer dominar o Claude Code em português? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "loop-infinito",
+    "dir": "workspace/2026-06-11/loop-infinito",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-10.png"
+    ],
+    "caption": "23h de uma terça eu li que escrever prompt era coisa do passado. monta um exército de agentes, um passa tarefa pro outro e você vai viver sua vida. comprei na hora.\n\nsoltei um loop no backlog inteiro e fui dormir me sentindo dono de uma fábrica.\n\nacordei com a sessão estourada e o bug que eu mandei corrigir firme no mesmo lugar kkk. o loop rodou horas em círculo porque nada dizia a ele o que era pronto.\n\ndessa noite saiu a regra que eu uso até hoje. antes de soltar qualquer agente, eu escrevo como o resultado vai ser conferido. refatorar até os testes passarem é loop bom. decisão de negócio e pesquisa aberta eu resolvo conversando.\n\nsemanas depois vi que até o Nate Herk tinha alertado sobre isso lá fora. com o Fable 5 rodando sozinho por horas, essa regra vale mais que nunca.\n\nquer aprender a usar agente com critério? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia"
   }
 ]
