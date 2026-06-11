@@ -2915,5 +2915,26 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-08.png"
     ],
     "caption": "meu perfil postou 3x hoje. eu tava em reunião.\n\nsão 2 carrosséis e 1 reel por dia, no automático. o Claude Code escreve os slides e gera as imagens. o n8n publica nos horários. os reels saem de outro agente, que corta as minhas lives com Claude Code e Hyperframes.\n\n141 posts em 82 dias só de carrossel e story. o painel marcou 655 mil visualizações nos últimos 30 dias.\n\na única parte que continua comigo é aprovar a copy. o resto roda num VPS barato que eu já pagava.\n\nquer montar um sistema desses pro seu negócio? comenta CLAUDE que eu te mando o link.\n\n#claudecode #automacao"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "acesso-negado",
+    "dir": "workspace/2026-06-11/acesso-negado",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/acesso-negado/slide-09.png"
+    ],
+    "caption": "a Anthropic lançou dois modelos iguais essa semana. o Fable 5 qualquer assinante usa. o Mythos 5 só roda dentro do governo americano.\n\npor dentro são o mesmo modelo. o que muda é a trava de cibersegurança. a Anthropic diz que é o modelo mais forte do mundo em cyber, e um negócio desses acha brecha em qualquer rede. então a versão sem trava ficou no Project Glasswing, grupo fechado de cyber defenders nos EUA.\n\npra gente sobrou o Fable 5, que mesmo travado é o modelo público mais forte já lançado. tá incluso na assinatura do Claude até 22 de junho. depois sai dos planos e vira crédito pago por token, a 2x o preço do Opus.\n\nse quiser sentir a diferença, testa nos próximos 11 dias. joga nele a tarefa mais difícil que você tem, tarefa fácil não mostra salto de modelo.\n\nquer dominar o Claude Code em português? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia"
   }
 ]
