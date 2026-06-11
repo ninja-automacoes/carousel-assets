@@ -2903,7 +2903,7 @@
     "product": "ACADEMY",
     "title": "posta-sozinho",
     "dir": "workspace/2026-06-10/posta-sozinho",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-02.png",
@@ -2914,7 +2914,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-10/posta-sozinho/slide-08.png"
     ],
-    "caption": "meu perfil postou 3x hoje. eu tava em reunião.\n\nsão 2 carrosséis e 1 reel por dia, no automático. o Claude Code escreve os slides e gera as imagens. o n8n publica nos horários. os reels saem de outro agente, que corta as minhas lives com Claude Code e Hyperframes.\n\n141 posts em 82 dias só de carrossel e story. o painel marcou 655 mil visualizações nos últimos 30 dias.\n\na única parte que continua comigo é aprovar a copy. o resto roda num VPS barato que eu já pagava.\n\nquer montar um sistema desses pro seu negócio? comenta CLAUDE que eu te mando o link.\n\n#claudecode #automacao"
+    "caption": "meu perfil postou 3x hoje. eu tava em reunião.\n\nsão 2 carrosséis e 1 reel por dia, no automático. o Claude Code escreve os slides e gera as imagens. o n8n publica nos horários. os reels saem de outro agente, que corta as minhas lives com Claude Code e Hyperframes.\n\n141 posts em 82 dias só de carrossel e story. o painel marcou 655 mil visualizações nos últimos 30 dias.\n\na única parte que continua comigo é aprovar a copy. o resto roda num VPS barato que eu já pagava.\n\nquer montar um sistema desses pro seu negócio? comenta CLAUDE que eu te mando o link.\n\n#claudecode #automacao",
+    "media_id": "18153355366488231"
   },
   {
     "date": "2026-06-12",
