@@ -2946,7 +2946,7 @@
     "product": "ACADEMY",
     "title": "loop-infinito",
     "dir": "workspace/2026-06-11/loop-infinito",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-02.png",
@@ -2959,6 +2959,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-11/loop-infinito/slide-10.png"
     ],
-    "caption": "23h de uma terça eu li que escrever prompt era coisa do passado. monta um exército de agentes, um passa tarefa pro outro e você vai viver sua vida. comprei na hora.\n\nsoltei um loop no backlog inteiro e fui dormir me sentindo dono de uma fábrica.\n\nacordei com a sessão estourada e o bug que eu mandei corrigir firme no mesmo lugar kkk. o loop rodou horas em círculo porque nada dizia a ele o que era pronto.\n\ndessa noite saiu a regra que eu uso até hoje. antes de soltar qualquer agente, eu escrevo como o resultado vai ser conferido. refatorar até os testes passarem é loop bom. decisão de negócio e pesquisa aberta eu resolvo conversando.\n\nsemanas depois vi que até o Nate Herk tinha alertado sobre isso lá fora. com o Fable 5 rodando sozinho por horas, essa regra vale mais que nunca.\n\nquer aprender a usar agente com critério? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia"
+    "caption": "23h de uma terça eu li que escrever prompt era coisa do passado. monta um exército de agentes, um passa tarefa pro outro e você vai viver sua vida. comprei na hora.\n\nsoltei um loop no backlog inteiro e fui dormir me sentindo dono de uma fábrica.\n\nacordei com a sessão estourada e o bug que eu mandei corrigir firme no mesmo lugar kkk. o loop rodou horas em círculo porque nada dizia a ele o que era pronto.\n\ndessa noite saiu a regra que eu uso até hoje. antes de soltar qualquer agente, eu escrevo como o resultado vai ser conferido. refatorar até os testes passarem é loop bom. decisão de negócio e pesquisa aberta eu resolvo conversando.\n\nsemanas depois vi que até o Nate Herk tinha alertado sobre isso lá fora. com o Fable 5 rodando sozinho por horas, essa regra vale mais que nunca.\n\nquer aprender a usar agente com critério? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia",
+    "media_id": "18180022639401705"
   }
 ]
