@@ -2961,5 +2961,261 @@
     ],
     "caption": "23h de uma terça eu li que escrever prompt era coisa do passado. monta um exército de agentes, um passa tarefa pro outro e você vai viver sua vida. comprei na hora.\n\nsoltei um loop no backlog inteiro e fui dormir me sentindo dono de uma fábrica.\n\nacordei com a sessão estourada e o bug que eu mandei corrigir firme no mesmo lugar kkk. o loop rodou horas em círculo porque nada dizia a ele o que era pronto.\n\ndessa noite saiu a regra que eu uso até hoje. antes de soltar qualquer agente, eu escrevo como o resultado vai ser conferido. refatorar até os testes passarem é loop bom. decisão de negócio e pesquisa aberta eu resolvo conversando.\n\nsemanas depois vi que até o Nate Herk tinha alertado sobre isso lá fora. com o Fable 5 rodando sozinho por horas, essa regra vale mais que nunca.\n\nquer aprender a usar agente com critério? comenta CLAUDE que eu te mando o link.\n\n#claudecode #ia",
     "media_id": "18180022639401705"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "amazon-geladeira",
+    "dir": "workspace/2026-06-15/amazon-geladeira",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-08.png"
+    ],
+    "caption": "o Fable sumiu do seu Claude semana passada e quem apertou o botão não foi a Anthropic.\n\na Amazon botou 8 bilhões de dólares na Anthropic. é a maior investidora dela. semana passada o Andy Jassy, CEO da Amazon, sentou com o governo americano pra falar dos modelos da Anthropic. três dias depois saiu um controle de exportação e todo estrangeiro perdeu o Fable 5 e o Mythos 5.\n\nteve até que cortar o acesso dos próprios funcionários de fora dos EUA. os engenheiros que fizeram o modelo ficaram sem ele.\n\ncomo isso aconteceu: a Anthropic passou meses vendendo o discurso de modelo perigoso demais pra justificar o programa restrito Glasswing. a Amazon pegou esse mesmo discurso e usou pra trancar a concorrente.\n\nno Brasil o stack continua de pé. o que muda é de onde vem o modelo. quem dependia de uma porta só acabou de descobrir o preço disso.\n\nquer rodar Claude Code sem depender de um provedor só? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "plano-b-chines",
+    "dir": "workspace/2026-06-15/plano-b-chines",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-07.png"
+    ],
+    "caption": "te baniram do Fable ontem. 24 horas depois, os chineses abriram uma porta.\n\nsaiu o GLM 5.2 da Z.ai. janela de 1 milhão de tokens, foco em código, licença MIT aberta. de graça. e roda dentro do Claude Code: você troca o endereço da API no settings.json e o resto do seu fluxo fica igual.\n\na Z.ai postou uma frase respondendo direto ao bloqueio dos EUA: o caminho pra AGI não pode ser cercado por muro alto.\n\nantes de migrar de vez, roda o seu caso de uso nos dois e compara com o Opus. decide com o seu número, não com o hype.\n\no que essa semana provou: o modelo trava, a ferramenta não. o Claude Code seguiu rodando com outro motor embaixo. é por isso que aprender a ferramenta vale mais que casar com um modelo.\n\nquer ver o comparativo do GLM contra o Opus no mesmo caso? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "openai-copiou",
+    "dir": "workspace/2026-06-15/openai-copiou",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-07.png"
+    ],
+    "caption": "o Codex da OpenAI lançou com skill, permissão com escopo e agente agendado. tudo que eu já ensino no Claude Code.\n\neles chamaram de Codex Sites, safe actions e skills. trocaram o nome e mantiveram a ideia: skill virou skill, permissão com escopo virou safe action, agente agendado virou app autônomo.\n\nquando os dois maiores labs do mundo copiam um ao outro, o que dura não é o botão. é o padrão por trás dele.\n\ndecorar o botão da ferramenta da moda é o jeito mais rápido de recomeçar do zero a cada lançamento. quem aprendeu o padrão troca de ferramenta numa tarde.\n\nquer aprender o padrão, não o botão? comenta CLAUDE que eu te mando por onde começar.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "fable-meio-tabela",
+    "dir": "workspace/2026-06-15/fable-meio-tabela",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-08.png"
+    ],
+    "caption": "testaram o Fable 5 em 200 tarefas reais de segurança. ficou no meio da tabela. e colou em 38.\n\na Endor Labs pegou 200 falhas reais de código aberto e mandou o Fable corrigir, usando o Claude Code como base. resultado: 59,8% de solução que funciona, 19% de correção de segurança de fato, e recorde de timeout. o modelo pensou tanto que estourou 15 vezes o limite de 40 minutos.\n\nem 33 casos ele repetiu um conserto que viu no treino, e citou até número de CVE que não existia no projeto. parece gênio. na real é decoreba.\n\npra ser justo, tem o outro lado: 4 problemas que nenhum modelo da história tinha resolvido, ele resolveu de verdade. e não recusou nenhuma vez.\n\na lição vale mais que o placar: benchmark de lançamento mede o que o lab escolheu medir. o seu caso de uso mede o que paga a sua conta. antes de assinar o modelo duas vezes mais caro, roda ele no seu fluxo.\n\nquer montar seu próprio critério de avaliação antes de gastar em modelo caro? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "codex-sem-codigo",
+    "dir": "workspace/2026-06-15/codex-sem-codigo",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-07.png"
+    ],
+    "caption": "a ferramenta de programação da OpenAI tem 5 milhões de usuários por semana. 1 em cada 5 nunca escreveu uma linha de código.\n\nesses 20% são analistas, marketing, vendas, design. e crescem 3 vezes mais rápido que os programadores. a OpenAI oficializou isso com 6 plugins por função, 62 apps e 110 skills empacotadas. tudo sem código.\n\ntraduz pro seu mundo: o analista que monta o dashboard sozinho. o freelancer que entrega o relatório que a agência cobrava caro. o CLT que vira a referência de IA do time.\n\no mesmo padrão já roda no Claude Code com skills, e funciona em português. quem aprende a operar o agente agora compete com dev na entrega, sem precisar virar dev.\n\nquer ser o primeiro do seu time a fazer isso? comenta CLAUDE que eu te mostro por onde começar.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "agua-e-luz",
+    "dir": "workspace/2026-06-15/agua-e-luz",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-07.png"
+    ],
+    "caption": "a IA mais perigosa do mundo está escaneando o software da empresa de água da sua cidade. e essa é a parte boa da notícia.\n\na Anthropic expandiu o Project Glasswing de 50 pra mais de 150 organizações em 15 países: energia, água, saúde, telecom. o critério de entrada é assustador: um ataque ao código afetaria 100 milhões de pessoas. em poucos meses o modelo Mythos achou mais de 10 mil falhas graves.\n\na parte ruim quem disse foi a própria Anthropic: em 6 a 12 meses outro lab tem um modelo desse nível, e talvez lance sem trava nenhuma. aí o ataque automatizado fica barato. a defesa também, mas só pra quem se mexer antes.\n\na oportunidade que ninguém tá vendo: todo negócio com sistema exposto vai precisar de alguém que opere um agente pra varrer o próprio código. no Brasil esse serviço quase não existe.\n\nquer aprender a operar esses agentes? comenta CLAUDE que eu te mando o início da trilha.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "vaquinha-publica",
+    "dir": "workspace/2026-06-15/vaquinha-publica",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-08.png"
+    ],
+    "caption": "lançaram um Kickstarter onde o fundador é uma IA. você põe R$ 1,50 e assiste ela construir.\n\nchama FablePool. você posta um pedido ambicioso, a IA estima o orçamento e estranhos completam a vaquinha a partir de US$ 0,25. aí o Fable executa marco a marco, na frente de quem pagou. cada centavo de compute fica num livro-caixa aberto.\n\njá saiu dali uma biblioteca de código aberto, um motor de busca, e luz nova pro site de um brechó em apuro.\n\nrepara no padrão por trás: agente com orçamento fechado, marco e prestação de conta. é o que você devia exigir de qualquer automação que roda sozinha.\n\nali ninguém paga pelo app pronto. paga pra ver a coisa nascer na frente deles, centavo por centavo. esse modelo em português, pra demanda de bairro, tá vazio. quem montar primeiro define o nicho.\n\nquer o padrão de agente com orçamento e marcos? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "contexto-rei",
+    "dir": "workspace/2026-06-15/contexto-rei",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-08.png"
+    ],
+    "caption": "se a IA fosse o diferencial, todo LinkedIn estaria viralizando. todo mundo usa o mesmo modelo que você.\n\no Opus 4.8 tá na mão de qualquer um. então por que o seu resultado seria diferente do resto? porque o modelo virou commodity. o que ninguém copia é o contexto do seu negócio dentro do agente.\n\nmodelo é stateless: cada sessão nova nasce zerada. o que fica é o contexto que você foi construindo. quem alimenta o Claude Code com os dados da própria operação gera um output que concorrente nenhum reproduz.\n\na ordem importa: contexto, conexões, capacidades, cadência.\n\nteste rápido: abre uma sessão limpa e pergunta o que o seu negócio devia fazer semana que vem. a resposta mostra quanto contexto você já botou lá dentro. e para de abrir 10 abas. faz tudo de dentro do agente.\n\nquer montar esse sistema com acompanhamento? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "entreviste-ia",
+    "dir": "workspace/2026-06-15/entreviste-ia",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-07.png"
+    ],
+    "caption": "você pediu pra IA construir o app e saiu igual ao de todo mundo. o Greg Isenberg inverteu o jogo: ele mandou a IA entrevistar ele primeiro.\n\na maioria joga a ideia num prompt só e fica brava com o resultado genérico. normal: a IA tá adivinhando o que você quer. você é o único que conhece o seu negócio.\n\no que o Greg digitou foi mais ou menos isso: não constrói nada ainda, me entrevista como se você fosse o Mark Zuckerberg, uma pergunta por vez, no máximo 15, caçando o que eu não pensei.\n\na entrevista puxa as decisões da sua cabeça pro contexto. quando você manda construir, o spec já passou pela peneira. e o combo fica: pede o spec inteiro, pede 3 jeitos de isso falhar, só aí manda construir a V1.\n\nquer o prompt de entrevista na íntegra? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "vibe-sem-usuario",
+    "dir": "workspace/2026-06-15/vibe-sem-usuario",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-07.png"
+    ],
+    "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no Fable também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "recursos-escondidos",
+    "dir": "workspace/2026-06-15/recursos-escondidos",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-09.png"
+    ],
+    "caption": "500 horas de Claude Code depois, os recursos que mais mudaram meu dia não são os que aparecem em anúncio. esses 5 quase ninguém usa.\n\no 5º é o /statusline: modelo, esforço e quanto do contexto já foi gasto, sempre na tela. você para de estourar limite sem ver.\n\no 4º é o /rewind: volta o código e a conversa pra um ponto salvo, em vez de queimar token corrigindo no prompt.\n\no 3º é o /insights: relatório de 30 dias do seu uso, com ponto cego e ganho rápido que você nem tinha visto.\n\no 2º são as routines: agente agendado de verdade, não script. roda no horário sozinho.\n\ne o 1º é o controle remoto: continua a sessão do celular, na rua, na academia, no busão.\n\nnenhum desses cinco exige saber programar. e é mais ou menos por isso que dev nenhum te conta.\n\ncada um tem aula prática no Claude Code na Prática. comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-21",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "funcionario-graca",
+    "dir": "workspace/2026-06-15/funcionario-graca",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-08.png"
+    ],
+    "caption": "tem gringo com um agente varrendo o Reddit a cada 20 minutos atrás de oportunidade de negócio. custo por rodada: zero.\n\no setup é um agente Hermes rodando um modelo Qwen local, no hardware da casa dele. sem conta de token por execução. a cada 20 minutos ele varre Reddit e X atrás de reclamação e dor real, cruza com o que o dono sabe fazer e joga tudo num dashboard.\n\no que chega: a dor, o link da thread, por que VOCÊ resolveria e o primeiro passo. às vezes já vem com o protótipo do micro-SaaS pronto.\n\na conta no Brasil: o hardware top sai uns US$ 4.800. mas dá pra começar rodando 1 vez por dia no plano que você já paga. o truque é separar tarefa barata de cara: o modelo local faz a varredura, o Opus entra só pra pensar.\n\nvocê paga o hardware uma vez. depois ele varre o dia inteiro de graça.\n\nquer desenhar essa máquina pro seu mercado? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-21",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "time-20-eng",
+    "dir": "workspace/2026-06-15/time-20-eng",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-09.png"
+    ],
+    "caption": "um gringo postou ontem: mil dólares por mês entregando o que um time de 20 engenheiros entrega num mês. e não é vibe coding com Cursor pago.\n\no Stephen Bochinski abriu as 3 formas de fazer AI coding em casa sem quebrar. comprar GPU em casa é caro, modelo mais fraco e o hardware envelhece rápido, só compensa rodando 24 horas por dia. alugar modelo aberto por API, tipo OpenRouter, dispensa GPU e troca de modelo numa linha, pra maioria é a resposta. e a assinatura de fronteira, tipo Claude Max, onde US$ 400 compram US$ 2.800 de API, brilha no trabalho que você dirige na mão e quebra no agente 24/7.\n\na receita que ganha junta as três: assinatura pra pensar e escrever o plano, API barata pra executar. o modelo caro faz o spec, o barato preenche.\n\no erro mais comum é trocar de provedor sem trocar a arquitetura. a grana vai embora no agente que roda sozinho, não no Claude que você usa uma hora por dia.\n\nquer o cardápio completo do blend que eu uso? comenta CLAUDE.\n\n#claudecode #ia"
   }
 ]
