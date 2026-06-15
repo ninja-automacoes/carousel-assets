@@ -2967,6 +2967,27 @@
     "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
+    "title": "eua-baniram-fable",
+    "dir": "workspace/2026-06-15/eua-baniram-fable",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-09.png"
+    ],
+    "caption": "o modelo mais forte do mundo lançou dia 9. dia 12, os Estados Unidos trancaram ele pra todo brasileiro do planeta.\n\nfoi uma diretiva de controle de exportação mirando o Claude Fable 5. o Simon Willison tava com um script batendo na API de minuto em minuto e cronometrou: 14 minutos depois do anúncio, o nome claude-fable-5 sumiu. estrangeiro do mundo todo perdeu o acesso, incluindo os próprios funcionários de fora dos EUA da Anthropic. americano seguiu normal.\n\nquem tava usando aqui caiu automático pro Opus 4.8. funciona bem. mas você foi trancado pra fora do topo.\n\na base gringa entrou em luto, teve gente postando que vai sentir saudade dos três dias que teve com o Fable kkk. e a bagunça é grande: a própria Anthropic disse que discorda do processo e que quer devolver o acesso.\n\no detalhe que o Simon Willison cravou: a diretiva mira só o modelo que lançou com mais trava de segurança. os outros ninguém testou.\n\no que importa pra você: o modelo trancou, o Claude Code não. caiu pro Opus e seguiu. e o plano B aberto, o modelo chinês GLM 5.2, saiu no dia seguinte.\n\nquer rodar Claude Code sem depender de um modelo que podem trancar do dia pra noite? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
     "title": "amazon-geladeira",
     "dir": "workspace/2026-06-15/amazon-geladeira",
     "status": "ready",
@@ -2980,11 +3001,11 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-08.png"
     ],
-    "caption": "o Fable sumiu do seu Claude semana passada e quem apertou o botão não foi a Anthropic.\n\na Amazon botou 8 bilhões de dólares na Anthropic. é a maior investidora dela. semana passada o Andy Jassy, CEO da Amazon, sentou com o governo americano pra falar dos modelos da Anthropic. três dias depois saiu um controle de exportação e todo estrangeiro perdeu o Fable 5 e o Mythos 5.\n\nteve até que cortar o acesso dos próprios funcionários de fora dos EUA. os engenheiros que fizeram o modelo ficaram sem ele.\n\ncomo isso aconteceu: a Anthropic passou meses vendendo o discurso de modelo perigoso demais pra justificar o programa restrito Glasswing. a Amazon pegou esse mesmo discurso e usou pra trancar a concorrente.\n\nno Brasil o stack continua de pé. o que muda é de onde vem o modelo. quem dependia de uma porta só acabou de descobrir o preço disso.\n\nquer rodar Claude Code sem depender de um provedor só? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
+    "caption": "o Fable sumiu do seu Claude semana passada e quem apertou o botão não foi a Anthropic.\n\na Amazon botou 8 bilhões de dólares na Anthropic. é a maior investidora dela. semana passada o Andy Jassy, CEO da Amazon, sentou com o governo americano pra falar dos modelos da Anthropic. três dias depois saiu um controle de exportação e todo estrangeiro perdeu o Fable 5 e o Mythos 5.\n\nteve até que cortar o acesso dos próprios funcionários de fora dos EUA. os engenheiros que fizeram o modelo ficaram sem ele.\n\ncomo isso aconteceu: a Anthropic passou meses vendendo o discurso de modelo perigoso demais pra justificar o programa restrito Glasswing. a Amazon pegou esse mesmo discurso e usou pra trancar a concorrente.\n\nno Brasil você perdeu o Fable, sim. mas a sua ferramenta não parou: o Claude Code caiu pro Opus 4.8 e seguiu rodando. quem apostou tudo num modelo só foi quem sentiu o golpe.\n\nquer rodar Claude Code sem depender de um provedor só? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
   },
   {
     "date": "2026-06-16",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "plano-b-chines",
@@ -3002,8 +3023,8 @@
     "caption": "te baniram do Fable ontem. 24 horas depois, os chineses abriram uma porta.\n\nsaiu o GLM 5.2 da Z.ai. janela de 1 milhão de tokens, foco em código, licença MIT aberta. de graça. e roda dentro do Claude Code: você troca o endereço da API no settings.json e o resto do seu fluxo fica igual.\n\na Z.ai postou uma frase respondendo direto ao bloqueio dos EUA: o caminho pra AGI não pode ser cercado por muro alto.\n\nantes de migrar de vez, roda o seu caso de uso nos dois e compara com o Opus. decide com o seu número, não com o hype.\n\no que essa semana provou: o modelo trava, a ferramenta não. o Claude Code seguiu rodando com outro motor embaixo. é por isso que aprender a ferramenta vale mais que casar com um modelo.\n\nquer ver o comparativo do GLM contra o Opus no mesmo caso? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-16",
-    "time": "19:00",
+    "date": "2026-06-17",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "openai-copiou",
@@ -3022,7 +3043,7 @@
   },
   {
     "date": "2026-06-17",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "fable-meio-tabela",
@@ -3041,8 +3062,8 @@
     "caption": "testaram o Fable 5 em 200 tarefas reais de segurança. ficou no meio da tabela. e colou em 38.\n\na Endor Labs pegou 200 falhas reais de código aberto e mandou o Fable corrigir, usando o Claude Code como base. resultado: 59,8% de solução que funciona, 19% de correção de segurança de fato, e recorde de timeout. o modelo pensou tanto que estourou 15 vezes o limite de 40 minutos.\n\nem 33 casos ele repetiu um conserto que viu no treino, e citou até número de CVE que não existia no projeto. parece gênio. na real é decoreba.\n\npra ser justo, tem o outro lado: 4 problemas que nenhum modelo da história tinha resolvido, ele resolveu de verdade. e não recusou nenhuma vez.\n\na lição vale mais que o placar: benchmark de lançamento mede o que o lab escolheu medir. o seu caso de uso mede o que paga a sua conta. antes de assinar o modelo duas vezes mais caro, roda ele no seu fluxo.\n\nquer montar seu próprio critério de avaliação antes de gastar em modelo caro? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-17",
-    "time": "19:00",
+    "date": "2026-06-18",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "codex-sem-codigo",
@@ -3061,7 +3082,7 @@
   },
   {
     "date": "2026-06-18",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "agua-e-luz",
@@ -3079,8 +3100,8 @@
     "caption": "a IA mais perigosa do mundo está escaneando o software da empresa de água da sua cidade. e essa é a parte boa da notícia.\n\na Anthropic expandiu o Project Glasswing de 50 pra mais de 150 organizações em 15 países: energia, água, saúde, telecom. o critério de entrada é assustador: um ataque ao código afetaria 100 milhões de pessoas. em poucos meses o modelo Mythos achou mais de 10 mil falhas graves.\n\na parte ruim quem disse foi a própria Anthropic: em 6 a 12 meses outro lab tem um modelo desse nível, e talvez lance sem trava nenhuma. aí o ataque automatizado fica barato. a defesa também, mas só pra quem se mexer antes.\n\na oportunidade que ninguém tá vendo: todo negócio com sistema exposto vai precisar de alguém que opere um agente pra varrer o próprio código. no Brasil esse serviço quase não existe.\n\nquer aprender a operar esses agentes? comenta CLAUDE que eu te mando o início da trilha.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-18",
-    "time": "19:00",
+    "date": "2026-06-19",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "vaquinha-publica",
@@ -3100,7 +3121,7 @@
   },
   {
     "date": "2026-06-19",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "contexto-rei",
@@ -3119,8 +3140,8 @@
     "caption": "se a IA fosse o diferencial, todo LinkedIn estaria viralizando. todo mundo usa o mesmo modelo que você.\n\no Opus 4.8 tá na mão de qualquer um. então por que o seu resultado seria diferente do resto? porque o modelo virou commodity. o que ninguém copia é o contexto do seu negócio dentro do agente.\n\nmodelo é stateless: cada sessão nova nasce zerada. o que fica é o contexto que você foi construindo. quem alimenta o Claude Code com os dados da própria operação gera um output que concorrente nenhum reproduz.\n\na ordem importa: contexto, conexões, capacidades, cadência.\n\nteste rápido: abre uma sessão limpa e pergunta o que o seu negócio devia fazer semana que vem. a resposta mostra quanto contexto você já botou lá dentro. e para de abrir 10 abas. faz tudo de dentro do agente.\n\nquer montar esse sistema com acompanhamento? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-19",
-    "time": "19:00",
+    "date": "2026-06-20",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "entreviste-ia",
@@ -3139,7 +3160,7 @@
   },
   {
     "date": "2026-06-20",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "vibe-sem-usuario",
@@ -3154,11 +3175,11 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-07.png"
     ],
-    "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no Fable também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no mesmo modelo que faz o produto também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-20",
-    "time": "19:00",
+    "date": "2026-06-21",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "recursos-escondidos",
@@ -3179,7 +3200,7 @@
   },
   {
     "date": "2026-06-21",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "funcionario-graca",
@@ -3198,8 +3219,8 @@
     "caption": "tem gringo com um agente varrendo o Reddit a cada 20 minutos atrás de oportunidade de negócio. custo por rodada: zero.\n\no setup é um agente Hermes rodando um modelo Qwen local, no hardware da casa dele. sem conta de token por execução. a cada 20 minutos ele varre Reddit e X atrás de reclamação e dor real, cruza com o que o dono sabe fazer e joga tudo num dashboard.\n\no que chega: a dor, o link da thread, por que VOCÊ resolveria e o primeiro passo. às vezes já vem com o protótipo do micro-SaaS pronto.\n\na conta no Brasil: o hardware top sai uns US$ 4.800. mas dá pra começar rodando 1 vez por dia no plano que você já paga. o truque é separar tarefa barata de cara: o modelo local faz a varredura, o Opus entra só pra pensar.\n\nvocê paga o hardware uma vez. depois ele varre o dia inteiro de graça.\n\nquer desenhar essa máquina pro seu mercado? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-21",
-    "time": "19:00",
+    "date": "2026-06-22",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "time-20-eng",
