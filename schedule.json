@@ -2991,7 +2991,7 @@
     "product": "ACADEMY",
     "title": "amazon-geladeira",
     "dir": "workspace/2026-06-15/amazon-geladeira",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-02.png",
@@ -3002,7 +3002,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/amazon-geladeira/slide-08.png"
     ],
-    "caption": "o Fable sumiu do seu Claude semana passada e quem apertou o botão não foi a Anthropic.\n\na Amazon botou 8 bilhões de dólares na Anthropic. é a maior investidora dela. semana passada o Andy Jassy, CEO da Amazon, sentou com o governo americano pra falar dos modelos da Anthropic. três dias depois saiu um controle de exportação e todo estrangeiro perdeu o Fable 5 e o Mythos 5.\n\nteve até que cortar o acesso dos próprios funcionários de fora dos EUA. os engenheiros que fizeram o modelo ficaram sem ele.\n\ncomo isso aconteceu: a Anthropic passou meses vendendo o discurso de modelo perigoso demais pra justificar o programa restrito Glasswing. a Amazon pegou esse mesmo discurso e usou pra trancar a concorrente.\n\nno Brasil você perdeu o Fable, sim. mas a sua ferramenta não parou: o Claude Code caiu pro Opus 4.8 e seguiu rodando. quem apostou tudo num modelo só foi quem sentiu o golpe.\n\nquer rodar Claude Code sem depender de um provedor só? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
+    "caption": "o Fable sumiu do seu Claude semana passada e quem apertou o botão não foi a Anthropic.\n\na Amazon botou 8 bilhões de dólares na Anthropic. é a maior investidora dela. semana passada o Andy Jassy, CEO da Amazon, sentou com o governo americano pra falar dos modelos da Anthropic. três dias depois saiu um controle de exportação e todo estrangeiro perdeu o Fable 5 e o Mythos 5.\n\nteve até que cortar o acesso dos próprios funcionários de fora dos EUA. os engenheiros que fizeram o modelo ficaram sem ele.\n\ncomo isso aconteceu: a Anthropic passou meses vendendo o discurso de modelo perigoso demais pra justificar o programa restrito Glasswing. a Amazon pegou esse mesmo discurso e usou pra trancar a concorrente.\n\nno Brasil você perdeu o Fable, sim. mas a sua ferramenta não parou: o Claude Code caiu pro Opus 4.8 e seguiu rodando. quem apostou tudo num modelo só foi quem sentiu o golpe.\n\nquer rodar Claude Code sem depender de um provedor só? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia",
+    "media_id": "17905501245432576"
   },
   {
     "date": "2026-06-16",
