@@ -2969,7 +2969,7 @@
     "product": "ACADEMY",
     "title": "eua-baniram-fable",
     "dir": "workspace/2026-06-15/eua-baniram-fable",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-02.png",
@@ -2981,7 +2981,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/eua-baniram-fable/slide-09.png"
     ],
-    "caption": "o modelo mais forte do mundo lançou dia 9. dia 12, os Estados Unidos trancaram ele pra todo brasileiro do planeta.\n\nfoi uma diretiva de controle de exportação mirando o Claude Fable 5. o Simon Willison tava com um script batendo na API de minuto em minuto e cronometrou: 14 minutos depois do anúncio, o nome claude-fable-5 sumiu. estrangeiro do mundo todo perdeu o acesso, incluindo os próprios funcionários de fora dos EUA da Anthropic. americano seguiu normal.\n\nquem tava usando aqui caiu automático pro Opus 4.8. funciona bem. mas você foi trancado pra fora do topo.\n\na base gringa entrou em luto, teve gente postando que vai sentir saudade dos três dias que teve com o Fable kkk. e a bagunça é grande: a própria Anthropic disse que discorda do processo e que quer devolver o acesso.\n\no detalhe que o Simon Willison cravou: a diretiva mira só o modelo que lançou com mais trava de segurança. os outros ninguém testou.\n\no que importa pra você: o modelo trancou, o Claude Code não. caiu pro Opus e seguiu. e o plano B aberto, o modelo chinês GLM 5.2, saiu no dia seguinte.\n\nquer rodar Claude Code sem depender de um modelo que podem trancar do dia pra noite? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "o modelo mais forte do mundo lançou dia 9. dia 12, os Estados Unidos trancaram ele pra todo brasileiro do planeta.\n\nfoi uma diretiva de controle de exportação mirando o Claude Fable 5. o Simon Willison tava com um script batendo na API de minuto em minuto e cronometrou: 14 minutos depois do anúncio, o nome claude-fable-5 sumiu. estrangeiro do mundo todo perdeu o acesso, incluindo os próprios funcionários de fora dos EUA da Anthropic. americano seguiu normal.\n\nquem tava usando aqui caiu automático pro Opus 4.8. funciona bem. mas você foi trancado pra fora do topo.\n\na base gringa entrou em luto, teve gente postando que vai sentir saudade dos três dias que teve com o Fable kkk. e a bagunça é grande: a própria Anthropic disse que discorda do processo e que quer devolver o acesso.\n\no detalhe que o Simon Willison cravou: a diretiva mira só o modelo que lançou com mais trava de segurança. os outros ninguém testou.\n\no que importa pra você: o modelo trancou, o Claude Code não. caiu pro Opus e seguiu. e o plano B aberto, o modelo chinês GLM 5.2, saiu no dia seguinte.\n\nquer rodar Claude Code sem depender de um modelo que podem trancar do dia pra noite? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18083092940158471"
   },
   {
     "date": "2026-06-15",
