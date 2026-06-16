@@ -3047,7 +3047,7 @@
   },
   {
     "date": "2026-06-17",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "fable-meio-tabela",
@@ -3066,8 +3066,8 @@
     "caption": "testaram o Fable 5 em 200 tarefas reais de segurança. ficou no meio da tabela. e colou em 38.\n\na Endor Labs pegou 200 falhas reais de código aberto e mandou o Fable corrigir, usando o Claude Code como base. resultado: 59,8% de solução que funciona, 19% de correção de segurança de fato, e recorde de timeout. o modelo pensou tanto que estourou 15 vezes o limite de 40 minutos.\n\nem 33 casos ele repetiu um conserto que viu no treino, e citou até número de CVE que não existia no projeto. parece gênio. na real é decoreba.\n\npra ser justo, tem o outro lado: 4 problemas que nenhum modelo da história tinha resolvido, ele resolveu de verdade. e não recusou nenhuma vez.\n\na lição vale mais que o placar: benchmark de lançamento mede o que o lab escolheu medir. o seu caso de uso mede o que paga a sua conta. antes de assinar o modelo duas vezes mais caro, roda ele no seu fluxo.\n\nquer montar seu próprio critério de avaliação antes de gastar em modelo caro? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-17",
-    "time": "19:00",
+    "date": "2026-06-18",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "codex-sem-codigo",
@@ -3086,7 +3086,7 @@
   },
   {
     "date": "2026-06-18",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "agua-e-luz",
@@ -3104,8 +3104,8 @@
     "caption": "a IA mais perigosa do mundo está escaneando o software da empresa de água da sua cidade. e essa é a parte boa da notícia.\n\na Anthropic expandiu o Project Glasswing de 50 pra mais de 150 organizações em 15 países: energia, água, saúde, telecom. o critério de entrada é assustador: um ataque ao código afetaria 100 milhões de pessoas. em poucos meses o modelo Mythos achou mais de 10 mil falhas graves.\n\na parte ruim quem disse foi a própria Anthropic: em 6 a 12 meses outro lab tem um modelo desse nível, e talvez lance sem trava nenhuma. aí o ataque automatizado fica barato. a defesa também, mas só pra quem se mexer antes.\n\na oportunidade que ninguém tá vendo: todo negócio com sistema exposto vai precisar de alguém que opere um agente pra varrer o próprio código. no Brasil esse serviço quase não existe.\n\nquer aprender a operar esses agentes? comenta CLAUDE que eu te mando o início da trilha.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-18",
-    "time": "19:00",
+    "date": "2026-06-19",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "vaquinha-publica",
@@ -3125,7 +3125,7 @@
   },
   {
     "date": "2026-06-19",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "contexto-rei",
@@ -3144,8 +3144,8 @@
     "caption": "se a IA fosse o diferencial, todo LinkedIn estaria viralizando. todo mundo usa o mesmo modelo que você.\n\no Opus 4.8 tá na mão de qualquer um. então por que o seu resultado seria diferente do resto? porque o modelo virou commodity. o que ninguém copia é o contexto do seu negócio dentro do agente.\n\nmodelo é stateless: cada sessão nova nasce zerada. o que fica é o contexto que você foi construindo. quem alimenta o Claude Code com os dados da própria operação gera um output que concorrente nenhum reproduz.\n\na ordem importa: contexto, conexões, capacidades, cadência.\n\nteste rápido: abre uma sessão limpa e pergunta o que o seu negócio devia fazer semana que vem. a resposta mostra quanto contexto você já botou lá dentro. e para de abrir 10 abas. faz tudo de dentro do agente.\n\nquer montar esse sistema com acompanhamento? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-19",
-    "time": "19:00",
+    "date": "2026-06-20",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "entreviste-ia",
@@ -3164,7 +3164,7 @@
   },
   {
     "date": "2026-06-20",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "vibe-sem-usuario",
@@ -3182,8 +3182,8 @@
     "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no mesmo modelo que faz o produto também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-20",
-    "time": "19:00",
+    "date": "2026-06-21",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "recursos-escondidos",
@@ -3204,7 +3204,7 @@
   },
   {
     "date": "2026-06-21",
-    "time": "09:00",
+    "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "funcionario-graca",
@@ -3223,8 +3223,8 @@
     "caption": "tem gringo com um agente varrendo o Reddit a cada 20 minutos atrás de oportunidade de negócio. custo por rodada: zero.\n\no setup é um agente Hermes rodando um modelo Qwen local, no hardware da casa dele. sem conta de token por execução. a cada 20 minutos ele varre Reddit e X atrás de reclamação e dor real, cruza com o que o dono sabe fazer e joga tudo num dashboard.\n\no que chega: a dor, o link da thread, por que VOCÊ resolveria e o primeiro passo. às vezes já vem com o protótipo do micro-SaaS pronto.\n\na conta no Brasil: o hardware top sai uns US$ 4.800. mas dá pra começar rodando 1 vez por dia no plano que você já paga. o truque é separar tarefa barata de cara: o modelo local faz a varredura, o Opus entra só pra pensar.\n\nvocê paga o hardware uma vez. depois ele varre o dia inteiro de graça.\n\nquer desenhar essa máquina pro seu mercado? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-06-21",
-    "time": "19:00",
+    "date": "2026-06-22",
+    "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
     "title": "time-20-eng",
@@ -3242,5 +3242,26 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-09.png"
     ],
     "caption": "um gringo postou ontem: mil dólares por mês entregando o que um time de 20 engenheiros entrega num mês. e não é vibe coding com Cursor pago.\n\no Stephen Bochinski abriu as 3 formas de fazer AI coding em casa sem quebrar. comprar GPU em casa é caro, modelo mais fraco e o hardware envelhece rápido, só compensa rodando 24 horas por dia. alugar modelo aberto por API, tipo OpenRouter, dispensa GPU e troca de modelo numa linha, pra maioria é a resposta. e a assinatura de fronteira, tipo Claude Max, onde US$ 400 compram US$ 2.800 de API, brilha no trabalho que você dirige na mão e quebra no agente 24/7.\n\na receita que ganha junta as três: assinatura pra pensar e escrever o plano, API barata pra executar. o modelo caro faz o spec, o barato preenche.\n\no erro mais comum é trocar de provedor sem trocar a arquitetura. a grana vai embora no agente que roda sozinho, não no Claude que você usa uma hora por dia.\n\nquer o cardápio completo do blend que eu uso? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "troco",
+    "dir": "workspace/2026-06-15/troco",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-09.png"
+    ],
+    "caption": "todo segundo que você espera a IA pensar, alguém podia estar te pagando.\n\nquando o Claude Code tá processando, aparece aquela linha boba do tipo \"Discombobulando...\". esse segundo ocioso é o público mais caro do mundo: dev pago, parado, olhando a tela. o Troco transforma essa linha em espaço de anúncio.\n\ncomo funciona pro dev: instala a extensão, continua codando normal, o tempo ocioso vira saldo na status bar, e você saca na hora via Pix. sem mínimo de 10 dólares tipo plataforma gringa, centavo por centavo de verdade. sua chave Pix é seu CPF, então o cadastro já tá resolvido.\n\ndo outro lado, o anunciante dá lance a partir de R$ 1 pra botar a linha no spinner. um clique vale 50 views. é a audiência mais cara que existe, no segundo mais ocioso dela.\n\ne tráfego de bot nunca é pago: abrir 20 abas não multiplica nada, é 1 crédito por minuto com teto por dia. o pagamento é limpo.\n\neu construí o Troco inteiro com o Claude Code: site, banco, Pix, tudo. tá no ar agora.\n\ninstala em troco.dev e começa a ganhar pelo tempo que você já passava esperando.\n\n#claudecode #pix #devbr"
   }
 ]
