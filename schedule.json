@@ -3032,7 +3032,7 @@
     "product": "ACADEMY",
     "title": "openai-copiou",
     "dir": "workspace/2026-06-15/openai-copiou",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-02.png",
@@ -3042,7 +3042,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/openai-copiou/slide-07.png"
     ],
-    "caption": "o Codex da OpenAI lançou com skill, permissão com escopo e agente agendado. tudo que eu já ensino no Claude Code.\n\neles chamaram de Codex Sites, safe actions e skills. trocaram o nome e mantiveram a ideia: skill virou skill, permissão com escopo virou safe action, agente agendado virou app autônomo.\n\nquando os dois maiores labs do mundo copiam um ao outro, o que dura não é o botão. é o padrão por trás dele.\n\ndecorar o botão da ferramenta da moda é o jeito mais rápido de recomeçar do zero a cada lançamento. quem aprendeu o padrão troca de ferramenta numa tarde.\n\nquer aprender o padrão, não o botão? comenta CLAUDE que eu te mando por onde começar.\n\n#claudecode #ia"
+    "caption": "o Codex da OpenAI lançou com skill, permissão com escopo e agente agendado. tudo que eu já ensino no Claude Code.\n\neles chamaram de Codex Sites, safe actions e skills. trocaram o nome e mantiveram a ideia: skill virou skill, permissão com escopo virou safe action, agente agendado virou app autônomo.\n\nquando os dois maiores labs do mundo copiam um ao outro, o que dura não é o botão. é o padrão por trás dele.\n\ndecorar o botão da ferramenta da moda é o jeito mais rápido de recomeçar do zero a cada lançamento. quem aprendeu o padrão troca de ferramenta numa tarde.\n\nquer aprender o padrão, não o botão? comenta CLAUDE que eu te mando por onde começar.\n\n#claudecode #ia",
+    "media_id": "17940127698052335"
   },
   {
     "date": "2026-06-17",
