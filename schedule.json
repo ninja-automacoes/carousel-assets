@@ -3012,7 +3012,7 @@
     "product": "ACADEMY",
     "title": "plano-b-chines",
     "dir": "workspace/2026-06-15/plano-b-chines",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-02.png",
@@ -3022,7 +3022,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/plano-b-chines/slide-07.png"
     ],
-    "caption": "te baniram do Fable ontem. 24 horas depois, os chineses abriram uma porta.\n\nsaiu o GLM 5.2 da Z.ai. janela de 1 milhão de tokens, foco em código, licença MIT aberta. de graça. e roda dentro do Claude Code: você troca o endereço da API no settings.json e o resto do seu fluxo fica igual.\n\na Z.ai postou uma frase respondendo direto ao bloqueio dos EUA: o caminho pra AGI não pode ser cercado por muro alto.\n\nantes de migrar de vez, roda o seu caso de uso nos dois e compara com o Opus. decide com o seu número, não com o hype.\n\no que essa semana provou: o modelo trava, a ferramenta não. o Claude Code seguiu rodando com outro motor embaixo. é por isso que aprender a ferramenta vale mais que casar com um modelo.\n\nquer ver o comparativo do GLM contra o Opus no mesmo caso? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "te baniram do Fable ontem. 24 horas depois, os chineses abriram uma porta.\n\nsaiu o GLM 5.2 da Z.ai. janela de 1 milhão de tokens, foco em código, licença MIT aberta. de graça. e roda dentro do Claude Code: você troca o endereço da API no settings.json e o resto do seu fluxo fica igual.\n\na Z.ai postou uma frase respondendo direto ao bloqueio dos EUA: o caminho pra AGI não pode ser cercado por muro alto.\n\nantes de migrar de vez, roda o seu caso de uso nos dois e compara com o Opus. decide com o seu número, não com o hype.\n\no que essa semana provou: o modelo trava, a ferramenta não. o Claude Code seguiu rodando com outro motor embaixo. é por isso que aprender a ferramenta vale mais que casar com um modelo.\n\nquer ver o comparativo do GLM contra o Opus no mesmo caso? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "17933159544272765"
   },
   {
     "date": "2026-06-16",
