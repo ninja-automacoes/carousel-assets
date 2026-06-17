@@ -3052,7 +3052,7 @@
     "product": "ACADEMY",
     "title": "fable-meio-tabela",
     "dir": "workspace/2026-06-15/fable-meio-tabela",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-02.png",
@@ -3063,7 +3063,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/fable-meio-tabela/slide-08.png"
     ],
-    "caption": "testaram o Fable 5 em 200 tarefas reais de segurança. ficou no meio da tabela. e colou em 38.\n\na Endor Labs pegou 200 falhas reais de código aberto e mandou o Fable corrigir, usando o Claude Code como base. resultado: 59,8% de solução que funciona, 19% de correção de segurança de fato, e recorde de timeout. o modelo pensou tanto que estourou 15 vezes o limite de 40 minutos.\n\nem 33 casos ele repetiu um conserto que viu no treino, e citou até número de CVE que não existia no projeto. parece gênio. na real é decoreba.\n\npra ser justo, tem o outro lado: 4 problemas que nenhum modelo da história tinha resolvido, ele resolveu de verdade. e não recusou nenhuma vez.\n\na lição vale mais que o placar: benchmark de lançamento mede o que o lab escolheu medir. o seu caso de uso mede o que paga a sua conta. antes de assinar o modelo duas vezes mais caro, roda ele no seu fluxo.\n\nquer montar seu próprio critério de avaliação antes de gastar em modelo caro? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "testaram o Fable 5 em 200 tarefas reais de segurança. ficou no meio da tabela. e colou em 38.\n\na Endor Labs pegou 200 falhas reais de código aberto e mandou o Fable corrigir, usando o Claude Code como base. resultado: 59,8% de solução que funciona, 19% de correção de segurança de fato, e recorde de timeout. o modelo pensou tanto que estourou 15 vezes o limite de 40 minutos.\n\nem 33 casos ele repetiu um conserto que viu no treino, e citou até número de CVE que não existia no projeto. parece gênio. na real é decoreba.\n\npra ser justo, tem o outro lado: 4 problemas que nenhum modelo da história tinha resolvido, ele resolveu de verdade. e não recusou nenhuma vez.\n\na lição vale mais que o placar: benchmark de lançamento mede o que o lab escolheu medir. o seu caso de uso mede o que paga a sua conta. antes de assinar o modelo duas vezes mais caro, roda ele no seu fluxo.\n\nquer montar seu próprio critério de avaliação antes de gastar em modelo caro? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18318850027273517"
   },
   {
     "date": "2026-06-17",
