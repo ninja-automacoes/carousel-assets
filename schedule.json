@@ -3073,7 +3073,7 @@
     "product": "ACADEMY",
     "title": "codex-sem-codigo",
     "dir": "workspace/2026-06-15/codex-sem-codigo",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-02.png",
@@ -3083,7 +3083,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/codex-sem-codigo/slide-07.png"
     ],
-    "caption": "a ferramenta de programação da OpenAI tem 5 milhões de usuários por semana. 1 em cada 5 nunca escreveu uma linha de código.\n\nesses 20% são analistas, marketing, vendas, design. e crescem 3 vezes mais rápido que os programadores. a OpenAI oficializou isso com 6 plugins por função, 62 apps e 110 skills empacotadas. tudo sem código.\n\ntraduz pro seu mundo: o analista que monta o dashboard sozinho. o freelancer que entrega o relatório que a agência cobrava caro. o CLT que vira a referência de IA do time.\n\no mesmo padrão já roda no Claude Code com skills, e funciona em português. quem aprende a operar o agente agora compete com dev na entrega, sem precisar virar dev.\n\nquer ser o primeiro do seu time a fazer isso? comenta CLAUDE que eu te mostro por onde começar.\n\n#claudecode #ia"
+    "caption": "a ferramenta de programação da OpenAI tem 5 milhões de usuários por semana. 1 em cada 5 nunca escreveu uma linha de código.\n\nesses 20% são analistas, marketing, vendas, design. e crescem 3 vezes mais rápido que os programadores. a OpenAI oficializou isso com 6 plugins por função, 62 apps e 110 skills empacotadas. tudo sem código.\n\ntraduz pro seu mundo: o analista que monta o dashboard sozinho. o freelancer que entrega o relatório que a agência cobrava caro. o CLT que vira a referência de IA do time.\n\no mesmo padrão já roda no Claude Code com skills, e funciona em português. quem aprende a operar o agente agora compete com dev na entrega, sem precisar virar dev.\n\nquer ser o primeiro do seu time a fazer isso? comenta CLAUDE que eu te mostro por onde começar.\n\n#claudecode #ia",
+    "media_id": "18002021030948367"
   },
   {
     "date": "2026-06-18",
