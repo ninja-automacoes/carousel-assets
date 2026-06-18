@@ -3113,7 +3113,7 @@
     "product": "ACADEMY",
     "title": "vaquinha-publica",
     "dir": "workspace/2026-06-15/vaquinha-publica",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-02.png",
@@ -3124,7 +3124,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vaquinha-publica/slide-08.png"
     ],
-    "caption": "lançaram um Kickstarter onde o fundador é uma IA. você põe R$ 1,50 e assiste ela construir.\n\nchama FablePool. você posta um pedido ambicioso, a IA estima o orçamento e estranhos completam a vaquinha a partir de US$ 0,25. aí o Fable executa marco a marco, na frente de quem pagou. cada centavo de compute fica num livro-caixa aberto.\n\njá saiu dali uma biblioteca de código aberto, um motor de busca, e luz nova pro site de um brechó em apuro.\n\nrepara no padrão por trás: agente com orçamento fechado, marco e prestação de conta. é o que você devia exigir de qualquer automação que roda sozinha.\n\nali ninguém paga pelo app pronto. paga pra ver a coisa nascer na frente deles, centavo por centavo. esse modelo em português, pra demanda de bairro, tá vazio. quem montar primeiro define o nicho.\n\nquer o padrão de agente com orçamento e marcos? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "lançaram um Kickstarter onde o fundador é uma IA. você põe R$ 1,50 e assiste ela construir.\n\nchama FablePool. você posta um pedido ambicioso, a IA estima o orçamento e estranhos completam a vaquinha a partir de US$ 0,25. aí o Fable executa marco a marco, na frente de quem pagou. cada centavo de compute fica num livro-caixa aberto.\n\njá saiu dali uma biblioteca de código aberto, um motor de busca, e luz nova pro site de um brechó em apuro.\n\nrepara no padrão por trás: agente com orçamento fechado, marco e prestação de conta. é o que você devia exigir de qualquer automação que roda sozinha.\n\nali ninguém paga pelo app pronto. paga pra ver a coisa nascer na frente deles, centavo por centavo. esse modelo em português, pra demanda de bairro, tá vazio. quem montar primeiro define o nicho.\n\nquer o padrão de agente com orçamento e marcos? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "17932960653293951"
   },
   {
     "date": "2026-06-19",
