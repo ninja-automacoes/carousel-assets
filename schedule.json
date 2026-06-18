@@ -3093,7 +3093,7 @@
     "product": "ACADEMY",
     "title": "agua-e-luz",
     "dir": "workspace/2026-06-15/agua-e-luz",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-02.png",
@@ -3103,7 +3103,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/agua-e-luz/slide-07.png"
     ],
-    "caption": "a IA mais perigosa do mundo está escaneando o software da empresa de água da sua cidade. e essa é a parte boa da notícia.\n\na Anthropic expandiu o Project Glasswing de 50 pra mais de 150 organizações em 15 países: energia, água, saúde, telecom. o critério de entrada é assustador: um ataque ao código afetaria 100 milhões de pessoas. em poucos meses o modelo Mythos achou mais de 10 mil falhas graves.\n\na parte ruim quem disse foi a própria Anthropic: em 6 a 12 meses outro lab tem um modelo desse nível, e talvez lance sem trava nenhuma. aí o ataque automatizado fica barato. a defesa também, mas só pra quem se mexer antes.\n\na oportunidade que ninguém tá vendo: todo negócio com sistema exposto vai precisar de alguém que opere um agente pra varrer o próprio código. no Brasil esse serviço quase não existe.\n\nquer aprender a operar esses agentes? comenta CLAUDE que eu te mando o início da trilha.\n\n#claudecode #ia"
+    "caption": "a IA mais perigosa do mundo está escaneando o software da empresa de água da sua cidade. e essa é a parte boa da notícia.\n\na Anthropic expandiu o Project Glasswing de 50 pra mais de 150 organizações em 15 países: energia, água, saúde, telecom. o critério de entrada é assustador: um ataque ao código afetaria 100 milhões de pessoas. em poucos meses o modelo Mythos achou mais de 10 mil falhas graves.\n\na parte ruim quem disse foi a própria Anthropic: em 6 a 12 meses outro lab tem um modelo desse nível, e talvez lance sem trava nenhuma. aí o ataque automatizado fica barato. a defesa também, mas só pra quem se mexer antes.\n\na oportunidade que ninguém tá vendo: todo negócio com sistema exposto vai precisar de alguém que opere um agente pra varrer o próprio código. no Brasil esse serviço quase não existe.\n\nquer aprender a operar esses agentes? comenta CLAUDE que eu te mando o início da trilha.\n\n#claudecode #ia",
+    "media_id": "18345663991168219"
   },
   {
     "date": "2026-06-18",
