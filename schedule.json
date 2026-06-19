@@ -3134,7 +3134,7 @@
     "product": "ACADEMY",
     "title": "contexto-rei",
     "dir": "workspace/2026-06-15/contexto-rei",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-02.png",
@@ -3145,7 +3145,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/contexto-rei/slide-08.png"
     ],
-    "caption": "se a IA fosse o diferencial, todo LinkedIn estaria viralizando. todo mundo usa o mesmo modelo que você.\n\no Opus 4.8 tá na mão de qualquer um. então por que o seu resultado seria diferente do resto? porque o modelo virou commodity. o que ninguém copia é o contexto do seu negócio dentro do agente.\n\nmodelo é stateless: cada sessão nova nasce zerada. o que fica é o contexto que você foi construindo. quem alimenta o Claude Code com os dados da própria operação gera um output que concorrente nenhum reproduz.\n\na ordem importa: contexto, conexões, capacidades, cadência.\n\nteste rápido: abre uma sessão limpa e pergunta o que o seu negócio devia fazer semana que vem. a resposta mostra quanto contexto você já botou lá dentro. e para de abrir 10 abas. faz tudo de dentro do agente.\n\nquer montar esse sistema com acompanhamento? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "se a IA fosse o diferencial, todo LinkedIn estaria viralizando. todo mundo usa o mesmo modelo que você.\n\no Opus 4.8 tá na mão de qualquer um. então por que o seu resultado seria diferente do resto? porque o modelo virou commodity. o que ninguém copia é o contexto do seu negócio dentro do agente.\n\nmodelo é stateless: cada sessão nova nasce zerada. o que fica é o contexto que você foi construindo. quem alimenta o Claude Code com os dados da própria operação gera um output que concorrente nenhum reproduz.\n\na ordem importa: contexto, conexões, capacidades, cadência.\n\nteste rápido: abre uma sessão limpa e pergunta o que o seu negócio devia fazer semana que vem. a resposta mostra quanto contexto você já botou lá dentro. e para de abrir 10 abas. faz tudo de dentro do agente.\n\nquer montar esse sistema com acompanhamento? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18096352232587475"
   },
   {
     "date": "2026-06-19",
