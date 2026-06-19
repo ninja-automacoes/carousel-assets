@@ -3155,7 +3155,7 @@
     "product": "ACADEMY",
     "title": "entreviste-ia",
     "dir": "workspace/2026-06-15/entreviste-ia",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-02.png",
@@ -3165,7 +3165,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/entreviste-ia/slide-07.png"
     ],
-    "caption": "você pediu pra IA construir o app e saiu igual ao de todo mundo. o Greg Isenberg inverteu o jogo: ele mandou a IA entrevistar ele primeiro.\n\na maioria joga a ideia num prompt só e fica brava com o resultado genérico. normal: a IA tá adivinhando o que você quer. você é o único que conhece o seu negócio.\n\no que o Greg digitou foi mais ou menos isso: não constrói nada ainda, me entrevista como se você fosse o Mark Zuckerberg, uma pergunta por vez, no máximo 15, caçando o que eu não pensei.\n\na entrevista puxa as decisões da sua cabeça pro contexto. quando você manda construir, o spec já passou pela peneira. e o combo fica: pede o spec inteiro, pede 3 jeitos de isso falhar, só aí manda construir a V1.\n\nquer o prompt de entrevista na íntegra? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "você pediu pra IA construir o app e saiu igual ao de todo mundo. o Greg Isenberg inverteu o jogo: ele mandou a IA entrevistar ele primeiro.\n\na maioria joga a ideia num prompt só e fica brava com o resultado genérico. normal: a IA tá adivinhando o que você quer. você é o único que conhece o seu negócio.\n\no que o Greg digitou foi mais ou menos isso: não constrói nada ainda, me entrevista como se você fosse o Mark Zuckerberg, uma pergunta por vez, no máximo 15, caçando o que eu não pensei.\n\na entrevista puxa as decisões da sua cabeça pro contexto. quando você manda construir, o spec já passou pela peneira. e o combo fica: pede o spec inteiro, pede 3 jeitos de isso falhar, só aí manda construir a V1.\n\nquer o prompt de entrevista na íntegra? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18080598026234047"
   },
   {
     "date": "2026-06-20",
