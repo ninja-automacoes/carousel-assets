@@ -3175,7 +3175,7 @@
     "product": "ACADEMY",
     "title": "vibe-sem-usuario",
     "dir": "workspace/2026-06-15/vibe-sem-usuario",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-02.png",
@@ -3185,7 +3185,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/vibe-sem-usuario/slide-07.png"
     ],
-    "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no mesmo modelo que faz o produto também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "você vibe-codou três apps esse mês. nenhum tem usuário. tá usando o modelo mais forte do mundo só pra fazer produto.\n\no Greg Isenberg falou isso esse mês: você tá usando o Fable 5 errado. o erro é construir sem distribuição, botar o modelo pra fazer produto e nunca pra trazer gente.\n\no mesmo modelo que faz o produto também faz a landing que vende, a edição de vídeo sem editor, o conteúdo no seu tom, a captação por canal frio. metade do trabalho é essa.\n\no pulo do gato: antes de abrir o editor, abre o doc. origin story, ICP, oferta, sua voz, tudo num arquivo que o agente lê. sem isso é só template.\n\npara de só construir. manda o agente trazer os primeiros usuários também.\n\nquer o template de growth que eu uso na operação? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18131578792554995"
   },
   {
     "date": "2026-06-20",
