@@ -3195,7 +3195,7 @@
     "product": "ACADEMY",
     "title": "recursos-escondidos",
     "dir": "workspace/2026-06-15/recursos-escondidos",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-02.png",
@@ -3207,7 +3207,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/recursos-escondidos/slide-09.png"
     ],
-    "caption": "500 horas de Claude Code depois, os recursos que mais mudaram meu dia não são os que aparecem em anúncio. esses 5 quase ninguém usa.\n\no 5º é o /statusline: modelo, esforço e quanto do contexto já foi gasto, sempre na tela. você para de estourar limite sem ver.\n\no 4º é o /rewind: volta o código e a conversa pra um ponto salvo, em vez de queimar token corrigindo no prompt.\n\no 3º é o /insights: relatório de 30 dias do seu uso, com ponto cego e ganho rápido que você nem tinha visto.\n\no 2º são as routines: agente agendado de verdade, não script. roda no horário sozinho.\n\ne o 1º é o controle remoto: continua a sessão do celular, na rua, na academia, no busão.\n\nnenhum desses cinco exige saber programar. e é mais ou menos por isso que dev nenhum te conta.\n\ncada um tem aula prática no Claude Code na Prática. comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "500 horas de Claude Code depois, os recursos que mais mudaram meu dia não são os que aparecem em anúncio. esses 5 quase ninguém usa.\n\no 5º é o /statusline: modelo, esforço e quanto do contexto já foi gasto, sempre na tela. você para de estourar limite sem ver.\n\no 4º é o /rewind: volta o código e a conversa pra um ponto salvo, em vez de queimar token corrigindo no prompt.\n\no 3º é o /insights: relatório de 30 dias do seu uso, com ponto cego e ganho rápido que você nem tinha visto.\n\no 2º são as routines: agente agendado de verdade, não script. roda no horário sozinho.\n\ne o 1º é o controle remoto: continua a sessão do celular, na rua, na academia, no busão.\n\nnenhum desses cinco exige saber programar. e é mais ou menos por isso que dev nenhum te conta.\n\ncada um tem aula prática no Claude Code na Prática. comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18105805936816949"
   },
   {
     "date": "2026-06-21",
