@@ -3238,7 +3238,7 @@
     "product": "ACADEMY",
     "title": "time-20-eng",
     "dir": "workspace/2026-06-15/time-20-eng",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-02.png",
@@ -3250,7 +3250,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/time-20-eng/slide-09.png"
     ],
-    "caption": "um gringo postou ontem: mil dólares por mês entregando o que um time de 20 engenheiros entrega num mês. e não é vibe coding com Cursor pago.\n\no Stephen Bochinski abriu as 3 formas de fazer AI coding em casa sem quebrar. comprar GPU em casa é caro, modelo mais fraco e o hardware envelhece rápido, só compensa rodando 24 horas por dia. alugar modelo aberto por API, tipo OpenRouter, dispensa GPU e troca de modelo numa linha, pra maioria é a resposta. e a assinatura de fronteira, tipo Claude Max, onde US$ 400 compram US$ 2.800 de API, brilha no trabalho que você dirige na mão e quebra no agente 24/7.\n\na receita que ganha junta as três: assinatura pra pensar e escrever o plano, API barata pra executar. o modelo caro faz o spec, o barato preenche.\n\no erro mais comum é trocar de provedor sem trocar a arquitetura. a grana vai embora no agente que roda sozinho, não no Claude que você usa uma hora por dia.\n\nquer o cardápio completo do blend que eu uso? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "um gringo postou ontem: mil dólares por mês entregando o que um time de 20 engenheiros entrega num mês. e não é vibe coding com Cursor pago.\n\no Stephen Bochinski abriu as 3 formas de fazer AI coding em casa sem quebrar. comprar GPU em casa é caro, modelo mais fraco e o hardware envelhece rápido, só compensa rodando 24 horas por dia. alugar modelo aberto por API, tipo OpenRouter, dispensa GPU e troca de modelo numa linha, pra maioria é a resposta. e a assinatura de fronteira, tipo Claude Max, onde US$ 400 compram US$ 2.800 de API, brilha no trabalho que você dirige na mão e quebra no agente 24/7.\n\na receita que ganha junta as três: assinatura pra pensar e escrever o plano, API barata pra executar. o modelo caro faz o spec, o barato preenche.\n\no erro mais comum é trocar de provedor sem trocar a arquitetura. a grana vai embora no agente que roda sozinho, não no Claude que você usa uma hora por dia.\n\nquer o cardápio completo do blend que eu uso? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18155603767470879"
   },
   {
     "date": "2026-06-17",
