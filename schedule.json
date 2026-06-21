@@ -3217,7 +3217,7 @@
     "product": "ACADEMY",
     "title": "funcionario-graca",
     "dir": "workspace/2026-06-15/funcionario-graca",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-02.png",
@@ -3228,7 +3228,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/funcionario-graca/slide-08.png"
     ],
-    "caption": "tem gringo com um agente varrendo o Reddit a cada 20 minutos atrás de oportunidade de negócio. custo por rodada: zero.\n\no setup é um agente Hermes rodando um modelo Qwen local, no hardware da casa dele. sem conta de token por execução. a cada 20 minutos ele varre Reddit e X atrás de reclamação e dor real, cruza com o que o dono sabe fazer e joga tudo num dashboard.\n\no que chega: a dor, o link da thread, por que VOCÊ resolveria e o primeiro passo. às vezes já vem com o protótipo do micro-SaaS pronto.\n\na conta no Brasil: o hardware top sai uns US$ 4.800. mas dá pra começar rodando 1 vez por dia no plano que você já paga. o truque é separar tarefa barata de cara: o modelo local faz a varredura, o Opus entra só pra pensar.\n\nvocê paga o hardware uma vez. depois ele varre o dia inteiro de graça.\n\nquer desenhar essa máquina pro seu mercado? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "tem gringo com um agente varrendo o Reddit a cada 20 minutos atrás de oportunidade de negócio. custo por rodada: zero.\n\no setup é um agente Hermes rodando um modelo Qwen local, no hardware da casa dele. sem conta de token por execução. a cada 20 minutos ele varre Reddit e X atrás de reclamação e dor real, cruza com o que o dono sabe fazer e joga tudo num dashboard.\n\no que chega: a dor, o link da thread, por que VOCÊ resolveria e o primeiro passo. às vezes já vem com o protótipo do micro-SaaS pronto.\n\na conta no Brasil: o hardware top sai uns US$ 4.800. mas dá pra começar rodando 1 vez por dia no plano que você já paga. o truque é separar tarefa barata de cara: o modelo local faz a varredura, o Opus entra só pra pensar.\n\nvocê paga o hardware uma vez. depois ele varre o dia inteiro de graça.\n\nquer desenhar essa máquina pro seu mercado? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18154961773470002"
   },
   {
     "date": "2026-06-21",
