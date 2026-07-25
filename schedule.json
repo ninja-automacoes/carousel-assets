@@ -3276,7 +3276,7 @@
     "media_id": "18090218891615474"
   },
   {
-    "date": "2026-07-03",
+    "date": "2026-07-26",
     "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
@@ -3296,7 +3296,7 @@
     "caption": "advogado, médico e contador têm dinheiro, têm um problema que a IA resolve, e não podem mandar o dado pra fora.\n\ntoda IA que você conhece manda o dado pra API de alguém, e pra esses setores isso esbarra na lei. modelo local roda offline, o dado nunca sai da máquina do cliente, e aí a limitação técnica vira argumento de venda.\n\ncinco coisas que só existem por causa disso: o notetaker que não vaza nada, o agente que roda sem internet, a IA offline pra trabalho de campo, e a camada que assume quando o provedor cai.\n\ndepois do hardware, cada rodada é só a conta de luz. e você entra vendendo uma frase na landing: nada do que você me der toca a internet. setor regulado paga caro pra ouvir isso.\n\no mercado tá aberto e vazio. quem montar a versão privada primeiro pega o nicho inteiro.\n\nquer montar um desses como serviço? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-07-03",
+    "date": "2026-07-26",
     "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
@@ -3317,7 +3317,7 @@
     "caption": "pagaram os dois modelos, rodaram o mesmo prompt e cravaram: cada um ganha numa coisa.\n\no teste foi construir um jogo 3D no navegador, sem engine e sem biblioteca, uma tentativa só. Opus 4.8 contra GLM 5.2.\n\nna qualidade o Opus levou: mais rápido, jogo mais limpo, e ele consegue olhar pro próprio render pra se corrigir. o GLM ficou mais tosco e só texto, mas custa menos de um quinto no output.\n\no trunfo que ninguém comenta: os pesos do GLM estão abertos no Hugging Face, licença MIT. roda na sua máquina se quiser. modelo fechado some do dia pra noite, o Fable que o diga. peso baixado ninguém tira.\n\na regra que dá pra levar amanhã: GLM quando custo e abertura importam e o trabalho é texto e lógica. Opus quando correção, polish e olho visual valem mais que preço.\n\nmodelo é decisão por tarefa, não por fidelidade. dentro do agente: Claude pensa, GLM coleta, Opus decide. não é trocar tudo, é encaixar.\n\nquer montar essa cascata no seu agente? comenta CLAUDE.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-07-04",
+    "date": "2026-07-27",
     "time": "09:00",
     "type": "carousel",
     "product": "ACADEMY",
@@ -3336,7 +3336,7 @@
     "caption": "estudo da NYU: 40% do código gerado por IA tem falha de segurança. o problema não é parecer pronto, é parecer pronto e quebrar em produção.\n\no sintoma é o agente parar no primeiro \"parece bom\". você aceita, e herda a edição manual depois.\n\na virada é parar de aceitar \"feito\" e exigir prova. o agente tira screenshot de cada seção no desktop e no celular, manda o formulário com email inválido, duplicata e espaço errado, compara com o resultado esperado, e só encerra quando passa em tudo.\n\naí \"feito\" deixa de ser opinião e vira checklist que a máquina confere. o Playwright vira o juiz da sua UI.\n\nquem deixa a IA se auto-verificar recebe pronto de verdade. quem não deixa vira o revisor dela.\n\nquer montar esse loop de verificação? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
   },
   {
-    "date": "2026-07-04",
+    "date": "2026-07-27",
     "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
