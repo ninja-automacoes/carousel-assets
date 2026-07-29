@@ -3282,7 +3282,7 @@
     "product": "ACADEMY",
     "title": "nicho-privado",
     "dir": "workspace/2026-07-02/nicho-privado",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/nicho-privado/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/nicho-privado/slide-02.png",
@@ -3293,7 +3293,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/nicho-privado/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/nicho-privado/slide-08.png"
     ],
-    "caption": "advogado, médico e contador têm dinheiro, têm um problema que a IA resolve, e não podem mandar o dado pra fora.\n\ntoda IA que você conhece manda o dado pra API de alguém, e pra esses setores isso esbarra na lei. modelo local roda offline, o dado nunca sai da máquina do cliente, e aí a limitação técnica vira argumento de venda.\n\ncinco coisas que só existem por causa disso: o notetaker que não vaza nada, o agente que roda sem internet, a IA offline pra trabalho de campo, e a camada que assume quando o provedor cai.\n\ndepois do hardware, cada rodada é só a conta de luz. e você entra vendendo uma frase na landing: nada do que você me der toca a internet. setor regulado paga caro pra ouvir isso.\n\no mercado tá aberto e vazio. quem montar a versão privada primeiro pega o nicho inteiro.\n\nquer montar um desses como serviço? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
+    "caption": "advogado, médico e contador têm dinheiro, têm um problema que a IA resolve, e não podem mandar o dado pra fora.\n\ntoda IA que você conhece manda o dado pra API de alguém, e pra esses setores isso esbarra na lei. modelo local roda offline, o dado nunca sai da máquina do cliente, e aí a limitação técnica vira argumento de venda.\n\ncinco coisas que só existem por causa disso: o notetaker que não vaza nada, o agente que roda sem internet, a IA offline pra trabalho de campo, e a camada que assume quando o provedor cai.\n\ndepois do hardware, cada rodada é só a conta de luz. e você entra vendendo uma frase na landing: nada do que você me der toca a internet. setor regulado paga caro pra ouvir isso.\n\no mercado tá aberto e vazio. quem montar a versão privada primeiro pega o nicho inteiro.\n\nquer montar um desses como serviço? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia",
+    "media_id": "17984228985044960"
   },
   {
     "date": "2026-07-29",
