@@ -3303,7 +3303,7 @@
     "product": "ACADEMY",
     "title": "glm-vs-opus",
     "dir": "workspace/2026-07-02/glm-vs-opus",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/glm-vs-opus/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/glm-vs-opus/slide-02.png",
@@ -3315,7 +3315,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/glm-vs-opus/slide-08.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/glm-vs-opus/slide-09.png"
     ],
-    "caption": "pagaram os dois modelos, rodaram o mesmo prompt e cravaram: cada um ganha numa coisa.\n\no teste foi construir um jogo 3D no navegador, sem engine e sem biblioteca, uma tentativa só. Opus 4.8 contra GLM 5.2.\n\nna qualidade o Opus levou: mais rápido, jogo mais limpo, e ele consegue olhar pro próprio render pra se corrigir. o GLM ficou mais tosco e só texto, mas custa menos de um quinto no output.\n\no trunfo que ninguém comenta: os pesos do GLM estão abertos no Hugging Face, licença MIT. roda na sua máquina se quiser. modelo fechado some do dia pra noite, o Fable que o diga. peso baixado ninguém tira.\n\na regra que dá pra levar amanhã: GLM quando custo e abertura importam e o trabalho é texto e lógica. Opus quando correção, polish e olho visual valem mais que preço.\n\nmodelo é decisão por tarefa, não por fidelidade. dentro do agente: Claude pensa, GLM coleta, Opus decide. não é trocar tudo, é encaixar.\n\nquer montar essa cascata no seu agente? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "pagaram os dois modelos, rodaram o mesmo prompt e cravaram: cada um ganha numa coisa.\n\no teste foi construir um jogo 3D no navegador, sem engine e sem biblioteca, uma tentativa só. Opus 4.8 contra GLM 5.2.\n\nna qualidade o Opus levou: mais rápido, jogo mais limpo, e ele consegue olhar pro próprio render pra se corrigir. o GLM ficou mais tosco e só texto, mas custa menos de um quinto no output.\n\no trunfo que ninguém comenta: os pesos do GLM estão abertos no Hugging Face, licença MIT. roda na sua máquina se quiser. modelo fechado some do dia pra noite, o Fable que o diga. peso baixado ninguém tira.\n\na regra que dá pra levar amanhã: GLM quando custo e abertura importam e o trabalho é texto e lógica. Opus quando correção, polish e olho visual valem mais que preço.\n\nmodelo é decisão por tarefa, não por fidelidade. dentro do agente: Claude pensa, GLM coleta, Opus decide. não é trocar tudo, é encaixar.\n\nquer montar essa cascata no seu agente? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18016378034715719"
   },
   {
     "date": "2026-07-30",
