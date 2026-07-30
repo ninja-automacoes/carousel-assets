@@ -3345,7 +3345,7 @@
     "product": "ACADEMY",
     "title": "ui-certa",
     "dir": "workspace/2026-07-02/ui-certa",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/ui-certa/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/ui-certa/slide-02.png",
@@ -3355,6 +3355,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/ui-certa/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/ui-certa/slide-07.png"
     ],
-    "caption": "tem uma skill de design pra landing page e outra pra dashboard. usar a errada te dá o contrário do que você quer.\n\n\"skill de design\" parece uma coisa só, mas são duas e resolvem problemas opostos. marketing UI, pra landing e portfolio, o jogo é chamar atenção e ter ponto de vista. functional UI, pra dashboard e app, o jogo é consistência e hierarquia.\n\ntrocou uma pela outra e deu ruim: ou a landing sai sem alma, ou o dashboard sai gritando.\n\na skill de marketing quebra o padrão de propósito, foge do template genérico que todo mundo entrega. a de dashboard faz o oposto: prioriza coerência de componente e hierarquia, nada de firula. dá pra ter as duas e escolher qual ativar por projeto.\n\nquem entende essa distinção entrega design melhor que a maioria dos usuários do Claude Code. é vantagem de conhecimento, não de modelo.\n\nquer aprender a criar e organizar suas próprias skills? comenta CLAUDE.\n\n#claudecode #ia"
+    "caption": "tem uma skill de design pra landing page e outra pra dashboard. usar a errada te dá o contrário do que você quer.\n\n\"skill de design\" parece uma coisa só, mas são duas e resolvem problemas opostos. marketing UI, pra landing e portfolio, o jogo é chamar atenção e ter ponto de vista. functional UI, pra dashboard e app, o jogo é consistência e hierarquia.\n\ntrocou uma pela outra e deu ruim: ou a landing sai sem alma, ou o dashboard sai gritando.\n\na skill de marketing quebra o padrão de propósito, foge do template genérico que todo mundo entrega. a de dashboard faz o oposto: prioriza coerência de componente e hierarquia, nada de firula. dá pra ter as duas e escolher qual ativar por projeto.\n\nquem entende essa distinção entrega design melhor que a maioria dos usuários do Claude Code. é vantagem de conhecimento, não de modelo.\n\nquer aprender a criar e organizar suas próprias skills? comenta CLAUDE.\n\n#claudecode #ia",
+    "media_id": "18145937968477106"
   }
 ]
