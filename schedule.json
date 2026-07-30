@@ -3325,7 +3325,7 @@
     "product": "ACADEMY",
     "title": "auto-verifica",
     "dir": "workspace/2026-07-02/auto-verifica",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/auto-verifica/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/auto-verifica/slide-02.png",
@@ -3335,7 +3335,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/auto-verifica/slide-06.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/auto-verifica/slide-07.png"
     ],
-    "caption": "estudo da NYU: 40% do código gerado por IA tem falha de segurança. o problema não é parecer pronto, é parecer pronto e quebrar em produção.\n\no sintoma é o agente parar no primeiro \"parece bom\". você aceita, e herda a edição manual depois.\n\na virada é parar de aceitar \"feito\" e exigir prova. o agente tira screenshot de cada seção no desktop e no celular, manda o formulário com email inválido, duplicata e espaço errado, compara com o resultado esperado, e só encerra quando passa em tudo.\n\naí \"feito\" deixa de ser opinião e vira checklist que a máquina confere. o Playwright vira o juiz da sua UI.\n\nquem deixa a IA se auto-verificar recebe pronto de verdade. quem não deixa vira o revisor dela.\n\nquer montar esse loop de verificação? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia"
+    "caption": "estudo da NYU: 40% do código gerado por IA tem falha de segurança. o problema não é parecer pronto, é parecer pronto e quebrar em produção.\n\no sintoma é o agente parar no primeiro \"parece bom\". você aceita, e herda a edição manual depois.\n\na virada é parar de aceitar \"feito\" e exigir prova. o agente tira screenshot de cada seção no desktop e no celular, manda o formulário com email inválido, duplicata e espaço errado, compara com o resultado esperado, e só encerra quando passa em tudo.\n\naí \"feito\" deixa de ser opinião e vira checklist que a máquina confere. o Playwright vira o juiz da sua UI.\n\nquem deixa a IA se auto-verificar recebe pronto de verdade. quem não deixa vira o revisor dela.\n\nquer montar esse loop de verificação? comenta CLAUDE que eu te mando o caminho.\n\n#claudecode #ia",
+    "media_id": "17959208844188547"
   },
   {
     "date": "2026-07-30",
