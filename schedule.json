@@ -3365,7 +3365,7 @@
     "product": "CLAUDE",
     "title": "grill-me",
     "dir": "workspace/2026-08-26/grill-me",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-02.png",
@@ -3376,7 +3376,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-08.png"
     ],
-    "caption": "Você pediu uma landing page pro Claude. Ele começou a inventar seções. Hero. CTA. Cores da marca. Você não falou nada disso.\n\nDuas horas depois, abriu o resultado. Não era isso.\n\nAí você descobriu uma skill do Matt Pocock chamada grill-me. Em vez dele sair construindo, ele te entrevista primeiro. Rodadas numeradas. Cada pergunta com a recomendação dele embaixo.\n\nA entrevista só acaba quando não sobra decisão. Aí você confirma que chegaram no mesmo lugar, e ele organiza tudo num documento de uma página. Depois quebra em tarefas. Cada tarefa declara o que trava ela.\n\nQuarenta minutos entre o pedido e a lista de tarefas. Sem uma linha de código.\n\nNo Claude Code na Prática você aprende esse processo. É o módulo de Skills, do grill-me até a página no ar.\n\ncomenta CLAUDE\n\n#claudecode #automacao #inteligenciaartificial #ia"
+    "caption": "Você pediu uma landing page pro Claude. Ele começou a inventar seções. Hero. CTA. Cores da marca. Você não falou nada disso.\n\nDuas horas depois, abriu o resultado. Não era isso.\n\nAí você descobriu uma skill do Matt Pocock chamada grill-me. Em vez dele sair construindo, ele te entrevista primeiro. Rodadas numeradas. Cada pergunta com a recomendação dele embaixo.\n\nA entrevista só acaba quando não sobra decisão. Aí você confirma que chegaram no mesmo lugar, e ele organiza tudo num documento de uma página. Depois quebra em tarefas. Cada tarefa declara o que trava ela.\n\nQuarenta minutos entre o pedido e a lista de tarefas. Sem uma linha de código.\n\nNo Claude Code na Prática você aprende esse processo. É o módulo de Skills, do grill-me até a página no ar.\n\ncomenta CLAUDE\n\n#claudecode #automacao #inteligenciaartificial #ia",
+    "media_id": "17892768027656023"
   },
   {
     "date": "2026-08-27",
