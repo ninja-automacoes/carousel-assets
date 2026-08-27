@@ -3377,5 +3377,25 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-08.png"
     ],
     "caption": "Você pediu uma landing page pro Claude. Ele começou a inventar seções. Hero. CTA. Cores da marca. Você não falou nada disso.\n\nDuas horas depois, abriu o resultado. Não era isso.\n\nAí você descobriu uma skill do Matt Pocock chamada grill-me. Em vez dele sair construindo, ele te entrevista primeiro. Rodadas numeradas. Cada pergunta com a recomendação dele embaixo.\n\nA entrevista só acaba quando não sobra decisão. Aí você confirma que chegaram no mesmo lugar, e ele organiza tudo num documento de uma página. Depois quebra em tarefas. Cada tarefa declara o que trava ela.\n\nQuarenta minutos entre o pedido e a lista de tarefas. Sem uma linha de código.\n\nNo Claude Code na Prática você aprende esse processo. É o módulo de Skills, do grill-me até a página no ar.\n\ncomenta CLAUDE\n\n#claudecode #automacao #inteligenciaartificial #ia"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "video-sem-editor",
+    "dir": "workspace/2026-08-27/video-sem-editor",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-08.png"
+    ],
+    "caption": "Na sexta-feira eu gravei um vídeo em cinco minutos. Ele tava pronto pra publicar em outros dez, editado inteiro pelo Claude Code: corte dos erros, legenda, elementos visuais, tudo.\n\nAntes disso cada vídeo custava uma tarde. Cortar erro, encaixar legenda, renderizar, ver que saiu torto e renderizar de novo. Você gravava rápido e ia dormir com o arquivo cru acumulando na área de trabalho.\n\nA primeira rodada do agente veio com cortes meio idiotas, tipo cortar no meio de uma pausa que era intencional. Corrigi uma vez, transformei em regra no CLAUDE.md dele. Nunca mais repetiu.\n\nNão tô falando de plugin mágico dentro de nenhum editor. Falo de agente rodando no terminal, com acesso à sua pasta e poder de executar comando. E a mesma estrutura funciona pra relatório, pra planilha, pra o que quer que seja tarefa repetitiva no seu dia.\n\nSe você grava conteúdo mas publica pouco porque a edição mata o ritmo, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
   }
 ]
