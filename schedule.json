@@ -3386,7 +3386,7 @@
     "product": "CLAUDE",
     "title": "video-sem-editor",
     "dir": "workspace/2026-08-27/video-sem-editor",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-02.png",
@@ -3397,7 +3397,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-08.png"
     ],
-    "caption": "Na sexta-feira eu gravei um vídeo em cinco minutos. Ele tava pronto pra publicar em outros dez, editado inteiro pelo Claude Code: corte dos erros, legenda, elementos visuais, tudo.\n\nAntes disso cada vídeo custava uma tarde. Cortar erro, encaixar legenda, renderizar, ver que saiu torto e renderizar de novo. Você gravava rápido e ia dormir com o arquivo cru acumulando na área de trabalho.\n\nA primeira rodada do agente veio com cortes meio idiotas, tipo cortar no meio de uma pausa que era intencional. Corrigi uma vez, transformei em regra no CLAUDE.md dele. Nunca mais repetiu.\n\nNão tô falando de plugin mágico dentro de nenhum editor. Falo de agente rodando no terminal, com acesso à sua pasta e poder de executar comando. E a mesma estrutura funciona pra relatório, pra planilha, pra o que quer que seja tarefa repetitiva no seu dia.\n\nSe você grava conteúdo mas publica pouco porque a edição mata o ritmo, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
+    "caption": "Na sexta-feira eu gravei um vídeo em cinco minutos. Ele tava pronto pra publicar em outros dez, editado inteiro pelo Claude Code: corte dos erros, legenda, elementos visuais, tudo.\n\nAntes disso cada vídeo custava uma tarde. Cortar erro, encaixar legenda, renderizar, ver que saiu torto e renderizar de novo. Você gravava rápido e ia dormir com o arquivo cru acumulando na área de trabalho.\n\nA primeira rodada do agente veio com cortes meio idiotas, tipo cortar no meio de uma pausa que era intencional. Corrigi uma vez, transformei em regra no CLAUDE.md dele. Nunca mais repetiu.\n\nNão tô falando de plugin mágico dentro de nenhum editor. Falo de agente rodando no terminal, com acesso à sua pasta e poder de executar comando. E a mesma estrutura funciona pra relatório, pra planilha, pra o que quer que seja tarefa repetitiva no seu dia.\n\nSe você grava conteúdo mas publica pouco porque a edição mata o ritmo, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia",
+    "media_id": "18076861295359781"
   },
   {
     "date": "2026-08-28",
