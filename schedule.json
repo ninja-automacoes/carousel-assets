@@ -3398,5 +3398,25 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-27/video-sem-editor/slide-08.png"
     ],
     "caption": "Na sexta-feira eu gravei um vídeo em cinco minutos. Ele tava pronto pra publicar em outros dez, editado inteiro pelo Claude Code: corte dos erros, legenda, elementos visuais, tudo.\n\nAntes disso cada vídeo custava uma tarde. Cortar erro, encaixar legenda, renderizar, ver que saiu torto e renderizar de novo. Você gravava rápido e ia dormir com o arquivo cru acumulando na área de trabalho.\n\nA primeira rodada do agente veio com cortes meio idiotas, tipo cortar no meio de uma pausa que era intencional. Corrigi uma vez, transformei em regra no CLAUDE.md dele. Nunca mais repetiu.\n\nNão tô falando de plugin mágico dentro de nenhum editor. Falo de agente rodando no terminal, com acesso à sua pasta e poder de executar comando. E a mesma estrutura funciona pra relatório, pra planilha, pra o que quer que seja tarefa repetitiva no seu dia.\n\nSe você grava conteúdo mas publica pouco porque a edição mata o ritmo, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
+  },
+  {
+    "date": "2026-08-28",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "crm-entrevista",
+    "dir": "workspace/2026-08-28/crm-entrevista",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-08.png"
+    ],
+    "caption": "Você tem um CRM. Ele se chama busca do WhatsApp.\n\nToda vez que um cliente pergunta de um orçamento antigo, você sobe a conversa rolando até achar. Se achar. Uma planilha chegou a existir, o CRM pago por assento também, e hoje os dois são enfeite.\n\nO prejuízo aparece no follow-up que ninguém deu: orçamento de maio esfriou e o cliente fechou com o concorrente sem avisar.\n\nEu resolvi isso digitando um comando no terminal. O Claude Code fez o contrário do que eu esperava: antes de gerar qualquer código, ele me entrevistou. O que eu vendo, pra quem, quanto custa, como eu falo com cliente. Eu respondi como se fosse áudio de WhatsApp e ele construiu o CRM a partir disso: cadastro que nasce da conversa, lembrete de follow-up, histórico por cliente.\n\nNenhuma linha escrita por mim. O sistema roda no seu ambiente e o custo é a assinatura da Anthropic, sem cobrança por assento.\n\nSe você também controla cliente pelo WhatsApp e já perdeu follow-up na rolagem, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
   }
 ]
