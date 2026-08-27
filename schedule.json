@@ -190,18 +190,6 @@
     "media_id": "17959886363917538"
   },
   {
-    "date": "2026-03-23",
-    "slot": "evening",
-    "time": "20:00",
-    "funnel": "topo",
-    "title": "sem-programar",
-    "topic": "Você não sabe programar - e não precisa pra automatizar WhatsApp",
-    "dir": "workspace/2026-03-22/sem-programar",
-    "status": "published",
-    "caption": "Você tem um agente que busca cliente no Google Maps e já manda mensagem no WhatsApp.\n\nAutomático. Sem você tocar.\n\nÉ o agente Buscador do API Oficial na Prática. Você fala: preciso de 200 leads de clínicas odontológicas em SP. Ele vai no Google Maps, pega nome, telefone, endereço e já dispara no WhatsApp com template aprovado.\n\nResultado real de um aluno: 247 clínicas prospectadas, R$ 0 gasto com lista de leads, 11 responderam no primeiro dia. Ele não tocou em nada.\n\nComenta WABA aqui que o agente Buscador já vem pronto no API Oficial na Prática.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
-    "media_id": "17879879064403125"
-  },
-  {
     "status": "published",
     "type": "carousel",
     "date": "2026-03-23",
@@ -213,6 +201,18 @@
     "topic": "n8n faz o mesmo que o SaaS. Custa R0/mes",
     "caption": "Você paga R$ 300/mês pro SaaS de automação de WhatsApp.\n\nEles pegaram o n8n open source, colocaram interface bonita e cobram mensalidade em cima.\n\nNo n8n você paga pelo que usa.\nSem mensalidade de ferramenta.\nSem R$ 0,34 por mensagem pra intermediário.\n\nEm volume, a diferença é grande.\n\nNo treinamento:\nA infraestrutura já vem pronta.\nVocê cria o número na Meta.\nConecta na API Oficial.\nAtiva os 3 agentes de IA.\n\nDo zero ao primeiro disparo: 40 minutos.\n\nComenta WABA aqui embaixo.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
     "media_id": "18103183762911240"
+  },
+  {
+    "date": "2026-03-23",
+    "slot": "evening",
+    "time": "20:00",
+    "funnel": "topo",
+    "title": "sem-programar",
+    "topic": "Você não sabe programar - e não precisa pra automatizar WhatsApp",
+    "dir": "workspace/2026-03-22/sem-programar",
+    "status": "published",
+    "caption": "Você tem um agente que busca cliente no Google Maps e já manda mensagem no WhatsApp.\n\nAutomático. Sem você tocar.\n\nÉ o agente Buscador do API Oficial na Prática. Você fala: preciso de 200 leads de clínicas odontológicas em SP. Ele vai no Google Maps, pega nome, telefone, endereço e já dispara no WhatsApp com template aprovado.\n\nResultado real de um aluno: 247 clínicas prospectadas, R$ 0 gasto com lista de leads, 11 responderam no primeiro dia. Ele não tocou em nada.\n\nComenta WABA aqui que o agente Buscador já vem pronto no API Oficial na Prática.\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #whatsappbusiness #automacaocomercial #chatbot #empreendedorismo #waba",
+    "media_id": "17879879064403125"
   },
   {
     "status": "published",
@@ -1387,6 +1387,22 @@
   },
   {
     "date": "2026-04-13",
+    "time": "11:30",
+    "type": "story",
+    "status": "ready",
+    "slug": "story-waba-conteudo",
+    "angle": "waba-content",
+    "persona": "Frustrado",
+    "funnel": "TOFU",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-04.png"
+    ]
+  },
+  {
+    "date": "2026-04-13",
     "time": "14:00",
     "type": "carousel",
     "status": "published",
@@ -1405,18 +1421,20 @@
   },
   {
     "date": "2026-04-13",
-    "time": "11:30",
-    "type": "story",
+    "time": "19:00",
+    "type": "carousel",
     "status": "ready",
-    "slug": "story-waba-conteudo",
-    "angle": "waba-content",
-    "persona": "Frustrado",
-    "funnel": "TOFU",
+    "title": "template-aprovado-meta",
+    "dir": "workspace/2026-04-13/template-aprovado-meta",
+    "angle": "template-required",
+    "caption": "Você conectou a API Oficial. Configurou o n8n. Testou o fluxo.\n\nAí tentou mandar a primeira mensagem pro lead. Não chegou.\n\nA API Oficial exige template aprovado pela Meta pra iniciar conversa. Sem template, a mensagem fica retida.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #waba #marketingdigital",
     "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/story-waba-conteudo/slide-04.png"
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-06.png"
     ]
   },
   {
@@ -1478,6 +1496,24 @@
     ]
   },
   {
+    "date": "2026-04-14",
+    "time": "19:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "agente-sdr-qualifica-lead",
+    "dir": "workspace/2026-04-14/agente-sdr-qualifica-lead",
+    "angle": "automation-result",
+    "caption": "São 2h da manhã. Lead mandou mensagem no WhatsApp.\n\nSem agente de IA, ele vai esperar até amanhã. Com agente SDR, ele sai qualificado, com reunião marcada, antes de você acordar.\n\nNão é chatbot de FAQ. É agente que detecta intenção, qualifica e agenda.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#automacao #whatsapp #n8n #agenteia #waba #marketingdigital",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-06.png"
+    ]
+  },
+  {
     "date": "2026-04-15",
     "time": "09:00",
     "type": "carousel",
@@ -1530,6 +1566,24 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/setup-40-minutos/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/setup-40-minutos/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/setup-40-minutos/slide-06.png"
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "time": "19:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "lead-que-nao-responde",
+    "dir": "workspace/2026-04-15/lead-que-nao-responde",
+    "angle": "conversion-pain",
+    "caption": "O lead sumiu. Você mandou 3 mensagens. Ficou em visto.\n\nDepois de 30 dias sem resposta, a janela fechou.\n\nCom chip, você perdeu o lead. Com API Oficial, você reabre a conversa com template de utilidade. O lead que parou de responder não sumiu. Ele tá esperando você aparecer do jeito certo.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #leads #automacao #waba #n8n #marketingdigital",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-06.png"
     ]
   },
   {
@@ -1591,6 +1645,24 @@
     ]
   },
   {
+    "date": "2026-04-16",
+    "time": "19:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "verdades-crueis-whatsapp",
+    "dir": "workspace/2026-04-16/verdades-crueis-whatsapp",
+    "angle": "positioning",
+    "caption": "Delay entre mensagens não te protege de ban.\nOpt-in não te protege.\nAquecimento gradual não te protege.\n\nO que protege é usar a infraestrutura da Meta.\n\nA API Oficial não simula celular. O tráfego sai do servidor da Meta. É o mesmo caminho que o iFood usa.\n\nComenta WABA que te mando o link da aula.\n\n#whatsapp #ban #automacao #apioficial #waba #marketingdigital",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-06.png"
+    ]
+  },
+  {
     "date": "2026-04-17",
     "time": "09:00",
     "type": "carousel",
@@ -1643,6 +1715,24 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/bot-agenda-reuniao-enquanto-dorme/slide-04.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/bot-agenda-reuniao-enquanto-dorme/slide-05.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/bot-agenda-reuniao-enquanto-dorme/slide-06.png"
+    ]
+  },
+  {
+    "date": "2026-04-17",
+    "time": "19:00",
+    "type": "carousel",
+    "status": "ready",
+    "title": "quanto-custa-ter-api",
+    "dir": "workspace/2026-04-17/quanto-custa-ter-api",
+    "angle": "cost-pain",
+    "caption": "A pergunta que todo mundo faz antes de entrar na API Oficial: quanto custa?\n\nServidor de infraestrutura: R$ 80-120/mês. Custo por mensagem que a Meta cobra. Sem mensalidade de plataforma. Sem markup de BSP.\n\n1.000 mensagens pelo BSP: R$ 800+. Direto pela API: R$ 340.\n\nComenta WABA que te mando o link com o custo exato de cada parte.\n\n#whatsapp #apioficial #custo #automacao #waba #marketingdigital",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-06.png"
     ]
   },
   {
@@ -1703,6 +1793,25 @@
     ]
   },
   {
+    "date": "2026-04-18",
+    "time": "19:00",
+    "type": "carousel",
+    "status": "published",
+    "title": "3-coisas-nada-obvias-waba",
+    "dir": "workspace/2026-04-18/3-coisas-nada-obvias-waba",
+    "angle": "educational",
+    "caption": "3 coisas nada óbvias sobre a API Oficial que a maioria aprende depois de tomar ban.\n\n1. Número virtual não precisa de chip. A Meta cria pra você em 5 minutos.\n2. Template de marketing tem custo zero em alguns territórios.\n3. Você não precisa de servidor Linux. Com Cloudfy, 1 clique.\n\nComenta WABA que te mando o link da aula.\n\n#whatsapp #apioficial #waba #n8n #automacao #marketingdigital",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-06.png"
+    ],
+    "media_id": "18579764368044496"
+  },
+  {
     "date": "2026-04-19",
     "time": "09:00",
     "type": "carousel",
@@ -1758,115 +1867,6 @@
     "media_id": "17865625680614358"
   },
   {
-    "date": "2026-04-13",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "ready",
-    "title": "template-aprovado-meta",
-    "dir": "workspace/2026-04-13/template-aprovado-meta",
-    "angle": "template-required",
-    "caption": "Você conectou a API Oficial. Configurou o n8n. Testou o fluxo.\n\nAí tentou mandar a primeira mensagem pro lead. Não chegou.\n\nA API Oficial exige template aprovado pela Meta pra iniciar conversa. Sem template, a mensagem fica retida.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #whatsappapi #automacao #n8n #waba #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-13/template-aprovado-meta/slide-06.png"
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "ready",
-    "title": "agente-sdr-qualifica-lead",
-    "dir": "workspace/2026-04-14/agente-sdr-qualifica-lead",
-    "angle": "automation-result",
-    "caption": "São 2h da manhã. Lead mandou mensagem no WhatsApp.\n\nSem agente de IA, ele vai esperar até amanhã. Com agente SDR, ele sai qualificado, com reunião marcada, antes de você acordar.\n\nNão é chatbot de FAQ. É agente que detecta intenção, qualifica e agenda.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#automacao #whatsapp #n8n #agenteia #waba #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-14/agente-sdr-qualifica-lead/slide-06.png"
-    ]
-  },
-  {
-    "date": "2026-04-15",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "ready",
-    "title": "lead-que-nao-responde",
-    "dir": "workspace/2026-04-15/lead-que-nao-responde",
-    "angle": "conversion-pain",
-    "caption": "O lead sumiu. Você mandou 3 mensagens. Ficou em visto.\n\nDepois de 30 dias sem resposta, a janela fechou.\n\nCom chip, você perdeu o lead. Com API Oficial, você reabre a conversa com template de utilidade. O lead que parou de responder não sumiu. Ele tá esperando você aparecer do jeito certo.\n\nComenta WABA aqui embaixo que te mando o link da aula.\n\n#whatsapp #leads #automacao #waba #n8n #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-15/lead-que-nao-responde/slide-06.png"
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "ready",
-    "title": "verdades-crueis-whatsapp",
-    "dir": "workspace/2026-04-16/verdades-crueis-whatsapp",
-    "angle": "positioning",
-    "caption": "Delay entre mensagens não te protege de ban.\nOpt-in não te protege.\nAquecimento gradual não te protege.\n\nO que protege é usar a infraestrutura da Meta.\n\nA API Oficial não simula celular. O tráfego sai do servidor da Meta. É o mesmo caminho que o iFood usa.\n\nComenta WABA que te mando o link da aula.\n\n#whatsapp #ban #automacao #apioficial #waba #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-16/verdades-crueis-whatsapp/slide-06.png"
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "ready",
-    "title": "quanto-custa-ter-api",
-    "dir": "workspace/2026-04-17/quanto-custa-ter-api",
-    "angle": "cost-pain",
-    "caption": "A pergunta que todo mundo faz antes de entrar na API Oficial: quanto custa?\n\nServidor de infraestrutura: R$ 80-120/mês. Custo por mensagem que a Meta cobra. Sem mensalidade de plataforma. Sem markup de BSP.\n\n1.000 mensagens pelo BSP: R$ 800+. Direto pela API: R$ 340.\n\nComenta WABA que te mando o link com o custo exato de cada parte.\n\n#whatsapp #apioficial #custo #automacao #waba #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-17/quanto-custa-ter-api/slide-06.png"
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "time": "19:00",
-    "type": "carousel",
-    "status": "published",
-    "title": "3-coisas-nada-obvias-waba",
-    "dir": "workspace/2026-04-18/3-coisas-nada-obvias-waba",
-    "angle": "educational",
-    "caption": "3 coisas nada óbvias sobre a API Oficial que a maioria aprende depois de tomar ban.\n\n1. Número virtual não precisa de chip. A Meta cria pra você em 5 minutos.\n2. Template de marketing tem custo zero em alguns territórios.\n3. Você não precisa de servidor Linux. Com Cloudfy, 1 clique.\n\nComenta WABA que te mando o link da aula.\n\n#whatsapp #apioficial #waba #n8n #automacao #marketingdigital",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-18/3-coisas-nada-obvias-waba/slide-06.png"
-    ],
-    "media_id": "18579764368044496"
-  },
-  {
     "date": "2026-04-19",
     "time": "19:00",
     "type": "carousel",
@@ -1906,6 +1906,45 @@
     ],
     "type": "carousel",
     "media_id": "18083954972577992"
+  },
+  {
+    "date": "2026-04-27",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "api-oficial-liberada",
+    "topic": "A API Oficial tá aberta há 4 anos. BSP ainda finge que é a porta única.",
+    "dir": "workspace/2026-04-27/api-oficial-liberada",
+    "status": "published",
+    "caption": "A Meta liberou a Cloud API direto pra qualquer empresa em maio de 2022. Sem BSP no meio, sem mensalidade de plataforma. Você não sabia porque ninguém te contou.\n\nBSP era exigido até 2021 - empresa intermediária que conectava você na API On-Premise. Em 2022 a Meta lançou a Cloud API hospedada nos servidores deles. Qualquer CNPJ ativa direto. BSP virou opcional, mas continua cobrando como se fosse obrigatório - quem ganha com BSP precisa que você não saiba que existe um caminho mais curto e mais barato.\n\nConta fria: R$ 300/mês × 48 meses desde 2022 = R$ 14.400 só de mensalidade. Mais o custo por mensagem extra que o BSP cobra em cima do preço da Meta. Fácil R$ 25.000 jogados fora pra ter acesso a uma API que tava aberta direto.\n\nMagalu, iFood e Nubank consolidaram Cloud API em 2024 e abandonaram BSP. Quem entrou cedo já tá no tier 4 (100k msg/dia). Quem ainda paga mensalidade tá 4 anos atrás.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup direto na Cloud API da Meta, sem passar por BSP. 40 minutos do zero ao primeiro disparo.\n\n—\ncarrossel feito no @krossel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudapi #meta #bsp #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_07.png"
+    ],
+    "media_id": "17998090328761317"
+  },
+  {
+    "date": "2026-04-27",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-ferramenta-caiu",
+    "dir": "workspace/2026-04-27/story",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-04.png"
+    ],
+    "media_id": "18114108391801226"
   },
   {
     "date": "2026-04-27",
@@ -1952,6 +1991,20 @@
   },
   {
     "date": "2026-04-28",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "MENTORIA",
+    "title": "story-levantada-mentoria",
+    "dir": "workspace/2026-04-28/story",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/story-levantada-mentoria/slide-01.png"
+    ],
+    "media_id": "17864033094653522"
+  },
+  {
+    "date": "2026-04-28",
     "slot": "afternoon",
     "time": "14:00",
     "type": "carousel",
@@ -1972,6 +2025,28 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/setup-40-minutos/slide_08.png"
     ],
     "media_id": "18117510820733345"
+  },
+  {
+    "date": "2026-04-28",
+    "slot": "evening",
+    "time": "19:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "tier-meta-como-subir",
+    "topic": "Como subir do tier 1 (250) pro tier 4 (100k) sem ban",
+    "dir": "workspace/2026-04-28/tier-meta-como-subir",
+    "status": "published",
+    "caption": "Você abriu o número novo. Tier 1. 250 mensagens por dia. Travado.\n\nA Meta tem 4 tiers de disparo: 250 → 1.000 → 10.000 → 100.000 mensagens iniciadas por dia. O sistema sobe sozinho - mas só pra quem joga pelas regras dele. Quem dispara torto fica preso no tier 1 pra sempre. Quem dispara certo sobe em 14 dias.\n\nA Meta avalia 3 sinais 24h/dia: clientes não bloqueando, taxa de resposta acima de 5%, mensagens não marcadas como spam. Quality rating high = sobe. Quality rating low = trava ou cai. Não é negociação. É algoritmo automático rodando o tempo todo.\n\n3 regras pra subir em 14 dias: usar template Marketing certificado pela Meta (aprovação em 2h, zero bloqueio); manter taxa de resposta acima de 8% disparando só pra base que conhece sua marca; aquecer com base pequena 3 dias antes de aumentar volume.\n\nTier não se compra. Se constrói. Quem trava no tier 1 não precisa de outra ferramenta. Precisa parar de disparar lista comprada e começar a disparar pra base que pediu pra receber.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Disparador inteligente que aplica as 3 regras automático: aquece, escolhe template, controla volume.\n\n—\ncarrossel feito no @krossel.app · template Industrial Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #tier #disparoseguro #meta #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_07.png"
+    ],
+    "media_id": "17885768355509943"
   },
   {
     "date": "2026-04-29",
@@ -1998,6 +2073,23 @@
   },
   {
     "date": "2026-04-29",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-tier-system",
+    "dir": "workspace/2026-04-29/story",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-04.png"
+    ],
+    "media_id": "18101855446796199"
+  },
+  {
+    "date": "2026-04-29",
     "slot": "afternoon",
     "time": "14:00",
     "type": "carousel",
@@ -2019,217 +2111,6 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/agentes-prontos/slide_09.png"
     ],
     "media_id": "18105795116313219"
-  },
-  {
-    "date": "2026-04-30",
-    "slot": "morning",
-    "time": "09:00",
-    "type": "carousel",
-    "funnel": "topo",
-    "title": "template-reprovado",
-    "topic": "Template Meta reprovado: erro está na categoria, não no texto",
-    "dir": "workspace/2026-04-30/template-reprovado",
-    "status": "published",
-    "caption": "Você criou o template. A Meta reprovou. Trocou uma palavra, mandou de novo, rejeitado. O erro não tá no texto - tá na categoria.\n\nA Meta tem 3 categorias e cada uma aprova um tipo diferente de mensagem. Marketing aceita promo, oferta, lançamento - custa R$ 0,34 por conversa. Utility aceita lembrete, status, confirmação de pedido - texto neutro, sem call to action de venda - custa R$ 0,04. Authentication aceita só código de verificação, mesmo R$ 0,04.\n\nEm 80% das rejeições, o problema é colocar mensagem de venda na categoria Utility. A Meta espera que Utility pareça mensagem de banco: frase neutra, sem emoji, sem \"oferta limitada\".\n\nEm 10 mil disparos por mês, escolher a categoria errada custa R$ 3.000 a mais. Por engano de 30 segundos no setup do template.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Mestre dos Templates: agente que analisa sua mensagem e te diz qual categoria escolher pra aprovar de primeira.\n\n—\ncarrossel feito no @krossel.app · template Bold Cultural\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #templates #meta #aprovacao #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_06.png"
-    ],
-    "media_id": "17916552264360312"
-  },
-  {
-    "date": "2026-04-30",
-    "slot": "afternoon",
-    "time": "14:00",
-    "type": "carousel",
-    "funnel": "fundo",
-    "title": "cloudfy-1-clique",
-    "topic": "Cloudfy: n8n + Postgres + Chatwoot no ar com 1 clique",
-    "dir": "workspace/2026-04-30/cloudfy-1-clique",
-    "status": "published",
-    "caption": "A barreira da automação nunca foi a ferramenta. Foi sempre o setup do servidor.\n\nVocê abre tutorial de n8n, primeiro passo é \"acesse o terminal\". Você fecha. Já tinha tentado uma vez, travou no SSH, no docker compose, ficou 3 horas pra subir um servidor de um projeto de 2 dias. A automação morreu antes de começar - na linha de comando.\n\nCloudfy é uma plataforma brasileira que hospeda n8n + Postgres + Chatwoot na nuvem. Você abre o painel, escolhe o pacote API Oficial na Prática, clica em deploy. 3 minutos depois, n8n no ar com URL própria. Sem Linux, sem SSH, sem docker compose.\n\nTradeoff honesto: VPS DigitalOcean cru custa R$ 30/mês mas exige 3-8 horas de setup. Cloudfy custa R$ 89/mês e roda em 3 minutos. R$ 60 a mais pra você nunca abrir terminal. Pra quem não é dev, vale.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o deploy do Cloudfy ao vivo, do clique até o n8n rodando.\n\n—\ncarrossel feito no @krossel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudfy #infraestrutura #devops #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_07.png"
-    ],
-    "media_id": "17889872721356298"
-  },
-  {
-    "date": "2026-05-01",
-    "slot": "morning",
-    "time": "09:00",
-    "type": "carousel",
-    "funnel": "topo",
-    "title": "feriado-concorrente",
-    "topic": "Feriado: concorrente atendendo automático, você refém do chip",
-    "dir": "workspace/2026-05-01/feriado-concorrente",
-    "status": "published",
-    "caption": "Hoje é primeiro de maio. Sua loja tá fechada. Seu concorrente atendeu 47 leads.\n\nCada feriado nacional, sua operação para. O número de WhatsApp fica parado. Toda terça depois de feriado, vendedor passa a manhã pegando o atraso. 60 mensagens acumuladas, 3 leads quentes que esfriaram, 2 que já compraram do concorrente. Você só vê isso quando abre o WhatsApp.\n\nSeu concorrente configurou o agente SDR no API Oficial uma vez. Hoje, enquanto a família tava no almoço, o agente respondeu 47 conversas, qualificou 11 leads, marcou 4 reuniões pra terça. Custo do dia: R$ 8 em mensagens Marketing.\n\nSão 12 feriados nacionais por ano. Mais sábado e domingo, dá 110 dias com negócio fechado. Quem deixa o número parado nesses 110 dias perde 30% das oportunidades. Quem deixa o agente rodando, fatura nelas.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o SDR Vendedor configurado uma vez, atendendo 24/7 sem precisar de você.\n\n—\ncarrossel feito no @krossel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #feriado #atendimento24h #sdr #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_06.png"
-    ],
-    "media_id": "18078437591549721"
-  },
-  {
-    "date": "2026-05-01",
-    "slot": "afternoon",
-    "time": "14:00",
-    "type": "carousel",
-    "funnel": "fundo",
-    "title": "300-pedidos-manual",
-    "topic": "Operação 300 pedidos/dia: 70% manual = R$ 156k/ano",
-    "dir": "workspace/2026-05-01/300-pedidos-manual",
-    "status": "published",
-    "caption": "Loja online faturando bem, 300 pedidos por dia, 4 atendentes no WhatsApp 12h por dia. 70% do que eles fazem é confirmação, endereço, código de rastreio, dúvida básica. Trabalho que IA faz melhor.\n\nCusto atual desse setup: R$ 13.000/mês. Folha de 4 atendentes + encargos. Anual: R$ 156.000.\n\nReorganização: 3 agentes IA fazem 70% do volume. Sobra 30% pros humanos: troca, devolução, problema fora do roteiro. 4 atendentes viram 1 sênior + 3 que migram pra venda ativa, prospecção e fidelização. Custo cai pra R$ 4.300/mês. Economia anual: R$ 104.400.\n\nReorganização leva 2 semanas, não 6 meses. Setup do API Oficial: 40 minutos. Mapear fluxos atuais: 1 semana. Treinar IA com seu catálogo: 3 dias. Acompanhar primeira semana ao vivo: 5 dias.\n\n300 pedidos hoje, 600 amanhã sem contratar ninguém, 1.000 daqui 3 meses sem multiplicar custo. A diferença é arquitetura - não esforço.\n\n💬 Comenta EXPRESS aqui embaixo e te mando o link da aula gratuita - mostro o setup feito comigo em 1 semana, com seu catálogo e fluxos integrados.\n\n—\ncarrossel feito no @krossel.app · template Industrial Completo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #escala #operacao #ecommerce #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_07.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_08.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_09.png"
-    ],
-    "media_id": "17973378969012934"
-  },
-  {
-    "date": "2026-04-27",
-    "slot": "story",
-    "time": "11:30",
-    "type": "story",
-    "product": "WABA",
-    "title": "story-ferramenta-caiu",
-    "dir": "workspace/2026-04-27/story",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/story-ferramenta-caiu/slide-04.png"
-    ],
-    "media_id": "18114108391801226"
-  },
-  {
-    "date": "2026-04-28",
-    "slot": "story",
-    "time": "11:30",
-    "type": "story",
-    "product": "MENTORIA",
-    "title": "story-levantada-mentoria",
-    "dir": "workspace/2026-04-28/story",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/story-levantada-mentoria/slide-01.png"
-    ],
-    "media_id": "17864033094653522"
-  },
-  {
-    "date": "2026-04-29",
-    "slot": "story",
-    "time": "11:30",
-    "type": "story",
-    "product": "WABA",
-    "title": "story-tier-system",
-    "dir": "workspace/2026-04-29/story",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-29/story-tier-system/slide-04.png"
-    ],
-    "media_id": "18101855446796199"
-  },
-  {
-    "date": "2026-04-30",
-    "slot": "story",
-    "time": "11:30",
-    "type": "story",
-    "product": "EXPRESS",
-    "title": "story-levantada-express",
-    "dir": "workspace/2026-04-30/story",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/story-levantada-express/slide-01.png"
-    ],
-    "media_id": "18017939261674120"
-  },
-  {
-    "date": "2026-05-01",
-    "slot": "story",
-    "time": "11:30",
-    "type": "story",
-    "product": "WABA",
-    "title": "story-feriado-uso-case",
-    "dir": "workspace/2026-05-01/story",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-04.png"
-    ],
-    "media_id": "18086042765358464"
-  },
-  {
-    "date": "2026-04-27",
-    "slot": "morning",
-    "time": "09:00",
-    "type": "carousel",
-    "funnel": "topo",
-    "title": "api-oficial-liberada",
-    "topic": "A API Oficial tá aberta há 4 anos. BSP ainda finge que é a porta única.",
-    "dir": "workspace/2026-04-27/api-oficial-liberada",
-    "status": "published",
-    "caption": "A Meta liberou a Cloud API direto pra qualquer empresa em maio de 2022. Sem BSP no meio, sem mensalidade de plataforma. Você não sabia porque ninguém te contou.\n\nBSP era exigido até 2021 - empresa intermediária que conectava você na API On-Premise. Em 2022 a Meta lançou a Cloud API hospedada nos servidores deles. Qualquer CNPJ ativa direto. BSP virou opcional, mas continua cobrando como se fosse obrigatório - quem ganha com BSP precisa que você não saiba que existe um caminho mais curto e mais barato.\n\nConta fria: R$ 300/mês × 48 meses desde 2022 = R$ 14.400 só de mensalidade. Mais o custo por mensagem extra que o BSP cobra em cima do preço da Meta. Fácil R$ 25.000 jogados fora pra ter acesso a uma API que tava aberta direto.\n\nMagalu, iFood e Nubank consolidaram Cloud API em 2024 e abandonaram BSP. Quem entrou cedo já tá no tier 4 (100k msg/dia). Quem ainda paga mensalidade tá 4 anos atrás.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o setup direto na Cloud API da Meta, sem passar por BSP. 40 minutos do zero ao primeiro disparo.\n\n—\ncarrossel feito no @krossel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudapi #meta #bsp #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-27/api-oficial-liberada/slide_07.png"
-    ],
-    "media_id": "17998090328761317"
-  },
-  {
-    "date": "2026-04-28",
-    "slot": "evening",
-    "time": "19:00",
-    "type": "carousel",
-    "funnel": "fundo",
-    "title": "tier-meta-como-subir",
-    "topic": "Como subir do tier 1 (250) pro tier 4 (100k) sem ban",
-    "dir": "workspace/2026-04-28/tier-meta-como-subir",
-    "status": "published",
-    "caption": "Você abriu o número novo. Tier 1. 250 mensagens por dia. Travado.\n\nA Meta tem 4 tiers de disparo: 250 → 1.000 → 10.000 → 100.000 mensagens iniciadas por dia. O sistema sobe sozinho - mas só pra quem joga pelas regras dele. Quem dispara torto fica preso no tier 1 pra sempre. Quem dispara certo sobe em 14 dias.\n\nA Meta avalia 3 sinais 24h/dia: clientes não bloqueando, taxa de resposta acima de 5%, mensagens não marcadas como spam. Quality rating high = sobe. Quality rating low = trava ou cai. Não é negociação. É algoritmo automático rodando o tempo todo.\n\n3 regras pra subir em 14 dias: usar template Marketing certificado pela Meta (aprovação em 2h, zero bloqueio); manter taxa de resposta acima de 8% disparando só pra base que conhece sua marca; aquecer com base pequena 3 dias antes de aumentar volume.\n\nTier não se compra. Se constrói. Quem trava no tier 1 não precisa de outra ferramenta. Precisa parar de disparar lista comprada e começar a disparar pra base que pediu pra receber.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Disparador inteligente que aplica as 3 regras automático: aquece, escolhe template, controla volume.\n\n—\ncarrossel feito no @krossel.app · template Industrial Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #tier #disparoseguro #meta #krossel",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-28/tier-meta-como-subir/slide_07.png"
-    ],
-    "media_id": "17885768355509943"
   },
   {
     "date": "2026-04-29",
@@ -2256,6 +2137,63 @@
   },
   {
     "date": "2026-04-30",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "template-reprovado",
+    "topic": "Template Meta reprovado: erro está na categoria, não no texto",
+    "dir": "workspace/2026-04-30/template-reprovado",
+    "status": "published",
+    "caption": "Você criou o template. A Meta reprovou. Trocou uma palavra, mandou de novo, rejeitado. O erro não tá no texto - tá na categoria.\n\nA Meta tem 3 categorias e cada uma aprova um tipo diferente de mensagem. Marketing aceita promo, oferta, lançamento - custa R$ 0,34 por conversa. Utility aceita lembrete, status, confirmação de pedido - texto neutro, sem call to action de venda - custa R$ 0,04. Authentication aceita só código de verificação, mesmo R$ 0,04.\n\nEm 80% das rejeições, o problema é colocar mensagem de venda na categoria Utility. A Meta espera que Utility pareça mensagem de banco: frase neutra, sem emoji, sem \"oferta limitada\".\n\nEm 10 mil disparos por mês, escolher a categoria errada custa R$ 3.000 a mais. Por engano de 30 segundos no setup do template.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o Mestre dos Templates: agente que analisa sua mensagem e te diz qual categoria escolher pra aprovar de primeira.\n\n—\ncarrossel feito no @krossel.app · template Bold Cultural\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #templates #meta #aprovacao #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/template-reprovado/slide_06.png"
+    ],
+    "media_id": "17916552264360312"
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "EXPRESS",
+    "title": "story-levantada-express",
+    "dir": "workspace/2026-04-30/story",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/story-levantada-express/slide-01.png"
+    ],
+    "media_id": "18017939261674120"
+  },
+  {
+    "date": "2026-04-30",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "cloudfy-1-clique",
+    "topic": "Cloudfy: n8n + Postgres + Chatwoot no ar com 1 clique",
+    "dir": "workspace/2026-04-30/cloudfy-1-clique",
+    "status": "published",
+    "caption": "A barreira da automação nunca foi a ferramenta. Foi sempre o setup do servidor.\n\nVocê abre tutorial de n8n, primeiro passo é \"acesse o terminal\". Você fecha. Já tinha tentado uma vez, travou no SSH, no docker compose, ficou 3 horas pra subir um servidor de um projeto de 2 dias. A automação morreu antes de começar - na linha de comando.\n\nCloudfy é uma plataforma brasileira que hospeda n8n + Postgres + Chatwoot na nuvem. Você abre o painel, escolhe o pacote API Oficial na Prática, clica em deploy. 3 minutos depois, n8n no ar com URL própria. Sem Linux, sem SSH, sem docker compose.\n\nTradeoff honesto: VPS DigitalOcean cru custa R$ 30/mês mas exige 3-8 horas de setup. Cloudfy custa R$ 89/mês e roda em 3 minutos. R$ 60 a mais pra você nunca abrir terminal. Pra quem não é dev, vale.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o deploy do Cloudfy ao vivo, do clique até o n8n rodando.\n\n—\ncarrossel feito no @krossel.app · template Narrativo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #cloudfy #infraestrutura #devops #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/cloudfy-1-clique/slide_07.png"
+    ],
+    "media_id": "17889872721356298"
+  },
+  {
+    "date": "2026-04-30",
     "slot": "evening",
     "time": "19:00",
     "type": "carousel",
@@ -2275,6 +2213,68 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-04-30/aluno-transformacao-case/slide_07.png"
     ],
     "media_id": "18093205588931276"
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "morning",
+    "time": "09:00",
+    "type": "carousel",
+    "funnel": "topo",
+    "title": "feriado-concorrente",
+    "topic": "Feriado: concorrente atendendo automático, você refém do chip",
+    "dir": "workspace/2026-05-01/feriado-concorrente",
+    "status": "published",
+    "caption": "Hoje é primeiro de maio. Sua loja tá fechada. Seu concorrente atendeu 47 leads.\n\nCada feriado nacional, sua operação para. O número de WhatsApp fica parado. Toda terça depois de feriado, vendedor passa a manhã pegando o atraso. 60 mensagens acumuladas, 3 leads quentes que esfriaram, 2 que já compraram do concorrente. Você só vê isso quando abre o WhatsApp.\n\nSeu concorrente configurou o agente SDR no API Oficial uma vez. Hoje, enquanto a família tava no almoço, o agente respondeu 47 conversas, qualificou 11 leads, marcou 4 reuniões pra terça. Custo do dia: R$ 8 em mensagens Marketing.\n\nSão 12 feriados nacionais por ano. Mais sábado e domingo, dá 110 dias com negócio fechado. Quem deixa o número parado nesses 110 dias perde 30% das oportunidades. Quem deixa o agente rodando, fatura nelas.\n\n💬 Comenta WABA aqui embaixo e te mando o link da aula gratuita - mostro o SDR Vendedor configurado uma vez, atendendo 24/7 sem precisar de você.\n\n—\ncarrossel feito no @krossel.app · template Editorial Premium\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #feriado #atendimento24h #sdr #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/feriado-concorrente/slide_06.png"
+    ],
+    "media_id": "18078437591549721"
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "story",
+    "time": "11:30",
+    "type": "story",
+    "product": "WABA",
+    "title": "story-feriado-uso-case",
+    "dir": "workspace/2026-05-01/story",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/story-feriado-uso-case/slide-04.png"
+    ],
+    "media_id": "18086042765358464"
+  },
+  {
+    "date": "2026-05-01",
+    "slot": "afternoon",
+    "time": "14:00",
+    "type": "carousel",
+    "funnel": "fundo",
+    "title": "300-pedidos-manual",
+    "topic": "Operação 300 pedidos/dia: 70% manual = R$ 156k/ano",
+    "dir": "workspace/2026-05-01/300-pedidos-manual",
+    "status": "published",
+    "caption": "Loja online faturando bem, 300 pedidos por dia, 4 atendentes no WhatsApp 12h por dia. 70% do que eles fazem é confirmação, endereço, código de rastreio, dúvida básica. Trabalho que IA faz melhor.\n\nCusto atual desse setup: R$ 13.000/mês. Folha de 4 atendentes + encargos. Anual: R$ 156.000.\n\nReorganização: 3 agentes IA fazem 70% do volume. Sobra 30% pros humanos: troca, devolução, problema fora do roteiro. 4 atendentes viram 1 sênior + 3 que migram pra venda ativa, prospecção e fidelização. Custo cai pra R$ 4.300/mês. Economia anual: R$ 104.400.\n\nReorganização leva 2 semanas, não 6 meses. Setup do API Oficial: 40 minutos. Mapear fluxos atuais: 1 semana. Treinar IA com seu catálogo: 3 dias. Acompanhar primeira semana ao vivo: 5 dias.\n\n300 pedidos hoje, 600 amanhã sem contratar ninguém, 1.000 daqui 3 meses sem multiplicar custo. A diferença é arquitetura - não esforço.\n\n💬 Comenta EXPRESS aqui embaixo e te mando o link da aula gratuita - mostro o setup feito comigo em 1 semana, com seu catálogo e fluxos integrados.\n\n—\ncarrossel feito no @krossel.app · template Industrial Completo\n\n#whatsapp #whatsappapi #automacao #n8n #marketingdigital #waba #escala #operacao #ecommerce #krossel",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-05-01/300-pedidos-manual/slide_09.png"
+    ],
+    "media_id": "17973378969012934"
   },
   {
     "date": "2026-05-01",
@@ -3068,6 +3068,28 @@
   },
   {
     "date": "2026-06-17",
+    "time": "11:30",
+    "type": "carousel",
+    "product": "ACADEMY",
+    "title": "troco",
+    "dir": "workspace/2026-06-15/troco",
+    "status": "published",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-09.png"
+    ],
+    "caption": "todo segundo que você espera a IA pensar, alguém podia estar te pagando. achei isso essa semana e fiquei pensando nisso.\n\nquando o Claude Code tá processando, aparece aquela linha boba do tipo \"Discombobulando...\". esse segundo ocioso é o público mais caro do mundo: dev pago, parado, olhando a tela. o Troco transforma essa linha numa linha de anúncio.\n\npro dev é simples: instala a extensão, continua codando normal, e o tempo ocioso vira saldo na status bar. lá fora isso já existe, mas paga em dólar no esquema gringo. a sacada aqui foi fazer em Pix: o saldo cai no seu, em real, na sua conta, e a chave é seu CPF, então é só isso pra começar a receber.\n\ndo lado do anunciante: o lance mínimo é R$ 10 por bloco de 1.000 impressões, e quem paga mais por bloco aparece com mais prioridade no spinner. é a audiência mais cara que existe, no segundo mais ocioso dela.\n\ne tráfego de bot nunca é pago: abrir 20 abas não multiplica nada, é 1 crédito por minuto com teto por dia. o pagamento é limpo.\n\ne repara: isso tá no ar, rodando, construído inteiro com Claude Code. o tipo de coisa que dá pra ter de pé hoje.\n\ndá uma olhada em troco.dev.\n\n#claudecode #pix #devbr",
+    "media_id": "18090218891615474"
+  },
+  {
+    "date": "2026-06-17",
     "time": "19:00",
     "type": "carousel",
     "product": "ACADEMY",
@@ -3254,28 +3276,6 @@
     "media_id": "18155603767470879"
   },
   {
-    "date": "2026-06-17",
-    "time": "11:30",
-    "type": "carousel",
-    "product": "ACADEMY",
-    "title": "troco",
-    "dir": "workspace/2026-06-15/troco",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-07.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-08.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-06-15/troco/slide-09.png"
-    ],
-    "caption": "todo segundo que você espera a IA pensar, alguém podia estar te pagando. achei isso essa semana e fiquei pensando nisso.\n\nquando o Claude Code tá processando, aparece aquela linha boba do tipo \"Discombobulando...\". esse segundo ocioso é o público mais caro do mundo: dev pago, parado, olhando a tela. o Troco transforma essa linha numa linha de anúncio.\n\npro dev é simples: instala a extensão, continua codando normal, e o tempo ocioso vira saldo na status bar. lá fora isso já existe, mas paga em dólar no esquema gringo. a sacada aqui foi fazer em Pix: o saldo cai no seu, em real, na sua conta, e a chave é seu CPF, então é só isso pra começar a receber.\n\ndo lado do anunciante: o lance mínimo é R$ 10 por bloco de 1.000 impressões, e quem paga mais por bloco aparece com mais prioridade no spinner. é a audiência mais cara que existe, no segundo mais ocioso dela.\n\ne tráfego de bot nunca é pago: abrir 20 abas não multiplica nada, é 1 crédito por minuto com teto por dia. o pagamento é limpo.\n\ne repara: isso tá no ar, rodando, construído inteiro com Claude Code. o tipo de coisa que dá pra ter de pé hoje.\n\ndá uma olhada em troco.dev.\n\n#claudecode #pix #devbr",
-    "media_id": "18090218891615474"
-  },
-  {
     "date": "2026-07-29",
     "time": "09:00",
     "type": "carousel",
@@ -3353,5 +3353,25 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-07-02/ui-certa/slide-07.png"
     ],
     "caption": "tem uma skill de design pra landing page e outra pra dashboard. usar a errada te dá o contrário do que você quer.\n\n\"skill de design\" parece uma coisa só, mas são duas e resolvem problemas opostos. marketing UI, pra landing e portfolio, o jogo é chamar atenção e ter ponto de vista. functional UI, pra dashboard e app, o jogo é consistência e hierarquia.\n\ntrocou uma pela outra e deu ruim: ou a landing sai sem alma, ou o dashboard sai gritando.\n\na skill de marketing quebra o padrão de propósito, foge do template genérico que todo mundo entrega. a de dashboard faz o oposto: prioriza coerência de componente e hierarquia, nada de firula. dá pra ter as duas e escolher qual ativar por projeto.\n\nquem entende essa distinção entrega design melhor que a maioria dos usuários do Claude Code. é vantagem de conhecimento, não de modelo.\n\nquer aprender a criar e organizar suas próprias skills? comenta CLAUDE.\n\n#claudecode #ia"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "grill-me",
+    "dir": "workspace/2026-08-26/grill-me",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-26/grill-me/slide-08.png"
+    ],
+    "caption": "Você pediu uma landing page pro Claude. Ele começou a inventar seções. Hero. CTA. Cores da marca. Você não falou nada disso.\n\nDuas horas depois, abriu o resultado. Não era isso.\n\nAí você descobriu uma skill do Matt Pocock chamada grill-me. Em vez dele sair construindo, ele te entrevista primeiro. Rodadas numeradas. Cada pergunta com a recomendação dele embaixo.\n\nA entrevista só acaba quando não sobra decisão. Aí você confirma que chegaram no mesmo lugar, e ele organiza tudo num documento de uma página. Depois quebra em tarefas. Cada tarefa declara o que trava ela.\n\nQuarenta minutos entre o pedido e a lista de tarefas. Sem uma linha de código.\n\nNo Claude Code na Prática você aprende esse processo. É o módulo de Skills, do grill-me até a página no ar.\n\ncomenta CLAUDE\n\n#claudecode #automacao #inteligenciaartificial #ia"
   }
 ]
