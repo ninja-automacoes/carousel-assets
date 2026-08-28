@@ -3407,7 +3407,7 @@
     "product": "CLAUDE",
     "title": "crm-entrevista",
     "dir": "workspace/2026-08-28/crm-entrevista",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-02.png",
@@ -3418,6 +3418,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/crm-entrevista/slide-08.png"
     ],
-    "caption": "Você tem um CRM. Ele se chama busca do WhatsApp.\n\nToda vez que um cliente pergunta de um orçamento antigo, você sobe a conversa rolando até achar. Se achar. Uma planilha chegou a existir, o CRM pago por assento também, e hoje os dois são enfeite.\n\nO prejuízo aparece no follow-up que ninguém deu: orçamento de maio esfriou e o cliente fechou com o concorrente sem avisar.\n\nEu resolvi isso digitando um comando no terminal. O Claude Code fez o contrário do que eu esperava: antes de gerar qualquer código, ele me entrevistou. O que eu vendo, pra quem, quanto custa, como eu falo com cliente. Eu respondi como se fosse áudio de WhatsApp e ele construiu o CRM a partir disso: cadastro que nasce da conversa, lembrete de follow-up, histórico por cliente.\n\nNenhuma linha escrita por mim. O sistema roda no seu ambiente e o custo é a assinatura da Anthropic, sem cobrança por assento.\n\nSe você também controla cliente pelo WhatsApp e já perdeu follow-up na rolagem, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
+    "caption": "Você tem um CRM. Ele se chama busca do WhatsApp.\n\nToda vez que um cliente pergunta de um orçamento antigo, você sobe a conversa rolando até achar. Se achar. Uma planilha chegou a existir, o CRM pago por assento também, e hoje os dois são enfeite.\n\nO prejuízo aparece no follow-up que ninguém deu: orçamento de maio esfriou e o cliente fechou com o concorrente sem avisar.\n\nEu resolvi isso digitando um comando no terminal. O Claude Code fez o contrário do que eu esperava: antes de gerar qualquer código, ele me entrevistou. O que eu vendo, pra quem, quanto custa, como eu falo com cliente. Eu respondi como se fosse áudio de WhatsApp e ele construiu o CRM a partir disso: cadastro que nasce da conversa, lembrete de follow-up, histórico por cliente.\n\nNenhuma linha escrita por mim. O sistema roda no seu ambiente e o custo é a assinatura da Anthropic, sem cobrança por assento.\n\nSe você também controla cliente pelo WhatsApp e já perdeu follow-up na rolagem, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia",
+    "media_id": "18387069862207819"
   }
 ]
