@@ -3428,7 +3428,7 @@
     "product": "CLAUDE",
     "title": "dado-do-cliente",
     "dir": "workspace/2026-08-28/dado-do-cliente",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/dado-do-cliente/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/dado-do-cliente/slide-02.png",
@@ -3439,6 +3439,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/dado-do-cliente/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-28/dado-do-cliente/slide-08.png"
     ],
-    "caption": "advogado, médico e contador têm dinheiro, têm um problema que a IA resolve, e não podem mandar o dado do cliente pra fora.\n\ntoda IA que você conhece pede o mesmo gesto: abrir o chat, colar o texto, apertar enviar. no caso do seu cliente, esse gesto é o problema. então você fecha a aba e resolve no manual, que é o que sempre fez.\n\njá vi muita gente tentar o meio termo: anonimiza o caso, cola, e a resposta volta genérica, porque o que importava tava no nome, no valor, no CNPJ.\n\no Claude Code funciona diferente. ele roda no seu computador, no terminal, com acesso à sua pasta. você não cola contrato em janela de chat: aponta a pasta do cliente e o agente lê os arquivos de lá, revisa cláusula, cruza lançamento com nota, resume processo de 200 páginas.\n\nsendo honesto com você: o modelo roda na nuvem da Anthropic, isso é fato. o que muda é o fluxo. em vez de colar conteúdo em chat aberto, você aponta arquivo na sua máquina e controla o que o agente vai ver. se o dado nem pode sair da rede de jeito nenhum, aí é outro jogo e a gente conversa depois.\n\nse você trabalha com informação de cliente e travou nessa trava todo dia, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia #automacao"
+    "caption": "advogado, médico e contador têm dinheiro, têm um problema que a IA resolve, e não podem mandar o dado do cliente pra fora.\n\ntoda IA que você conhece pede o mesmo gesto: abrir o chat, colar o texto, apertar enviar. no caso do seu cliente, esse gesto é o problema. então você fecha a aba e resolve no manual, que é o que sempre fez.\n\njá vi muita gente tentar o meio termo: anonimiza o caso, cola, e a resposta volta genérica, porque o que importava tava no nome, no valor, no CNPJ.\n\no Claude Code funciona diferente. ele roda no seu computador, no terminal, com acesso à sua pasta. você não cola contrato em janela de chat: aponta a pasta do cliente e o agente lê os arquivos de lá, revisa cláusula, cruza lançamento com nota, resume processo de 200 páginas.\n\nsendo honesto com você: o modelo roda na nuvem da Anthropic, isso é fato. o que muda é o fluxo. em vez de colar conteúdo em chat aberto, você aponta arquivo na sua máquina e controla o que o agente vai ver. se o dado nem pode sair da rede de jeito nenhum, aí é outro jogo e a gente conversa depois.\n\nse você trabalha com informação de cliente e travou nessa trava todo dia, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia #automacao",
+    "media_id": "17909716950279480"
   }
 ]
