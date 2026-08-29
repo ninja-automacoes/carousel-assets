@@ -3428,7 +3428,7 @@
     "product": "CLAUDE",
     "title": "recibos-nao-projetos",
     "dir": "workspace/2026-08-29/recibos-nao-projetos",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/recibos-nao-projetos/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/recibos-nao-projetos/slide-02.png",
@@ -3439,7 +3439,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/recibos-nao-projetos/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/recibos-nao-projetos/slide-08.png"
     ],
-    "caption": "voce abre o notion. tem dashboard que construiu, CRM que automatizou, bot de WhatsApp, landing page, pipeline de conteudo. cada um com screenshot do terminal rodando. voce sente ali que sabe fazer. sabe mesmo. mas o notion ta cheio e a conta bancaria nao.\n\nai voce manda o link do portfolio pra prospect. ele abre, ve screenshot de codigo, nao entende o que ta vendo, e responde com \"valeu, vou analisar\". nunca responde de novo. nao e que ele nao valorize seu trabalho. ele nao tem como saber se aquilo funcionou.\n\nconstruir com IA virou barato. todo mundo tem screenshot de agente rodando. o portfolio comoditizou. o que o cliente compra e o numero que moveu: resposta caiu de 8 horas pra 12 minutos. conversao subiu de 3% pra 7% em 4 semanas. isso e recibo.\n\num recibo tem tres partes: o numero de antes, o numero de depois, e o tempo que levou. se voce nao tem cliente ainda, mede no seu proprio processo. quanto tempo levava pra criar um post, quanto leva agora.\n\no PME brasileiro que vai te pagar nao distingue quem sabe de quem colou um prompt. ele ja comprou curso de IA de gente que nao entregou nada. recibo e a unica linguagem que atravessa o gap tecnico. voce chega na conversa com 3 numeros prontos ou chega pedindo chance. so um desses fecha.\n\nse voce constroi com IA mas ainda mostra screenshot em vez de resultado, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia #automacao"
+    "caption": "voce abre o notion. tem dashboard que construiu, CRM que automatizou, bot de WhatsApp, landing page, pipeline de conteudo. cada um com screenshot do terminal rodando. voce sente ali que sabe fazer. sabe mesmo. mas o notion ta cheio e a conta bancaria nao.\n\nai voce manda o link do portfolio pra prospect. ele abre, ve screenshot de codigo, nao entende o que ta vendo, e responde com \"valeu, vou analisar\". nunca responde de novo. nao e que ele nao valorize seu trabalho. ele nao tem como saber se aquilo funcionou.\n\nconstruir com IA virou barato. todo mundo tem screenshot de agente rodando. o portfolio comoditizou. o que o cliente compra e o numero que moveu: resposta caiu de 8 horas pra 12 minutos. conversao subiu de 3% pra 7% em 4 semanas. isso e recibo.\n\num recibo tem tres partes: o numero de antes, o numero de depois, e o tempo que levou. se voce nao tem cliente ainda, mede no seu proprio processo. quanto tempo levava pra criar um post, quanto leva agora.\n\no PME brasileiro que vai te pagar nao distingue quem sabe de quem colou um prompt. ele ja comprou curso de IA de gente que nao entregou nada. recibo e a unica linguagem que atravessa o gap tecnico. voce chega na conversa com 3 numeros prontos ou chega pedindo chance. so um desses fecha.\n\nse voce constroi com IA mas ainda mostra screenshot em vez de resultado, comenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia #automacao",
+    "media_id": "18168372388460809"
   },
   {
     "date": "2026-08-29",
