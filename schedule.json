@@ -3470,7 +3470,7 @@
     "product": "CLAUDE",
     "title": "site-agent-ready",
     "dir": "workspace/2026-08-29/site-agent-ready",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/site-agent-ready/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/site-agent-ready/slide-02.png",
@@ -3481,6 +3481,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/site-agent-ready/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-29/site-agent-ready/slide-08.png"
     ],
-    "caption": "O dentista da sua cidade paga R$ 4.000 por mês pra aparecer no Google. E pra nenhum agente de IA.\n\nQuinta à noite, call com cliente. Ele pergunta \"a IA me acha?\". Abri o ChatGPT ali mesmo e perguntei pelo negócio dele. Resposta errada, desatualizada. O site dele só fala com o Google.\n\nO que mudou: o WebMCP, do Google e da Microsoft, experimental no Chrome, deixa o site declarar ferramentas que o agente usa direto na sessão do navegador. Sem API key nova, sem servidor. Na demo oficial, o agente compara duas máquinas de espresso pelas specs do próprio site da loja, aplica o cupom e monta o carrinho sozinho.\n\nE aqui mora o serviço: negócios chatos, advogado, dentista, HVAC, têm dinheiro e têm um problema que a IA resolve, mas o site tá cego pra isso. Conversão agent-ready com retainer, ou mystery shopper mostrando onde o agente trava no checkout do cliente. É flag experimental, então o momento é aprender agora e cobrar quando sair de flag. O pacote MCP + WebMCP já é vendível hoje.\n\nMCP tá nos fundamentos do Claude Code na Prática. Quem já configura MCP entende WebMCP em uma tarde.\n\nComenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia"
+    "caption": "O dentista da sua cidade paga R$ 4.000 por mês pra aparecer no Google. E pra nenhum agente de IA.\n\nQuinta à noite, call com cliente. Ele pergunta \"a IA me acha?\". Abri o ChatGPT ali mesmo e perguntei pelo negócio dele. Resposta errada, desatualizada. O site dele só fala com o Google.\n\nO que mudou: o WebMCP, do Google e da Microsoft, experimental no Chrome, deixa o site declarar ferramentas que o agente usa direto na sessão do navegador. Sem API key nova, sem servidor. Na demo oficial, o agente compara duas máquinas de espresso pelas specs do próprio site da loja, aplica o cupom e monta o carrinho sozinho.\n\nE aqui mora o serviço: negócios chatos, advogado, dentista, HVAC, têm dinheiro e têm um problema que a IA resolve, mas o site tá cego pra isso. Conversão agent-ready com retainer, ou mystery shopper mostrando onde o agente trava no checkout do cliente. É flag experimental, então o momento é aprender agora e cobrar quando sair de flag. O pacote MCP + WebMCP já é vendível hoje.\n\nMCP tá nos fundamentos do Claude Code na Prática. Quem já configura MCP entende WebMCP em uma tarde.\n\nComenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia",
+    "media_id": "17869097424638345"
   }
 ]
