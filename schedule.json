@@ -3483,5 +3483,49 @@
     ],
     "caption": "O dentista da sua cidade paga R$ 4.000 por mês pra aparecer no Google. E pra nenhum agente de IA.\n\nQuinta à noite, call com cliente. Ele pergunta \"a IA me acha?\". Abri o ChatGPT ali mesmo e perguntei pelo negócio dele. Resposta errada, desatualizada. O site dele só fala com o Google.\n\nO que mudou: o WebMCP, do Google e da Microsoft, experimental no Chrome, deixa o site declarar ferramentas que o agente usa direto na sessão do navegador. Sem API key nova, sem servidor. Na demo oficial, o agente compara duas máquinas de espresso pelas specs do próprio site da loja, aplica o cupom e monta o carrinho sozinho.\n\nE aqui mora o serviço: negócios chatos, advogado, dentista, HVAC, têm dinheiro e têm um problema que a IA resolve, mas o site tá cego pra isso. Conversão agent-ready com retainer, ou mystery shopper mostrando onde o agente trava no checkout do cliente. É flag experimental, então o momento é aprender agora e cobrar quando sair de flag. O pacote MCP + WebMCP já é vendível hoje.\n\nMCP tá nos fundamentos do Claude Code na Prática. Quem já configura MCP entende WebMCP em uma tarde.\n\nComenta CLAUDE que eu te mando o link.\n\n#claudecode #agentesia",
     "media_id": "17869097424638345"
+  },
+  {
+    "date": "2026-08-31",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "entrevista-consultor",
+    "dir": "workspace/2026-08-31/entrevista-consultor",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-10.png"
+    ],
+    "caption": "Voce explicou o projeto pro agente em 5 minutos. Ele construiu rapido. E veio errado.\n\nO problema nunca foi a velocidade. Foi o que voce nao falou: sua regra de preco, o jeito que voce atende, o que o seu cliente odeia. Isso tava na sua cabeca e o agente nao tem como adivinhar.\n\nO consultor que cobra R$ 2.000 resolve isso de um jeito simples: te entrevista ate o seu processo virar documento. Voce pode fazer o agente fazer isso com voce. Uma pergunta por vez, ate nao sobrar buraco, e tudo salvo num doc que ele reusa depois.\n\nFunciona pra processo de cliente, precificacao, funil, qualquer coisa que so voce sabe.\n\nComenta CLAUDE que eu te mostro como montar essa entrevista no Claude Code.\n\n#claudecode #ia #automacao"
+  },
+  {
+    "date": "2026-08-31",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "agente-planilha-officecli",
+    "dir": "workspace/2026-08-31/agente-planilha-officecli",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-10.png"
+    ],
+    "caption": "Voce pediu pro agente atualizar a planilha de clientes. Ele ate tentou. O que voltou foi um arquivo que o Excel nao abre, ou pior, abriu e perdeu a formula toda.\n\nO motivo e chato de ouvir: arquivo do Office e um zip cheio de XML dentro. Sem a ferramenta certa, o agente chuta e o chute estraga o arquivo.\n\nAi entrou o OfficeCLI, uma CLI open source do pessoal da iOfficeAI (github.com/iOfficeAI). Ela da pro Claude Code uma camada propria pra ler e editar Word, Excel e PowerPoint direto no terminal. Sem instalar Office, sem print, sem gambiarra de macro.\n\nTestei aqui com a planilha de clientes do CRM. Ele leu, atualizou o que pedi e entregou o arquivo de volta. O que era uma tarde de copiar e colar virou um comando.\n\nSe voce vive de planilha, contrato e apresentacao, isso muda o seu dia.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao"
   }
 ]
