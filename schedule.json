@@ -3513,7 +3513,7 @@
     "product": "CLAUDE",
     "title": "agente-planilha-officecli",
     "dir": "workspace/2026-08-31/agente-planilha-officecli",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-02.png",
@@ -3526,6 +3526,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/agente-planilha-officecli/slide-10.png"
     ],
-    "caption": "Voce pediu pro agente atualizar a planilha de clientes. Ele ate tentou. O que voltou foi um arquivo que o Excel nao abre, ou pior, abriu e perdeu a formula toda.\n\nO motivo e chato de ouvir: arquivo do Office e um zip cheio de XML dentro. Sem a ferramenta certa, o agente chuta e o chute estraga o arquivo.\n\nAi entrou o OfficeCLI, uma CLI open source do pessoal da iOfficeAI (github.com/iOfficeAI). Ela da pro Claude Code uma camada propria pra ler e editar Word, Excel e PowerPoint direto no terminal. Sem instalar Office, sem print, sem gambiarra de macro.\n\nTestei aqui com a planilha de clientes do CRM. Ele leu, atualizou o que pedi e entregou o arquivo de volta. O que era uma tarde de copiar e colar virou um comando.\n\nSe voce vive de planilha, contrato e apresentacao, isso muda o seu dia.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao"
+    "caption": "Voce pediu pro agente atualizar a planilha de clientes. Ele ate tentou. O que voltou foi um arquivo que o Excel nao abre, ou pior, abriu e perdeu a formula toda.\n\nO motivo e chato de ouvir: arquivo do Office e um zip cheio de XML dentro. Sem a ferramenta certa, o agente chuta e o chute estraga o arquivo.\n\nAi entrou o OfficeCLI, uma CLI open source do pessoal da iOfficeAI (github.com/iOfficeAI). Ela da pro Claude Code uma camada propria pra ler e editar Word, Excel e PowerPoint direto no terminal. Sem instalar Office, sem print, sem gambiarra de macro.\n\nTestei aqui com a planilha de clientes do CRM. Ele leu, atualizou o que pedi e entregou o arquivo de volta. O que era uma tarde de copiar e colar virou um comando.\n\nSe voce vive de planilha, contrato e apresentacao, isso muda o seu dia.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao",
+    "media_id": "18134883292615740"
   }
 ]
