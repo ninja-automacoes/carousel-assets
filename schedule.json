@@ -3491,7 +3491,7 @@
     "product": "CLAUDE",
     "title": "entrevista-consultor",
     "dir": "workspace/2026-08-31/entrevista-consultor",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-02.png",
@@ -3504,7 +3504,8 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-08-31/entrevista-consultor/slide-10.png"
     ],
-    "caption": "Voce explicou o projeto pro agente em 5 minutos. Ele construiu rapido. E veio errado.\n\nO problema nunca foi a velocidade. Foi o que voce nao falou: sua regra de preco, o jeito que voce atende, o que o seu cliente odeia. Isso tava na sua cabeca e o agente nao tem como adivinhar.\n\nO consultor que cobra R$ 2.000 resolve isso de um jeito simples: te entrevista ate o seu processo virar documento. Voce pode fazer o agente fazer isso com voce. Uma pergunta por vez, ate nao sobrar buraco, e tudo salvo num doc que ele reusa depois.\n\nFunciona pra processo de cliente, precificacao, funil, qualquer coisa que so voce sabe.\n\nComenta CLAUDE que eu te mostro como montar essa entrevista no Claude Code.\n\n#claudecode #ia #automacao"
+    "caption": "Voce explicou o projeto pro agente em 5 minutos. Ele construiu rapido. E veio errado.\n\nO problema nunca foi a velocidade. Foi o que voce nao falou: sua regra de preco, o jeito que voce atende, o que o seu cliente odeia. Isso tava na sua cabeca e o agente nao tem como adivinhar.\n\nO consultor que cobra R$ 2.000 resolve isso de um jeito simples: te entrevista ate o seu processo virar documento. Voce pode fazer o agente fazer isso com voce. Uma pergunta por vez, ate nao sobrar buraco, e tudo salvo num doc que ele reusa depois.\n\nFunciona pra processo de cliente, precificacao, funil, qualquer coisa que so voce sabe.\n\nComenta CLAUDE que eu te mostro como montar essa entrevista no Claude Code.\n\n#claudecode #ia #automacao",
+    "media_id": "18057468173559644"
   },
   {
     "date": "2026-09-01",
