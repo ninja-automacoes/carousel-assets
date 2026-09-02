@@ -3537,7 +3537,7 @@
     "product": "CLAUDE",
     "title": "editor-video-subagents",
     "dir": "workspace/2026-09-01/editor-video-subagents",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-02.png",
@@ -3550,6 +3550,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-10.png"
     ],
-    "caption": "Voce gravou 5 takes do mesmo reel. Agora vem a parte que ninguem mostra no tutorial: abrir o editor, assistir tudo e escolher.\n\nA gravacao dura cinco minutos. O corte custa quarenta. Achar a toma boa, tirar o 'um', legenda, exportar. E amanha tem outro video.\n\nVoce ja tentou app automatico. Corta no meio da palavra, legenda errada, ritmo de video institucional. No fim voltou pro editor, fazendo na mao o que jura que ia delegar.\n\nAi entra o pipeline que o Greg Isenberg demonstrou: o Claude Code orquestra a edicao com sub-agents. Um transcreve com Whisper, outro assiste os takes e escolhe o de mais energia, outro escreve o JSON descrevendo onde corta. O FFmpeg renderiza.\n\nE o detalhe que muda tudo: o comando /goal. Voce escreve seus criterios (ritmo, cor, transicao) e o agente refaz o corte ate o video passar. Ele corrige o proprio trabalho em vez de te entregar o primeiro rascunho.\n\nNa sexta eu gravei um video em cinco minutos. Em outros dez ele tava pronto pra publicar, corte dos erros, legenda, elementos visuais. Esse reel que voce viu no feed saiu desse pipeline.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao #videoediting"
+    "caption": "Voce gravou 5 takes do mesmo reel. Agora vem a parte que ninguem mostra no tutorial: abrir o editor, assistir tudo e escolher.\n\nA gravacao dura cinco minutos. O corte custa quarenta. Achar a toma boa, tirar o 'um', legenda, exportar. E amanha tem outro video.\n\nVoce ja tentou app automatico. Corta no meio da palavra, legenda errada, ritmo de video institucional. No fim voltou pro editor, fazendo na mao o que jura que ia delegar.\n\nAi entra o pipeline que o Greg Isenberg demonstrou: o Claude Code orquestra a edicao com sub-agents. Um transcreve com Whisper, outro assiste os takes e escolhe o de mais energia, outro escreve o JSON descrevendo onde corta. O FFmpeg renderiza.\n\nE o detalhe que muda tudo: o comando /goal. Voce escreve seus criterios (ritmo, cor, transicao) e o agente refaz o corte ate o video passar. Ele corrige o proprio trabalho em vez de te entregar o primeiro rascunho.\n\nNa sexta eu gravei um video em cinco minutos. Em outros dez ele tava pronto pra publicar, corte dos erros, legenda, elementos visuais. Esse reel que voce viu no feed saiu desse pipeline.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao #videoediting",
+    "media_id": "18138491737591864"
   }
 ]
