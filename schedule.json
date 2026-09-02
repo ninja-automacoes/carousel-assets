@@ -3529,5 +3529,28 @@
     ],
     "caption": "Voce pediu pro agente atualizar a planilha de clientes. Ele ate tentou. O que voltou foi um arquivo que o Excel nao abre, ou pior, abriu e perdeu a formula toda.\n\nO motivo e chato de ouvir: arquivo do Office e um zip cheio de XML dentro. Sem a ferramenta certa, o agente chuta e o chute estraga o arquivo.\n\nAi entrou o OfficeCLI, uma CLI open source do pessoal da iOfficeAI (github.com/iOfficeAI). Ela da pro Claude Code uma camada propria pra ler e editar Word, Excel e PowerPoint direto no terminal. Sem instalar Office, sem print, sem gambiarra de macro.\n\nTestei aqui com a planilha de clientes do CRM. Ele leu, atualizou o que pedi e entregou o arquivo de volta. O que era uma tarde de copiar e colar virou um comando.\n\nSe voce vive de planilha, contrato e apresentacao, isso muda o seu dia.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao",
     "media_id": "18134883292615740"
+  },
+  {
+    "date": "2026-09-02",
+    "time": "10:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "editor-video-subagents",
+    "dir": "workspace/2026-09-01/editor-video-subagents",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-10.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-01/editor-video-subagents/slide-11.png"
+    ],
+    "caption": "Voce gravou 5 takes do mesmo reel. Agora vem a parte que ninguem mostra no tutorial: abrir o editor, assistir tudo e escolher.\n\nA gravacao dura cinco minutos. O corte custa quarenta. Achar a toma boa, tirar o 'um', legenda, exportar. E amanha tem outro video.\n\nVoce ja tentou app automatico. Corta no meio da palavra, legenda errada, ritmo de video institucional. No fim voltou pro editor, fazendo na mao o que jura que ia delegar.\n\nAi entra o pipeline que o Greg Isenberg demonstrou: o Claude Code orquestra a edicao com sub-agents. Um transcreve com Whisper, outro assiste os takes e escolhe o de mais energia, outro escreve o JSON descrevendo onde corta. O FFmpeg renderiza.\n\nE o detalhe que muda tudo: o comando /goal. Voce escreve seus criterios (ritmo, cor, transicao) e o agente refaz o corte ate o video passar. Ele corrige o proprio trabalho em vez de te entregar o primeiro rascunho.\n\nNa sexta eu gravei um video em cinco minutos. Em outros dez ele tava pronto pra publicar, corte dos erros, legenda, elementos visuais. Esse reel que voce viu no feed saiu desse pipeline.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao #videoediting"
   }
 ]
