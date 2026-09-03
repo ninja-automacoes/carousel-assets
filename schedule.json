@@ -3552,5 +3552,27 @@
     ],
     "caption": "Voce gravou 5 takes do mesmo reel. Agora vem a parte que ninguem mostra no tutorial: abrir o editor, assistir tudo e escolher.\n\nA gravacao dura cinco minutos. O corte custa quarenta. Achar a toma boa, tirar o 'um', legenda, exportar. E amanha tem outro video.\n\nVoce ja tentou app automatico. Corta no meio da palavra, legenda errada, ritmo de video institucional. No fim voltou pro editor, fazendo na mao o que jura que ia delegar.\n\nAi entra o pipeline que o Greg Isenberg demonstrou: o Claude Code orquestra a edicao com sub-agents. Um transcreve com Whisper, outro assiste os takes e escolhe o de mais energia, outro escreve o JSON descrevendo onde corta. O FFmpeg renderiza.\n\nE o detalhe que muda tudo: o comando /goal. Voce escreve seus criterios (ritmo, cor, transicao) e o agente refaz o corte ate o video passar. Ele corrige o proprio trabalho em vez de te entregar o primeiro rascunho.\n\nNa sexta eu gravei um video em cinco minutos. Em outros dez ele tava pronto pra publicar, corte dos erros, legenda, elementos visuais. Esse reel que voce viu no feed saiu desse pipeline.\n\nComenta CLAUDE que eu te mando o passo a passo pra montar isso no Claude Code.\n\n#claudecode #ia #automacao #videoediting",
     "media_id": "18114276839008186"
+  },
+  {
+    "date": "2026-09-03",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "agentes-instrumento-nao-funcionarios",
+    "dir": "workspace/2026-09-02/agentes-instrumento-nao-funcionarios",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-10.png"
+    ],
+    "caption": "Coloque uma planilha de Excel no organograma da sua empresa. Foi assim que Simon Willison, uma das referências mais respeitadas em LLM, resumiu o erro de chamar agente de IA de \"funcionário\".\n\nFuncionário você delega e fiscaliza. Instrumento você opera e refina na hora. Quando você monta \"departamento de IA\" com org chart e AI Manager, paga caro por uma estrutura que trava o resultado. Quando você opera o agente direto, vê o resultado na mesma sessão.\n\nEu ensino esse jeito de trabalhar no Claude Code na Prática: loop curto, decisão sua, execução dele.\n\nComenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao"
   }
 ]
