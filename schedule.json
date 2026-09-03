@@ -3560,7 +3560,7 @@
     "product": "CLAUDE",
     "title": "agentes-instrumento-nao-funcionarios",
     "dir": "workspace/2026-09-02/agentes-instrumento-nao-funcionarios",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-02.png",
@@ -3573,6 +3573,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-02/agentes-instrumento-nao-funcionarios/slide-10.png"
     ],
-    "caption": "Coloque uma planilha de Excel no organograma da sua empresa. Foi assim que Simon Willison, uma das referências mais respeitadas em LLM, resumiu o erro de chamar agente de IA de \"funcionário\".\n\nFuncionário você delega e fiscaliza. Instrumento você opera e refina na hora. Quando você monta \"departamento de IA\" com org chart e AI Manager, paga caro por uma estrutura que trava o resultado. Quando você opera o agente direto, vê o resultado na mesma sessão.\n\nEu ensino esse jeito de trabalhar no Claude Code na Prática: loop curto, decisão sua, execução dele.\n\nComenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao"
+    "caption": "Coloque uma planilha de Excel no organograma da sua empresa. Foi assim que Simon Willison, uma das referências mais respeitadas em LLM, resumiu o erro de chamar agente de IA de \"funcionário\".\n\nFuncionário você delega e fiscaliza. Instrumento você opera e refina na hora. Quando você monta \"departamento de IA\" com org chart e AI Manager, paga caro por uma estrutura que trava o resultado. Quando você opera o agente direto, vê o resultado na mesma sessão.\n\nEu ensino esse jeito de trabalhar no Claude Code na Prática: loop curto, decisão sua, execução dele.\n\nComenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao",
+    "media_id": "17892202269671999"
   }
 ]
