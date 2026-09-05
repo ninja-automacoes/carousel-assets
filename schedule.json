@@ -3575,5 +3575,27 @@
     ],
     "caption": "Coloque uma planilha de Excel no organograma da sua empresa. Foi assim que Simon Willison, uma das referências mais respeitadas em LLM, resumiu o erro de chamar agente de IA de \"funcionário\".\n\nFuncionário você delega e fiscaliza. Instrumento você opera e refina na hora. Quando você monta \"departamento de IA\" com org chart e AI Manager, paga caro por uma estrutura que trava o resultado. Quando você opera o agente direto, vê o resultado na mesma sessão.\n\nEu ensino esse jeito de trabalhar no Claude Code na Prática: loop curto, decisão sua, execução dele.\n\nComenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao",
     "media_id": "17892202269671999"
+  },
+  {
+    "date": "2026-09-05",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "agente-sabe-o-que-nao-devia",
+    "dir": "workspace/2026-09-05/agente-sabe-o-que-nao-devia",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-10.png"
+    ],
+    "caption": "Você digitou a senha dentro do chat do agente? Então ela agora faz parte da memória dele. O vídeo do Nate Herk que passou de 99 mil views destrincha um conceito que quase ninguém aplica: existe memória global (todo agente vê) e memória por bot. No Claude Code, o CLAUDE.md e a memória de projeto fazem essa divisão.\n\nO erro comum é tratar o chat como bloco de rascunho. Senha da API pra \"testar rapidinho\", dado de cliente no meio do prompt, estratégia de preço num parágrafo. Tudo isso vira contexto permanente e pode sair em qualquer resposta futura.\n\nA regra é curta: keys, not prompts. Credencial fica em permissão e variável de ambiente, fora da conversa. Se já vazou, rotacione.\n\nNo Claude Code na Prática eu ensino a configurar isso antes do vazamento. Comenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao\n"
   }
 ]
