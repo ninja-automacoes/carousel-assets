@@ -3583,7 +3583,7 @@
     "product": "CLAUDE",
     "title": "agente-sabe-o-que-nao-devia",
     "dir": "workspace/2026-09-05/agente-sabe-o-que-nao-devia",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-02.png",
@@ -3596,6 +3596,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-05/agente-sabe-o-que-nao-devia/slide-10.png"
     ],
-    "caption": "Você digitou a senha dentro do chat do agente? Então ela agora faz parte da memória dele. O vídeo do Nate Herk que passou de 99 mil views destrincha um conceito que quase ninguém aplica: existe memória global (todo agente vê) e memória por bot. No Claude Code, o CLAUDE.md e a memória de projeto fazem essa divisão.\n\nO erro comum é tratar o chat como bloco de rascunho. Senha da API pra \"testar rapidinho\", dado de cliente no meio do prompt, estratégia de preço num parágrafo. Tudo isso vira contexto permanente e pode sair em qualquer resposta futura.\n\nA regra é curta: keys, not prompts. Credencial fica em permissão e variável de ambiente, fora da conversa. Se já vazou, rotacione.\n\nNo Claude Code na Prática eu ensino a configurar isso antes do vazamento. Comenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao\n"
+    "caption": "Você digitou a senha dentro do chat do agente? Então ela agora faz parte da memória dele. O vídeo do Nate Herk que passou de 99 mil views destrincha um conceito que quase ninguém aplica: existe memória global (todo agente vê) e memória por bot. No Claude Code, o CLAUDE.md e a memória de projeto fazem essa divisão.\n\nO erro comum é tratar o chat como bloco de rascunho. Senha da API pra \"testar rapidinho\", dado de cliente no meio do prompt, estratégia de preço num parágrafo. Tudo isso vira contexto permanente e pode sair em qualquer resposta futura.\n\nA regra é curta: keys, not prompts. Credencial fica em permissão e variável de ambiente, fora da conversa. Se já vazou, rotacione.\n\nNo Claude Code na Prática eu ensino a configurar isso antes do vazamento. Comenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao\n",
+    "media_id": "18131788486641820"
   }
 ]
