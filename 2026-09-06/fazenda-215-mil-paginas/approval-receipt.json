@@ -1,0 +1,7 @@
+{
+  "approval": "sim",
+  "approved_at": "2026-09-06T15:16:58.981095+00:00",
+  "scheduled_for": "2026-09-06T09:00:00-03:00",
+  "note": "Aprovação explícita recebida no Slack (Matheus Pessoa). n8n fará a publicação no horário.",
+  "artifact_sha256": "88916c09538002185c05b11cc1cb9322c873eb6de0572731e84b7a275a077208"
+}

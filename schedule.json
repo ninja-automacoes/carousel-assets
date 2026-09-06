@@ -3598,5 +3598,27 @@
     ],
     "caption": "Você digitou a senha dentro do chat do agente? Então ela agora faz parte da memória dele. O vídeo do Nate Herk que passou de 99 mil views destrincha um conceito que quase ninguém aplica: existe memória global (todo agente vê) e memória por bot. No Claude Code, o CLAUDE.md e a memória de projeto fazem essa divisão.\n\nO erro comum é tratar o chat como bloco de rascunho. Senha da API pra \"testar rapidinho\", dado de cliente no meio do prompt, estratégia de preço num parágrafo. Tudo isso vira contexto permanente e pode sair em qualquer resposta futura.\n\nA regra é curta: keys, not prompts. Credencial fica em permissão e variável de ambiente, fora da conversa. Se já vazou, rotacione.\n\nNo Claude Code na Prática eu ensino a configurar isso antes do vazamento. Comenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao\n",
     "media_id": "18131788486641820"
+  },
+  {
+    "date": "2026-09-06",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "fazenda-215-mil-paginas",
+    "dir": "workspace/2026-09-06/fazenda-215-mil-paginas",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-06/fazenda-215-mil-paginas/slide-10.png"
+    ],
+    "caption": "A IA te recomendou uma ferramenta. Uma em cada quatro fontes que ela usou vem de um site que não está nem no primeiro milhão da internet. Foi o que a Trellner Research achou ao pedir o melhor software em 380 categorias e guardar as fontes: 7.534 citações, 59,8% de sites fora do topo, a Wikipedia apareceu 3 vezes.\n\nNo topo da lista, 3 sites com o mesmo template e o mesmo par de servidores de DNS, cada um com 6 posts de blog, publicaram 215.128 páginas de \"melhores tal software\". Dois deles até escrevem na home: \"Facts & Grounding Page\". A página foi feita pro robô, e ela confessa.\n\nPediram a mesma categoria pros 3. Voltaram 3 rankings diferentes. E o 3º colocado geral é o blog de marketing de uma empresa que vende demo de produto.\n\nA oportunidade existe, porque a busca não pesa reputação. Mas quem compete por volume perde pra quem gera volume mais barato. O que essas páginas não têm e você tem: dado primário. Número da sua operação, print do seu cliente, teste que você rodou.\n\nNo Claude Code na Prática eu ensino a transformar isso em conteúdo. Comenta CLAUDE e te mando o link.\n\n#claudecode #ia #automacao"
   }
 ]
