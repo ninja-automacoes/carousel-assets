@@ -3644,5 +3644,23 @@
     ],
     "caption": "Seu agente erra por sominha de defeitos pequenos, e trocar de modelo não resolve nenhum. O Cole Medin listou 11 correções de 1 minuto no vídeo mais visto do nicho esse mês, e eu escolhi as 7 que qualquer setup tem.\n\n1 em cada 4 repositórios com regras de IA tem regra defasada. /compact descarta uns 90% dos detalhes da conversa: quem escolhe o que sobrevive é o modelo, não você. O substituto é um handoff.md de 5 linhas, e sessão nova.\n\nMais dois ajustes: instrução que precisa acontecer sempre vira hook, e regra global acima de 200 linhas está te atrapalhando, recomendação oficial da Anthropic. Ah, e rode /usage: quase 40% do limite semanal pode estar indo pra subagentes que você nem pediu.\n\nNo Claude Code na Prática eu ensino a montar esse setup inteiro. Comenta CLAUDE e te mando o link.\n\nCrédito: Cole Medin, \"11 Tiny Coding Agent Fixes With A Stupid Amount Of Payoff\".\n\n#claudecode #ia #automacao",
     "media_id": "18023975435738632"
+  },
+  {
+    "date": "2026-09-10",
+    "time": "11:30",
+    "type": "story",
+    "product": "MENTORIA",
+    "title": "story-mentoria-levantada",
+    "dir": "workspace/2026-09-10/story-mentoria-levantada",
+    "status": "ready"
+  },
+  {
+    "date": "2026-09-15",
+    "time": "11:30",
+    "type": "story",
+    "product": "EXPRESS",
+    "title": "story-express-levantada",
+    "dir": "workspace/2026-09-15/story-express-levantada",
+    "status": "ready"
   }
 ]
