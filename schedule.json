@@ -3647,20 +3647,43 @@
   },
   {
     "date": "2026-09-10",
-    "time": "11:30",
-    "type": "story",
+    "time": "19:00",
+    "type": "carousel",
     "product": "MENTORIA",
-    "title": "story-mentoria-levantada",
-    "dir": "workspace/2026-09-10/story-mentoria-levantada",
-    "status": "ready"
+    "title": "voce-e-o-decide-do-agente",
+    "dir": "workspace/2026-09-10/voce-e-o-decide-do-agente",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-09.png"
+    ],
+    "caption": "Seu dia continua com 24 horas, mas agora ele roda com 3,1 dias de agente dentro. A OpenAI publicou os números internos da organização de pesquisa: o pesquisador mediano queima US$600 por dia de inferência, o percentil 90 passa de US$7.000.\n\nO detalhe que ninguém comentou: build, run e analyze viraram coisa de agente, mas mais da metade das tarefas de 4 a 8 horas ainda precisou de gente no meio. E o que quase não consome token é planejar e decidir.\n\nÉ aí que o operador solo trava: executa, decide, revisa e planeja sozinho, e cada erro de rota custa semanas. Decide bem quem escreve a especificação antes do prompt, e erra menos quem tem alguém com mais milagem revisando esse julgamento junto.\n\nNo acompanhamento mensal a gente calibra essa decisão semana a semana. Comenta MENTORIA e te chamo na DM.\n\nFonte: OpenAI, dados internos de uso de agentes em pesquisa (setembro de 2026).\n\n#claudecode #ia #automacao"
   },
   {
     "date": "2026-09-15",
-    "time": "11:30",
-    "type": "story",
+    "time": "19:00",
+    "type": "carousel",
     "product": "EXPRESS",
-    "title": "story-express-levantada",
-    "dir": "workspace/2026-09-15/story-express-levantada",
-    "status": "ready"
+    "title": "senhas-fora-do-contexto-do-agente",
+    "dir": "workspace/2026-09-15/senhas-fora-do-contexto-do-agente",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-08.png"
+    ],
+    "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao"
   }
 ]

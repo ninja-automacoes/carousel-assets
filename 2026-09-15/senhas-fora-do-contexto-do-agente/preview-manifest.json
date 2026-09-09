@@ -1,0 +1,14 @@
+{
+  "slides": {
+    "slide-01.png": "9117d87e492b21b88e770994a32884a3f5af7666853dbfe6f9b1609ec9160018",
+    "slide-02.png": "bb89b758b95763c7fbf9080d9795b148642d53aea512907c714c567dee027318",
+    "slide-03.png": "02b6e053c12e2e70c9593bc3702e23fd4c93bce1cf277b0f6d83284b9b233ab2",
+    "slide-04.png": "5ef9252d8db65bdb7230070cd716bf7cab0a4abc8e01c9b7f2c9daec8de3d2b2",
+    "slide-05.png": "ce9d4382f324cb13a923865f2c58660309f9fca6d475de7309ac41c89b241a0d",
+    "slide-06.png": "e5108928ca4d6e95df8b4177679774cabc6ed94b1a94d0b2cea8acf0baf5d2cf",
+    "slide-07.png": "e2e64fe0ab6d3446d2cea580007b0bb64171fe519e9ebd280a84d565cc00f7f2",
+    "slide-08.png": "01f528e170a2407cea0b111efaa12feb007bfcc13cf086a3f9b649774936e70b"
+  },
+  "preview": "preview.png",
+  "preview_sha256": "abfec5405f77d83365c0b535b0819272d6f3457070e876be2423d34640b01582"
+}

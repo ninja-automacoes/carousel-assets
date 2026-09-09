@@ -1,0 +1,7 @@
+{
+  "approval": "sim",
+  "artifact_sha256": "c1495ad7d168172a891d8d8cdb1548103cdac2e92da5dc9e9de9a25ed73756ba",
+  "approved_at": "2026-09-09T20:45:23.712866+00:00",
+  "scheduled_for": "2026-09-10T19:00:00-03:00",
+  "note": "Aprovação explícita recebida no chat. n8n fará a publicação no horário."
+}

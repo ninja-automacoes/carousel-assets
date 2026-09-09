@@ -1,0 +1,15 @@
+{
+  "slides": {
+    "slide-01.png": "f2f702c2fc535f40f633ff50466111f06d436cbcea28d77de36de9dd92a48273",
+    "slide-02.png": "43bd3d18a8cf012c7f023a6b5c90e55f861805abdb79f42faf6b9de0027f607e",
+    "slide-03.png": "47504faccdf6c8e844e43e55afb47ff976933a34a8b819c28caf8fdace4e6bb2",
+    "slide-04.png": "494cb405e10fb32266c7b9b4625192fadb96d06df62293db19bd075e819b1a9f",
+    "slide-05.png": "88a0d883e05ea45dcb22ac685515b5a243e494ddc1446cb6f733aeb8c9771c64",
+    "slide-06.png": "44026122fb5ad14bdcf32d7bd5a37518eb998ee40d303f4fc8068a6d6db29c8c",
+    "slide-07.png": "028deede7d01a1a3d05432a219c3a74ad95ff9560d9d89ca86025fe2f19346e1",
+    "slide-08.png": "3a881f3f2299106ff954f2caa266ef62d5c11c6e6a3b6b69901a6cdb03f16440",
+    "slide-09.png": "09d88fa53f277316312e63c9b1f3a1a19994dd3c168682f4cce850b7df90bd16"
+  },
+  "preview": "preview.png",
+  "preview_sha256": "3aa926493196b98f58d147e83bb705e7655d1fedf269b44252c2b13b0e023228"
+}

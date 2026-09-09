@@ -1,0 +1,11 @@
+Seu dia continua com 24 horas, mas agora ele roda com 3,1 dias de agente dentro. A OpenAI publicou os números internos da organização de pesquisa: o pesquisador mediano queima US$600 por dia de inferência, o percentil 90 passa de US$7.000.
+
+O detalhe que ninguém comentou: build, run e analyze viraram coisa de agente, mas mais da metade das tarefas de 4 a 8 horas ainda precisou de gente no meio. E o que quase não consome token é planejar e decidir.
+
+É aí que o operador solo trava: executa, decide, revisa e planeja sozinho, e cada erro de rota custa semanas. Decide bem quem escreve a especificação antes do prompt, e erra menos quem tem alguém com mais milagem revisando esse julgamento junto.
+
+No acompanhamento mensal a gente calibra essa decisão semana a semana. Comenta MENTORIA e te chamo na DM.
+
+Fonte: OpenAI, dados internos de uso de agentes em pesquisa (setembro de 2026).
+
+#claudecode #ia #automacao

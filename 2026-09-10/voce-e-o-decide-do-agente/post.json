@@ -1,0 +1,90 @@
+{
+ "slug": "voce-e-o-decide-do-agente",
+ "date": "2026-09-10",
+ "level": 1,
+ "slides": [
+  {
+   "type": "hero",
+   "title": "ninja@claude ~ quest",
+   "img": "ref/hero.png",
+   "ascii": ["3.1x", "WORKDAY_"],
+   "dialog": {
+    "name": "PAUTA DO DIA",
+    "text": "A OpenAI publicou os números internos: cada dia de trabalho humano já roda com <strong>3,1 dias de agente</strong>. O detalhe que ninguém comentou é o que sobra pra você."
+   }
+  },
+  {
+   "type": "slide",
+   "title": "quest 2/9 - os três números",
+   "sprite": "cafe",
+   "blocks": [
+    {"out": "Dado interno da organização de pesquisa deles, não promessa de landing page. O pesquisador mediano queima <strong>US$600 por dia</strong> de inferência. O percentil 90 passa de <strong>US$7.000</strong>."},
+    {"out": "Ou seja: até quem paga caro não está perto do teto. E a métrica que importa não é token nem preço, é quantos dias de agente cabem dentro de um dia seu."}
+   ]
+  },
+  {
+   "type": "slide",
+   "title": "quest 3/9 - o que o agente faz",
+   "sprite": "apontando",
+   "blocks": [
+    {"out": "Build, run, analyze. Execução virou coisa de agente. Mas mais da metade das tarefas de 4 a 8 horas ainda precisou de gente no meio do caminho."},
+    {"out": "E o que quase não aparece nos tokens? <strong>Planejar e decidir</strong>. O agente roda o dia inteiro, mas quem diz o que vale fazer continua sendo você."}
+   ]
+  },
+  {
+   "type": "diff",
+   "title": "quest 4/9 - onde o solo trava",
+   "blocks": [
+    {"diff": [
+      ["-", "Operador solo: executa, decide, revisa e planeja sozinho. Cada erro de rota custa semanas"],
+      ["+", "Operador com acompanhamento: o erro de 2 meses vira conversa de 30 minutos"]
+    ]}
+   ]
+  },
+  {
+   "type": "scene",
+   "title": "quest 5/9 - o julgamento não automatiza",
+   "img": "ref/scene-decide.png",
+   "caption": "O agente entrega em minutos o que levava um dia. A decisão de qual entrega importa continua lenta, humana e sua."
+  },
+  {
+   "type": "slide",
+   "title": "quest 6/9 - decide bem quem escreve antes",
+   "blocks": [
+    {"out": "Decidir bem não é dom, é documento. A especificação escrita antes do prompt define 80% do resultado. Quem tem alguém revisando esse documento com ele erra menos e mais rápido."},
+    {"out": "É por isso que acompanhamento funciona: não é alguém rodando agente por você, é alguém calibrando o seu julgamento em tempo real."}
+   ]
+  },
+  {
+   "type": "hero",
+   "title": "quest 7/9 - level up",
+   "img": "ref/scene-levelup.png",
+   "obj_pos": "72% 100%",
+   "dialog": {
+    "name": "★ LEVEL UP! ★",
+    "text": "Você para de competir com o agente em velocidade de digitação e volta a trabalhar no que só você faz: decidir a direção. O resto escala sozinho.",
+    "arrow": false
+   }
+  },
+  {
+   "type": "slide",
+   "title": "quest 8/9 - checklist",
+   "blocks": [
+    {"out": "Antes de abrir a sessão de amanhã:"},
+    {"qlog": [
+      ["done", "escreva em 5 linhas qual resultado o agente precisa entregar hoje"],
+      ["done", "marque qual parte é decisão sua e qual é execução dele"],
+      ["cur", "leve a decisão mais difícil pra alguém com mais milagem revisar"]
+    ]}
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "quest 9/9 - escolha",
+   "sprite": "baixo",
+   "cmd": "claude unlock mentoria",
+   "question": "No acompanhamento mensal a gente calibra esse julgamento junto, semana a semana. Quer entrar?",
+   "keyword": "MENTORIA"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "senhas-fora-do-contexto-do-agente",
+ "date": "2026-09-15",
+ "level": 1,
+ "slides": [
+  {
+   "type": "hero",
+   "title": "ninja@claude ~ quest",
+   "img": "ref/hero.png",
+   "ascii": ["1PASS", "AGENT OK"],
+   "dialog": {
+    "name": "PAUTA DO DIA",
+    "text": "A empresa que guarda as senhas de <strong>100 mil times</strong> soltou agente de código em produção e ganhou <strong>21% de produtividade</strong>. O jeito que ela fez é a aula."
+   }
+  },
+  {
+   "type": "slide",
+   "title": "quest 2/8 - o que rolou",
+   "sprite": "cafe",
+   "blocks": [
+    {"out": "A 1Password publicou o case deles com o Codex. Três frentes: features inteiras one-shot, um agente de SRE cuidando de infra, e ferramenta interna de gastos."},
+    {"out": "A objeção que todo mundo levanta quando fala de agente em produção é a mesma: e a segurança? O case responde com arquitetura, não com promessa."}
+   ]
+  },
+  {
+   "type": "diff",
+   "title": "quest 3/8 - a regra de ouro",
+   "blocks": [
+    {"diff": [
+      ["-", "Chave de API colada no contexto do agente: ele lê tudo, vaza tudo"],
+      ["+", "Secret reference: o agente pede, o cofre entrega no momento do uso"]
+    ]}
+   ]
+  },
+  {
+   "type": "slide",
+   "title": "quest 4/8 - o paralelo no seu stack",
+   "sprite": "apontando",
+   "blocks": [
+    {"out": "O princípio traduz direto pro seu setup: <strong>cada agente com a menor permissão que precisa</strong>. O que lê banco não precisa publicar. O que roda teste não precisa de chave de pagamento."},
+    {"out": "O segredo que o agente não vê é o segredo que ele não vaza. Isso vale pra API de e-mail, pro gateway de pagamento e pro token do WhatsApp."}
+   ]
+  },
+  {
+   "type": "scene",
+   "title": "quest 5/8 - diagnóstico de uma tarde",
+   "img": "ref/scene-auditoria.png",
+   "caption": "Mapa de permissões na mesa: uma sessão focada mapeia quem pode acessar o quê e corta o excesso antes que vire incidente."
+  },
+  {
+   "type": "slide",
+   "title": "quest 6/8 - o outro lado do mercado",
+   "blocks": [
+    {"out": "No mesmo período a OpenAI lançou Managed Agents no DevDay: agente gerenciado por eles. O case da 1Password mostra o caminho oposto: harness próprio, permissão sob seu controle."},
+    {"stats": [
+      ["21%", "de produtividade com agente em produção"],
+      ["100k", "de times dependem do cofre dessa empresa"],
+      ["1", "regra: credencial fora do contexto do modelo"]
+    ]}
+   ]
+  },
+  {
+   "type": "hero",
+   "title": "quest 7/8 - level up",
+   "img": "ref/scene-levelup.png",
+   "obj_pos": "72% 100%",
+   "dialog": {
+    "name": "★ LEVEL UP! ★",
+    "text": "Auditoria fechada: cada agente com escopo mínimo, segredos no cofre, e um checklist de permissão que vira padrão do seu setup.",
+    "arrow": false
+   }
+  },
+  {
+   "type": "cta",
+   "title": "quest 8/8 - escolha",
+   "sprite": "baixo",
+   "cmd": "claude unlock auditoria",
+   "question": "Uma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Quer isso?",
+   "keyword": "EXPRESS"
+  }
+ ]
+}
