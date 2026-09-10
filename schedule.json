@@ -3685,5 +3685,27 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-08.png"
     ],
     "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao"
+  },
+  {
+    "date": "2026-09-10",
+    "time": "14:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "78-porcento-param-de-ler",
+    "dir": "workspace/2026-09-10/78-porcento-param-de-ler",
+    "status": "ready",
+    "slide_urls": [
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-01.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-02.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-03.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-04.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-05.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-06.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-07.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-08.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-09.png",
+      "/opt/data/profiles/krossel/carousel-assets/2026-09-10/78-porcento-param-de-ler/slide-10.png"
+    ],
+    "caption": "78% dos devs param de ler no meio da frase quando percebem que foi IA que escreveu. E 71% nunca mais leem nada seu. É um survey com 668 devs, publicado junto do texto \"The revolt of the reader\" do Bryan Cantrill, que viralizou na semana passada.\n\nA parte que pouca gente conecta: nos anos 2000, o e-mail não morreu de tanta mensagem. Ele mudou de economia quando o filtro de spam chegou. Ser marcado como texto de IA vai funcionar igual, e a moeda é a sua audiência.\n\nA saída não é largar a IA. O fluxo que eu uso todo dia: o agente pesquisa, critica e revisa, e a frase final sai da minha mão. Prompt vira esqueleto, eu escrevo em cima.\n\nSe você posta conteúdo com ajuda de IA e quer o mesmo fluxo, comenta CLAUDE e te mando o link.\n\nFonte: Bryan Cantrill, \"The revolt of the reader\" (setembro de 2026) + survey com 668 devs.\n\n#claudecode #ia #conteudo\n"
   }
 ]
