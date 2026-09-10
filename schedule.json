@@ -3693,7 +3693,7 @@
     "product": "CLAUDE",
     "title": "78-porcento-param-de-ler",
     "dir": "workspace/2026-09-10/78-porcento-param-de-ler",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/78-porcento-param-de-ler/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/78-porcento-param-de-ler/slide-02.png",
@@ -3706,6 +3706,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/78-porcento-param-de-ler/slide-09.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/78-porcento-param-de-ler/slide-10.png"
     ],
-    "caption": "78% dos devs param de ler no meio da frase quando percebem que foi IA que escreveu. E 71% nunca mais leem nada seu. É um survey com 668 devs, publicado junto do texto \"The revolt of the reader\" do Bryan Cantrill, que viralizou na semana passada.\n\nA parte que pouca gente conecta: nos anos 2000, o e-mail não morreu de tanta mensagem. Ele mudou de economia quando o filtro de spam chegou. Ser marcado como texto de IA vai funcionar igual, e a moeda é a sua audiência.\n\nA saída não é largar a IA. O fluxo que eu uso todo dia: o agente pesquisa, critica e revisa, e a frase final sai da minha mão. Prompt vira esqueleto, eu escrevo em cima.\n\nSe você posta conteúdo com ajuda de IA e quer o mesmo fluxo, comenta CLAUDE e te mando o link.\n\nFonte: Bryan Cantrill, \"The revolt of the reader\" (setembro de 2026) + survey com 668 devs.\n\n#claudecode #ia #conteudo\n"
+    "caption": "78% dos devs param de ler no meio da frase quando percebem que foi IA que escreveu. E 71% nunca mais leem nada seu. É um survey com 668 devs, publicado junto do texto \"The revolt of the reader\" do Bryan Cantrill, que viralizou na semana passada.\n\nA parte que pouca gente conecta: nos anos 2000, o e-mail não morreu de tanta mensagem. Ele mudou de economia quando o filtro de spam chegou. Ser marcado como texto de IA vai funcionar igual, e a moeda é a sua audiência.\n\nA saída não é largar a IA. O fluxo que eu uso todo dia: o agente pesquisa, critica e revisa, e a frase final sai da minha mão. Prompt vira esqueleto, eu escrevo em cima.\n\nSe você posta conteúdo com ajuda de IA e quer o mesmo fluxo, comenta CLAUDE e te mando o link.\n\nFonte: Bryan Cantrill, \"The revolt of the reader\" (setembro de 2026) + survey com 668 devs.\n\n#claudecode #ia #conteudo\n",
+    "media_id": "18105918482242009"
   }
 ]
