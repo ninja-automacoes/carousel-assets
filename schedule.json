@@ -3647,48 +3647,6 @@
   },
   {
     "date": "2026-09-10",
-    "time": "19:00",
-    "type": "carousel",
-    "product": "MENTORIA",
-    "title": "voce-e-o-decide-do-agente",
-    "dir": "workspace/2026-09-10/voce-e-o-decide-do-agente",
-    "status": "published",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-07.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-08.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-09.png"
-    ],
-    "caption": "Seu dia continua com 24 horas, mas agora ele roda com 3,1 dias de agente dentro. A OpenAI publicou os números internos da organização de pesquisa: o pesquisador mediano queima US$600 por dia de inferência, o percentil 90 passa de US$7.000.\n\nO detalhe que ninguém comentou: build, run e analyze viraram coisa de agente, mas mais da metade das tarefas de 4 a 8 horas ainda precisou de gente no meio. E o que quase não consome token é planejar e decidir.\n\nÉ aí que o operador solo trava: executa, decide, revisa e planeja sozinho, e cada erro de rota custa semanas. Decide bem quem escreve a especificação antes do prompt, e erra menos quem tem alguém com mais milagem revisando esse julgamento junto.\n\nNo acompanhamento mensal a gente calibra essa decisão semana a semana. Comenta MENTORIA e te chamo na DM.\n\nFonte: OpenAI, dados internos de uso de agentes em pesquisa (setembro de 2026).\n\n#claudecode #ia #automacao",
-    "media_id": "17970525035990901"
-  },
-  {
-    "date": "2026-09-15",
-    "time": "19:00",
-    "type": "carousel",
-    "product": "EXPRESS",
-    "title": "senhas-fora-do-contexto-do-agente",
-    "dir": "workspace/2026-09-15/senhas-fora-do-contexto-do-agente",
-    "status": "ready",
-    "slide_urls": [
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-01.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-02.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-03.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-04.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-05.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-06.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-07.png",
-      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-08.png"
-    ],
-    "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao"
-  },
-  {
-    "date": "2026-09-10",
     "time": "11:45",
     "type": "carousel",
     "product": "CLAUDE",
@@ -3709,5 +3667,68 @@
     ],
     "caption": "78% dos devs param de ler no meio da frase quando percebem que foi IA que escreveu. E 71% nunca mais leem nada seu. É um survey com 668 devs, publicado junto do texto \"The revolt of the reader\" do Bryan Cantrill, que viralizou na semana passada.\n\nA parte que pouca gente conecta: nos anos 2000, o e-mail não morreu de tanta mensagem. Ele mudou de economia quando o filtro de spam chegou. Ser marcado como texto de IA vai funcionar igual, e a moeda é a sua audiência.\n\nA saída não é largar a IA. O fluxo que eu uso todo dia: o agente pesquisa, critica e revisa, e a frase final sai da minha mão. Prompt vira esqueleto, eu escrevo em cima.\n\nSe você posta conteúdo com ajuda de IA e quer o mesmo fluxo, comenta CLAUDE e te mando o link.\n\nFonte: Bryan Cantrill, \"The revolt of the reader\" (setembro de 2026) + survey com 668 devs.\n\n#claudecode #ia #conteudo\n",
     "media_id": "18105918482242009"
+  },
+  {
+    "date": "2026-09-10",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "MENTORIA",
+    "title": "voce-e-o-decide-do-agente",
+    "dir": "workspace/2026-09-10/voce-e-o-decide-do-agente",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-10/voce-e-o-decide-do-agente/slide-09.png"
+    ],
+    "caption": "Seu dia continua com 24 horas, mas agora ele roda com 3,1 dias de agente dentro. A OpenAI publicou os números internos da organização de pesquisa: o pesquisador mediano queima US$600 por dia de inferência, o percentil 90 passa de US$7.000.\n\nO detalhe que ninguém comentou: build, run e analyze viraram coisa de agente, mas mais da metade das tarefas de 4 a 8 horas ainda precisou de gente no meio. E o que quase não consome token é planejar e decidir.\n\nÉ aí que o operador solo trava: executa, decide, revisa e planeja sozinho, e cada erro de rota custa semanas. Decide bem quem escreve a especificação antes do prompt, e erra menos quem tem alguém com mais milagem revisando esse julgamento junto.\n\nNo acompanhamento mensal a gente calibra essa decisão semana a semana. Comenta MENTORIA e te chamo na DM.\n\nFonte: OpenAI, dados internos de uso de agentes em pesquisa (setembro de 2026).\n\n#claudecode #ia #automacao"
+  },
+  {
+    "date": "2026-09-11",
+    "time": "09:00",
+    "type": "carousel",
+    "product": "CLAUDE",
+    "title": "agente-enterra-a-resposta",
+    "dir": "workspace/2026-09-11/agente-enterra-a-resposta",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-08.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-09.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-11/agente-enterra-a-resposta/slide-10.png"
+    ],
+    "caption": "Uma skill de 10 frases passou de 25 mil estrelas no GitHub em uma semana e apareceu na front page do Hacker News na terça. O nome é i-have-adhd e o autor é o ayghri. O que ela faz: impede o agente de enterrar a resposta no meio de um ensaio.\nVocê conhece a cena. Pergunta qual arquivo mudar, ele devolve seis parágrafos de contexto, dois \"ótima pergunta\" e uma analogia com mudança de casa. A resposta era meia linha.\nAs regras são simples: ação primeiro, passos numerados, estimativa em minutos, lista curta e zero linha final de cortesia. São 62 tokens na sessão, texto puro, sem treinar nada. Só muda a ordem que o modelo entrega.\nA skill é open source e você pode instalar direto pelo marketplace do Claude Code. E se quiser montar o seu próprio .claude/CLAUDE.md com regras desse tipo, comenta CLAUDE e te mando o link.\nFonte: repo ayghri/i-have-adhd (github.com/ayghri/i-have-adhd, MIT) via Hacker News, 2026-09-09.\n#claudecode #ia #agentesai"
+  },
+  {
+    "date": "2026-09-15",
+    "time": "19:00",
+    "type": "carousel",
+    "product": "EXPRESS",
+    "title": "senhas-fora-do-contexto-do-agente",
+    "dir": "workspace/2026-09-15/senhas-fora-do-contexto-do-agente",
+    "status": "ready",
+    "slide_urls": [
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-01.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-02.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-03.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-04.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-05.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-06.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-07.png",
+      "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-08.png"
+    ],
+    "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao"
   }
 ]
