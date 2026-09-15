@@ -3718,7 +3718,7 @@
     "product": "EXPRESS",
     "title": "senhas-fora-do-contexto-do-agente",
     "dir": "workspace/2026-09-15/senhas-fora-do-contexto-do-agente",
-    "status": "ready",
+    "status": "published",
     "slide_urls": [
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-01.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-02.png",
@@ -3729,6 +3729,7 @@
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-07.png",
       "https://raw.githubusercontent.com/ninja-automacoes/carousel-assets/main/2026-09-15/senhas-fora-do-contexto-do-agente/slide-08.png"
     ],
-    "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao"
+    "caption": "A empresa que guarda as senhas de 100 mil times soltou agente de código em produção e ganhou 21% de produtividade. A 1Password publicou o case com o Codex: features one-shot, agente de SRE e ferramenta interna de gastos.\n\nA objeção de sempre apareceu: e a segurança? A resposta deles foi arquitetura. Secret reference em vez de chave colada no contexto: o agente pede, o cofre entrega no momento do uso. O segredo que o agente não vê é o segredo que ele não vaza.\n\nNo seu setup o princípio é o mesmo: cada agente com a menor permissão que precisa. O que lê banco não publica, o que roda teste não chega perto do token de pagamento. E olha o contraponto do mercado: a OpenAI lançou Managed Agents no DevDay, agente gerenciado por eles. O case da 1Password é o caminho oposto, harness próprio com permissão sob seu controle.\n\nUma sessão focada mapeia as permissões do seu setup e te deixa com o plano de corte na mão. Comenta EXPRESS e te chamo na DM.\n\nFonte: OpenAI News, case 1Password + Codex (setembro de 2026).\n\n#claudecode #ia #automacao",
+    "media_id": "17942370858343318"
   }
 ]
